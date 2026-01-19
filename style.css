@@ -129,68 +129,6 @@ img {
 .section-header {
     text-align: center;
     margin-bottom: 4rem;
-    position: relative;
-    padding-top: 2.5rem;
-}
-
-/* Animations for Icons */
-.industrial-icon {
-    font-size: 2.5rem;
-    color: var(--first-color);
-    position: absolute;
-    top: -5px;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 1;
-}
-
-/* Truck Animation */
-.truck-animation {
-    animation: driveTruck 4s cubic-bezier(0.45, 0, 0.55, 1) infinite;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5));
-}
-
-@keyframes driveTruck {
-    0% {
-        transform: translateX(-150%) scaleX(1);
-        opacity: 0;
-    }
-
-    10% {
-        opacity: 1;
-    }
-
-    40% {
-        transform: translateX(-50%) scaleX(1);
-    }
-
-    60% {
-        transform: translateX(-50%) scaleX(1);
-    }
-
-    90% {
-        opacity: 1;
-    }
-
-    100% {
-        transform: translateX(100%) scaleX(1);
-        opacity: 0;
-    }
-}
-
-/* Gear Animation */
-.gear-animation {
-    animation: rotateGear 10s linear infinite;
-}
-
-@keyframes rotateGear {
-    from {
-        transform: translateX(-50%) rotate(0deg);
-    }
-
-    to {
-        transform: translateX(-50%) rotate(360deg);
-    }
 }
 
 .section-title {
