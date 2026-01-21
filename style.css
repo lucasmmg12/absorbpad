@@ -800,9 +800,10 @@ img {
 
 /* Partners Slider */
 .partners {
-    padding: 3rem 0;
-    background: #0a0a0a;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 2rem 0;
+    background: #f8fafc;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
     overflow: hidden;
 }
 
@@ -815,17 +816,18 @@ img {
 }
 
 .partner-logo {
-    height: 35px;
+    height: 40px;
     width: auto;
     object-fit: contain;
-    filter: grayscale(1) brightness(0.5);
-    transition: 0.3s;
-    opacity: 0.5;
+    filter: grayscale(1);
+    transition: 0.3s ease;
+    opacity: 0.6;
 }
 
 .partner-logo:hover {
-    filter: grayscale(0) brightness(1);
+    filter: grayscale(0);
     opacity: 1;
+    transform: scale(1.1);
 }
 
 @keyframes scroll {
@@ -837,6 +839,61 @@ img {
         transform: translateX(-50%);
     }
 }
+
+/* Dedicated Clients Grid */
+.clients-grid {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.client-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem;
+    background: var(--white-color);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    transition: .3s;
+}
+
+.client-item img {
+    height: 60px;
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(1);
+    transition: .3s;
+}
+
+.client-item span {
+    font-size: var(--small-font-size);
+    font-weight: var(--font-bold);
+    color: var(--first-color);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.client-item:hover {
+    border-color: var(--first-color);
+    box-shadow: 0 10px 25px rgba(46, 139, 152, 0.1);
+}
+
+.client-item:hover img {
+    filter: grayscale(0);
+}
+
+/* Solutions Specific */
+.solutions .service-card {
+    border-left: 4px solid var(--first-color);
+}
+
+.solutions .about-item small {
+    color: var(--text-color-light);
+    font-style: italic;
+}
+
 
 /* Chatbot Badge */
 .notification-badge {
