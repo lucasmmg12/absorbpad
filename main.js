@@ -91,9 +91,9 @@ chatbotToggle.addEventListener('click', () => {
 });
 
 const responses = {
-    'Minería': "Entendido. Para el sector minero en San Juan, nos especializamos en soporte para operaciones de altura. Ofrecemos mantenimiento de plantas y protocolos de seguridad EHS específicos para yacimientos como Veladero.\n\n¿Desea que un consultor técnico dimensione su proyecto?",
-    'Petróleo': "Excelente. En Petróleo & Gas, Absorb Pad gestiona logística crítica y mantenimiento de infraestructuras. Cumplimos con normativas internacionales de integridad para optimizar la cadena de valor.\n\n¿Necesita un presupuesto para servicios de campo?",
-    'Salud': "La salud ocupacional es vital. Diseñamos puestos sanitarios modulares y servicios de soporte médico para campamentos industriales remotos con los más altos estándares provinciales.\n\n¿Le gustaría ver nuestro dossier de capacidades en salud?"
+    'Absorbentes': "Nuestra línea de paños y rollos ABP utiliza tecnología Meltblown de alta densidad. Son hidrofóbicos y oleofílicos, permitiendo recuperar el 100% del fluido absorbido.\n\n¿Desea conocer la capacidad de absorción por m2?",
+    'Kits': "Los Kits Antiderrame Absorb Pad están diseñados para respuesta inmediata. Incluyen barreras, paños y elementos de protección personal (EPP) según normativas de seguridad minera.\n\n¿Busca kits de 120L, 240L o personalizados?",
+    'Técnico': "Contamos con certificaciones ASTM F726 que avalan nuestro rendimiento. Podemos enviarle las fichas técnicas completas y protocolos de disposición final de residuos.\n\n¿A qué correo prefiere que enviemos la documentación?"
 };
 
 function addMessage(text, isBot = false) {
