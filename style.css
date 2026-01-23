@@ -291,7 +291,8 @@ img {
 }
 
 .logo-img {
-    height: 45px;
+    height: 60px;
+    /* Increased from 45px */
     width: auto;
 }
 
@@ -303,7 +304,8 @@ img {
 .logo-text {
     font-family: var(--title-font);
     font-weight: var(--font-black);
-    font-size: 1.5rem;
+    font-size: 2rem;
+    /* Increased from 1.5rem */
     color: var(--first-color);
     /* Updated to Teal for ABSORB */
     line-height: 1;
@@ -316,7 +318,8 @@ img {
 }
 
 .logo-subtext {
-    font-size: 0.7rem;
+    font-size: 0.85rem;
+    /* Increased from 0.7rem */
     color: var(--first-color);
     font-weight: var(--font-bold);
     letter-spacing: 4px;
