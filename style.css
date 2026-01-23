@@ -15,8 +15,8 @@
     --container-color: #F9F9F9;
     --border-color: #E2E8F0;
 
-    /* Typography */
-    --body-font: 'Inter', sans-serif;
+    /* Typography - Switching to Montserrat (Close to Avenir style) */
+    --body-font: 'Montserrat', sans-serif;
     --title-font: 'Montserrat', sans-serif;
 
     --biggest-font-size: 2.25rem;
@@ -144,6 +144,32 @@ img {
     height: 4px;
     background-color: var(--first-color);
     margin: 0 auto var(--mb-1-5);
+}
+
+/* Yellow Geometric Accents like in PDF */
+.section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 10px;
+    background: var(--second-color);
+    clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
+    opacity: 0.8;
+}
+
+.section.bg-dark::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 200px;
+    height: 40px;
+    background: var(--second-color);
+    clip-path: polygon(0% 0%, 80% 0%, 100% 100%, 0% 100%);
+    opacity: 0.2;
+    z-index: 1;
 }
 
 .section-subtitle {
@@ -476,16 +502,24 @@ img {
     font-size: var(--biggest-font-size);
     font-weight: var(--font-black);
     margin-bottom: var(--mb-2);
-    line-height: 1;
-    color: var(--title-color);
+    line-height: 1.1;
+    color: #FFFFFF;
     text-transform: uppercase;
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.9);
+}
+
+.hero-title .highlight {
+    color: var(--second-color);
+    /* Warn Yellow from logo */
 }
 
 .hero-description {
     font-size: var(--h3-font-size);
     margin-bottom: var(--mb-2-5);
-    color: var(--text-color);
+    color: #FFFFFF;
     max-width: 600px;
+    font-weight: var(--font-medium);
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.9);
 }
 
 .hero-btns {
@@ -503,6 +537,7 @@ img {
     z-index: 10;
     padding: 2rem 0;
     text-align: right;
+    color: #FFFFFF;
 }
 
 @media screen and (max-width: 767px) {
