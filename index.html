@@ -566,23 +566,33 @@
                         </ul>
                     </div>
 
-                    <form class="contact-form glassmorphism-card">
+                    <form action="https://formsubmit.co/mario.ortiz@absorbpad.com" method="POST"
+                        class="contact-form glassmorphism-card">
+                        <!-- FormSubmit Configuration -->
+                        <input type="hidden" name="_subject" value="Nueva Solicitud de Presupuesto - Web AbsorbPad">
+                        <input type="hidden" name="_next" value="https://absorbpad.com/gracias.html">
+                        <!-- Optional: Redirect to a thank you page or back to home -->
+                        <input type="hidden" name="_captcha" value="false">
+
                         <div class="form-group">
                             <label class="form-label">Nombre Completo</label>
-                            <input type="text" class="form-input" placeholder="Ej: Ing. Alberto Fernández">
+                            <input type="text" name="name" class="form-input" placeholder="Ej: Ing. Alberto Fernández"
+                                required>
                         </div>
                         <div class="form-group">
                             <label class="form-label">Empresa / Sector</label>
-                            <input type="text" class="form-input" placeholder="Ej: Minera Veladero / Seguridad">
+                            <input type="text" name="company" class="form-input"
+                                placeholder="Ej: Minera Veladero / Seguridad" required>
                         </div>
                         <div class="form-group">
                             <label class="form-label">Correo Corporativo</label>
-                            <input type="email" class="form-input" placeholder="contacto@empresa.com">
+                            <input type="email" name="email" class="form-input" placeholder="contacto@empresa.com"
+                                required>
                         </div>
                         <div class="form-group">
                             <label class="form-label">Descripción del Desafío</label>
-                            <textarea class="form-textarea"
-                                placeholder="¿En qué área necesita control de derrames?"></textarea>
+                            <textarea name="message" class="form-textarea"
+                                placeholder="¿En qué área necesita control de derrames?" required></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary" style="width: 100%;">Solicitar
                             Presupuesto</button>
@@ -624,7 +634,8 @@
                 <ul class="footer-info">
                     <li class="footer-info-item"><ion-icon name="location-outline"></ion-icon> San Luis 657 (E), San
                         Juan, AR</li>
-                    <li class="footer-info-item"><ion-icon name="mail-outline"></ion-icon> info@absorbpad.com</li>
+                    <li class="footer-info-item"><ion-icon name="mail-outline"></ion-icon> mario.ortiz@absorbpad.com
+                    </li>
                     <li class="footer-info-item"><ion-icon name="call-outline"></ion-icon> +54 9 2644 11-5967</li>
                 </ul>
             </div>

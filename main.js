@@ -86,8 +86,7 @@ const sendBtn = document.getElementById('send-btn');
 const typingIndicator = document.getElementById('typing-indicator');
 
 chatbotToggle.addEventListener('click', () => {
-    chatWindow.classList.toggle('show');
-    document.querySelector('.notification-badge').style.display = 'none';
+    window.open('https://api.whatsapp.com/send/?phone=5492644115967&text&type=phone_number&app_absent=0', '_blank');
 });
 
 const responses = {
