@@ -246,13 +246,15 @@ img {
 
 .btn-outline {
     background-color: transparent;
-    color: var(--first-color);
-    border: 1px solid var(--first-color);
+    color: #FFF;
+    border: 2px solid var(--second-color);
+    /* Yellow border */
 }
 
 .btn-outline:hover {
-    background-color: var(--first-color);
-    color: #FFF;
+    background-color: var(--second-color);
+    color: var(--title-color);
+    /* Black text on hover for contrast */
 }
 
 /* Header & Nav */
@@ -394,16 +396,22 @@ img {
 }
 
 .contact-btn {
-    background-color: var(--first-color);
-    color: var(--body-color);
+    background-color: var(--second-color);
+    /* Yellow background */
+    color: var(--title-color);
+    /* Black text for readability on yellow */
     padding: 0.8rem 1.5rem;
     border-radius: 4px;
     transition: .3s;
+    font-weight: var(--font-bold);
 }
 
 .contact-btn:hover {
-    background-color: var(--first-color-alt);
-    color: var(--body-color);
+    background-color: #e6c200;
+    /* Darker yellow for hover */
+    color: var(--title-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(249, 212, 35, 0.3);
 }
 
 .nav-close {
