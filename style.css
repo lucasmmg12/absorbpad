@@ -370,7 +370,8 @@ img {
 }
 
 .nav-link {
-    color: var(--title-color);
+    color: var(--first-color);
+    /* Updated to Teal to match 'Inicio' */
     font-family: var(--title-font);
     font-weight: var(--font-bold);
     text-transform: uppercase;
