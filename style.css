@@ -302,8 +302,15 @@ img {
     font-family: var(--title-font);
     font-weight: var(--font-black);
     font-size: 1.5rem;
-    color: var(--title-color);
+    color: var(--first-color);
+    /* Updated to Teal for ABSORB */
     line-height: 1;
+}
+
+/* Target the span.highlight inside logo-text specifically */
+.logo-text .highlight {
+    color: var(--second-color);
+    /* Updated to Yellow for PAD */
 }
 
 .logo-subtext {
