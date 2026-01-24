@@ -1393,3 +1393,15 @@ img {
         justify-content: center;
     }
 }
+
+/* Consulting Section Wrapper */
+.consulting-wrapper {
+    grid-template-columns: 1fr;
+}
+
+@media screen and (min-width: 968px) {
+    .consulting-wrapper {
+        grid-template-columns: 1fr 1.5fr;
+        padding: 4rem !important;
+    }
+}
