@@ -903,6 +903,137 @@ img {
     font-style: italic;
 }
 
+/* Industrial Card Classes (Replacing Inline Styles) */
+.card-image-content {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 300px;
+}
+
+.card-overlay-dark {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8));
+}
+
+.card-image-content .service-title {
+    color: #FFF;
+    font-size: 1.5rem;
+}
+
+.card-image-content .service-text {
+    color: #E2E8F0;
+    font-size: 1.1rem;
+}
+
+.card-image-content .service-link {
+    color: var(--second-color);
+    font-size: 1rem;
+}
+
+/* Solution Cards with Masking */
+.solution-card {
+    position: relative;
+    background-color: #1a1a1a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 250px;
+    overflow: hidden;
+}
+
+.solution-card-mask {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 55%;
+    background-size: contain;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-mask-image: linear-gradient(to right, transparent, black 30%);
+    mask-image: linear-gradient(to right, transparent, black 30%);
+    z-index: 0;
+}
+
+.solution-card-content {
+    position: relative;
+    z-index: 1;
+    max-width: 60%;
+    padding-right: 1rem;
+}
+
+.solution-card .service-title {
+    color: #FFF;
+    font-size: 1.5rem;
+}
+
+.solution-card .service-text {
+    color: #ccc;
+    font-size: 1.1rem;
+}
+
+.solution-card .service-link {
+    color: var(--second-color);
+    font-size: 1rem;
+}
+
+/* Consulting Section Refinement */
+.consulting-card-main {
+    display: grid;
+    gap: 3rem;
+    align-items: center;
+    padding: 3rem;
+}
+
+.consulting-info h3 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.consulting-info p {
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+.matrix-container {
+    background: var(--container-color);
+    border-radius: 12px;
+    padding: 2rem;
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow);
+}
+
+.matrix-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.matrix-bar {
+    height: 8px;
+    background: var(--border-color);
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.matrix-progress {
+    height: 100%;
+    border-radius: 4px;
+}
+
+.matrix-footer {
+    font-size: 0.8rem;
+    margin-top: 1.5rem;
+    color: var(--text-color-light);
+    text-align: center;
+}
+
 /* Product Detail Page Styles */
 .product-detail {
     padding-top: 10rem;
@@ -1026,11 +1157,74 @@ img {
 }
 
 /* Responsive Grid Adjustments */
-@media screen and (min-width: 1024px) {
-    .about-container {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 5rem;
-    }
+/* Product Page Utilities */
+.product-tag-container {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.product-line {
+    margin: 0 0 2rem 0;
+    width: 60px;
+    height: 4px;
+    background-color: var(--first-color);
+}
+
+.product-benefits-list {
+    margin-bottom: 2rem;
+}
+
+.product-benefits-list li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.product-benefits-list li ion-icon {
+    font-size: 1.25rem;
+    color: var(--first-color);
+}
+
+.product-disclaimer {
+    font-size: 0.8rem;
+    color: var(--text-color-light);
+    margin-bottom: 1rem;
+}
+
+.product-highlight-box {
+    padding: 1.5rem;
+    border-left: 4px solid var(--second-color);
+    background: #FFF;
+    border-top: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+.product-highlight-box h4 {
+    margin-bottom: 0.5rem;
+    color: var(--first-color);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.product-highlight-box p {
+    font-size: 0.9rem;
+}
+
+.cta-actions {
+    margin-top: 3rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.grid-usage {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 @media screen and (max-width: 320px) {
