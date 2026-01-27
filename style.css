@@ -257,64 +257,7 @@ img {
     /* Black text on hover for contrast */
 }
 
-/* UI Components - Top Bar & Social Sidebar */
-.top-bar {
-    background-color: var(--first-color);
-    color: #FFF;
-    padding: 0.5rem 0;
-    font-size: var(--smaller-font-size);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: var(--z-fixed);
-    display: none;
-    /* Only desktop for cleanliness */
-}
-
-@media screen and (min-width: 968px) {
-    .top-bar {
-        display: block;
-    }
-
-    .header {
-        top: 2rem;
-        /* Adjusted for top bar height */
-    }
-}
-
-.top-bar-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.top-bar-info {
-    display: flex;
-    gap: 1.5rem;
-}
-
-.top-bar-item {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.top-bar-social {
-    display: flex;
-    gap: 1rem;
-}
-
-.top-bar-social-link {
-    color: #FFF;
-    font-size: 1rem;
-    transition: 0.3s;
-}
-
-.top-bar-social-link:hover {
-    color: var(--second-color);
-}
-
+/* UI Components - Social Sidebar */
 /* Floating Sidebar */
 .floating-social {
     position: fixed;
