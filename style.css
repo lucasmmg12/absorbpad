@@ -316,9 +316,9 @@ img {
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: var(--body-color);
     transition: .4s;
-    backdrop-filter: var(--glass-blur);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     border-bottom: 1px solid var(--border-color);
 }
 
