@@ -18,6 +18,8 @@
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
   <link rel="icon" type="image/webp" href="public/assets/images.webp">
   <link rel="stylesheet" href="style.css">
+  <!-- AOS CSS for Scroll Animations -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <!-- Meta Pixel Code -->
   <script>
     !function (f, b, e, v, n, t, s) {
@@ -166,7 +168,13 @@
             pesada.</p>
         </div>
 
-        <div class="grid services-grid">
+        <div class="tabs-container animate-card">
+          <button class="tab-btn active" data-target="tab-derrames">Derrames & Contención</button>
+          <button class="tab-btn" data-target="tab-absorbentes">Material Absorbente</button>
+          <button class="tab-btn" data-target="tab-accesorios">Accesorios & Bio</button>
+        </div>
+
+        <div class="tab-content active grid services-grid" id="tab-derrames">
           <!-- Solución 1: Contención -->
           <div class="service-card"
             style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
@@ -184,26 +192,6 @@
             </div>
           </div>
 
-          <!-- Solución 2: Mantas -->
-          <!-- Solución 2: Mantas -->
-          <!-- Solución 2: Mantas -->
-          <div class="service-card"
-            style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
-            <div
-              style="position: absolute; right: 0; top: 0; bottom: 0; width: 55%; background: url('public/assets/manta abosrbente.webp') right center/contain no-repeat; -webkit-mask-image: linear-gradient(to right, transparent, black 30%); mask-image: linear-gradient(to right, transparent, black 30%); z-index: 0;">
-            </div>
-            <div style="position: relative; z-index: 1; max-width: 60%; padding-right: 1rem;">
-              <h3 class="service-title" style="color: #FFF; font-size: 1.5rem;">Mantas ABM</h3>
-              <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Protección de suelos
-                industrial con base impermeable. Ideal bajo maquinaria y equipos de bombeo.</p>
-              <a href="producto-abm.html" class="service-link"
-                style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
-                  name="arrow-forward-outline"></ion-icon></a>
-            </div>
-          </div>
-
-          <!-- Solución 3: Kits -->
-          <!-- Solución 3: Kits -->
           <!-- Solución 3: Kits -->
           <div class="service-card"
             style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
@@ -220,8 +208,24 @@
             </div>
           </div>
 
-          <!-- Solución 4: Paños -->
-          <!-- Solución 4: Paños -->
+          <!-- Solución 9: Pallets -->
+          <div class="service-card"
+            style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
+            <div
+              style="position: absolute; right: 0; top: 0; bottom: 0; width: 55%; background: url('public/assets/palet contencion.webp') right center/contain no-repeat; -webkit-mask-image: linear-gradient(to right, transparent, black 30%); mask-image: linear-gradient(to right, transparent, black 30%); z-index: 0;">
+            </div>
+            <div style="position: relative; z-index: 1; max-width: 60%; padding-right: 1rem;">
+              <h3 class="service-title" style="color: #FFF; font-size: 1.5rem;">Pallets y Contención</h3>
+              <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Infraestructura de
+                contención pasiva homologada para el almacenamiento seguro de tambores e IBCs.</p>
+              <a href="producto-pallets.html" class="service-link"
+                style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
+                  name="arrow-forward-outline"></ion-icon></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-content grid services-grid" id="tab-absorbentes">
           <!-- Solución 4: Paños -->
           <div class="service-card"
             style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
@@ -239,8 +243,22 @@
             </div>
           </div>
 
-          <!-- Solución 5: Químicos -->
-          <!-- Solución 5: Químicos -->
+          <!-- Solución 2: Mantas -->
+          <div class="service-card"
+            style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
+            <div
+              style="position: absolute; right: 0; top: 0; bottom: 0; width: 55%; background: url('public/assets/manta abosrbente.webp') right center/contain no-repeat; -webkit-mask-image: linear-gradient(to right, transparent, black 30%); mask-image: linear-gradient(to right, transparent, black 30%); z-index: 0;">
+            </div>
+            <div style="position: relative; z-index: 1; max-width: 60%; padding-right: 1rem;">
+              <h3 class="service-title" style="color: #FFF; font-size: 1.5rem;">Mantas ABM</h3>
+              <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Protección de suelos
+                industrial con base impermeable. Ideal bajo maquinaria y equipos de bombeo.</p>
+              <a href="producto-abm.html" class="service-link"
+                style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
+                  name="arrow-forward-outline"></ion-icon></a>
+            </div>
+          </div>
+
           <!-- Solución 5: Químicos -->
           <div class="service-card"
             style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
@@ -257,8 +275,24 @@
             </div>
           </div>
 
-          <!-- Solución 6: Bio -->
-          <!-- Solución 6: Bio -->
+          <!-- Solución 8: Diatomeas -->
+          <div class="service-card"
+            style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
+            <div
+              style="position: absolute; right: 0; top: 0; bottom: 0; width: 55%; background: url('public/assets/mineral granulado.webp') right center/contain no-repeat; -webkit-mask-image: linear-gradient(to right, transparent, black 30%); mask-image: linear-gradient(to right, transparent, black 30%); z-index: 0;">
+            </div>
+            <div style="position: relative; z-index: 1; max-width: 60%; padding-right: 1rem;">
+              <h3 class="service-title" style="color: #FFF; font-size: 1.5rem;">Absorbente Mineral</h3>
+              <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Tierra de diatomeas natural
+                para absorción de aceites pesados y lodos en talleres y estaciones.</p>
+              <a href="producto-diatomeas.html" class="service-link"
+                style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
+                  name="arrow-forward-outline"></ion-icon></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-content grid services-grid" id="tab-accesorios">
           <!-- Solución 6: Bio -->
           <div class="service-card"
             style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
@@ -286,38 +320,6 @@
               <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Bolsas de 200 micrones para
                 residuos peligrosos y muestreo geológico de alta resistencia en yacimientos.</p>
               <a href="producto-bolsas.html" class="service-link"
-                style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
-                  name="arrow-forward-outline"></ion-icon></a>
-            </div>
-          </div>
-
-          <!-- Solución 8: Diatomeas -->
-          <div class="service-card"
-            style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
-            <div
-              style="position: absolute; right: 0; top: 0; bottom: 0; width: 55%; background: url('public/assets/mineral granulado.webp') right center/contain no-repeat; -webkit-mask-image: linear-gradient(to right, transparent, black 30%); mask-image: linear-gradient(to right, transparent, black 30%); z-index: 0;">
-            </div>
-            <div style="position: relative; z-index: 1; max-width: 60%; padding-right: 1rem;">
-              <h3 class="service-title" style="color: #FFF; font-size: 1.5rem;">Absorbente Mineral</h3>
-              <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Tierra de diatomeas natural
-                para absorción de aceites pesados y lodos en talleres y estaciones.</p>
-              <a href="producto-diatomeas.html" class="service-link"
-                style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
-                  name="arrow-forward-outline"></ion-icon></a>
-            </div>
-          </div>
-
-          <!-- Solución 9: Pallets -->
-          <div class="service-card"
-            style="position: relative; background-color: #1a1a1a; display: flex; flex-direction: column; justify-content: center; min-height: 250px; overflow: hidden;">
-            <div
-              style="position: absolute; right: 0; top: 0; bottom: 0; width: 55%; background: url('public/assets/palet contencion.webp') right center/contain no-repeat; -webkit-mask-image: linear-gradient(to right, transparent, black 30%); mask-image: linear-gradient(to right, transparent, black 30%); z-index: 0;">
-            </div>
-            <div style="position: relative; z-index: 1; max-width: 60%; padding-right: 1rem;">
-              <h3 class="service-title" style="color: #FFF; font-size: 1.5rem;">Pallets y Contención</h3>
-              <p class="service-text" style="color: #ccc; font-size: 1.1rem;">Infraestructura de
-                contención pasiva homologada para el almacenamiento seguro de tambores e IBCs.</p>
-              <a href="producto-pallets.html" class="service-link"
                 style="color: var(--second-color); font-size: 1rem;">Ficha Completa <ion-icon
                   name="arrow-forward-outline"></ion-icon></a>
             </div>
@@ -759,6 +761,35 @@
       class="floating-social-link whatsapp"><ion-icon name="logo-whatsapp"></ion-icon></a>
   </div>
 
+  <!-- Lead Magnet: Floating Assistant -->
+  <div class="floating-assistant" onclick="openAssistant()">
+    <ion-icon name="color-filter-outline"></ion-icon>
+    <span>Calculadora de Absorbentes</span>
+  </div>
+
+  <!-- Assistant Modal -->
+  <div class="assistant-modal" id="assistantModal">
+    <div class="assistant-content glassmorphism-card">
+      <button class="assistant-close" onclick="closeAssistant()"><ion-icon name="close-outline"></ion-icon></button>
+      <h3 class="highlight" style="margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;"><ion-icon name="color-filter-outline"></ion-icon> Asistente de Selección</h3>
+      <div id="step1">
+        <p style="margin-bottom: 1rem; font-weight: 500;">¿Qué tipo de fluido necesitas contener o limpiar?</p>
+        <div class="grid" style="gap: 1rem;">
+          <button class="btn btn-outline" onclick="showResult('hidrocarburos')" style="color: var(--text-color); border-color: var(--first-color); width: 100%;">Aceites e Hidrocarburos</button>
+          <button class="btn btn-outline" onclick="showResult('quimicos')" style="color: var(--text-color); border-color: var(--second-color); width: 100%;">Químicos y Ácidos</button>
+          <button class="btn btn-outline" onclick="showResult('universales')" style="color: var(--text-color); border-color: #888; width: 100%;">Agua y Refrigerantes</button>
+        </div>
+      </div>
+      <div id="step2" style="display: none;">
+        <p style="margin-bottom: 0.5rem; font-weight: bold; font-size: 1.1rem; color: var(--first-color);" id="resultTitle"></p>
+        <p style="margin-bottom: 1.5rem; font-size: 0.95rem; color: var(--text-color);" id="resultText"></p>
+        <a href="#contacto" class="btn btn-primary" style="width: 100%; text-align: center; margin-bottom: 0.5rem;" onclick="closeAssistant()">Solicitar Presupuesto Técnico</a>
+        <button class="btn btn-outline" style="width: 100%; color: var(--title-color); border-color: #ccc;" onclick="resetAssistant()">Volver a intentar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <script src="js/translations.js?v=2"></script>
   <script src="js/i18n.js?v=2"></script>
   <script src="main.js"></script>
