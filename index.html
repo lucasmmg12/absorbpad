@@ -46,6 +46,28 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=1587567705613351&ev=PageView&noscript=1" /></noscript>
 
+  <!-- Premium Loading Screen -->
+  <div id="loadingScreen" class="loading-screen">
+    <div class="loading-content">
+      <div class="loading-logo-ring">
+        <svg class="loading-ring" viewBox="0 0 120 120">
+          <circle cx="60" cy="60" r="54" fill="none" stroke="rgba(249,212,35,0.1)" stroke-width="2"/>
+          <circle class="loading-ring-progress" cx="60" cy="60" r="54" fill="none" stroke="#F9D423" stroke-width="2.5" stroke-linecap="round"/>
+        </svg>
+        <img src="public/assets/images.webp" alt="Absorb Pad" class="loading-logo-img">
+      </div>
+      <div class="loading-text">
+        <span class="loading-brand">ABSORB <span style="color: #F9D423;">PAD</span></span>
+        <span class="loading-sub">S.R.L.</span>
+      </div>
+      <div class="loading-bar-track">
+        <div class="loading-bar-fill" id="loadingBar"></div>
+      </div>
+      <div class="loading-particles" id="loadingParticles"></div>
+    </div>
+  </div>
+  <script src="js/loading.js"></script>
+
 
   <header class="header">
     <nav class="nav container">
