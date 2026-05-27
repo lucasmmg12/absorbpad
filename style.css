@@ -586,6 +586,30 @@ img {
     /* Warn Yellow from logo */
 }
 
+/* Hero Morphing Text */
+.hero-morph-wrapper {
+    display: inline-block;
+    position: relative;
+    min-width: 200px;
+}
+.hero-morph {
+    display: inline-block;
+    transition: opacity 0.6s ease, filter 0.6s ease, transform 0.6s ease;
+    opacity: 1;
+    filter: blur(0px);
+    transform: translateY(0);
+}
+.hero-morph.morph-out {
+    opacity: 0;
+    filter: blur(12px);
+    transform: translateY(-8px);
+}
+.hero-morph.morph-in {
+    opacity: 0;
+    filter: blur(12px);
+    transform: translateY(8px);
+}
+
 .hero-description {
     font-size: var(--h3-font-size);
     margin-bottom: var(--mb-2-5);
