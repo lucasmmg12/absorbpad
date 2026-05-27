@@ -20,6 +20,8 @@
   <link rel="stylesheet" href="style.css">
   <!-- AOS CSS for Scroll Animations -->
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <!-- Three.js for 3D Hero Animation -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" defer></script>
   <!-- Meta Pixel Code -->
   <script>
     !function (f, b, e, v, n, t, s) {
@@ -89,8 +91,10 @@
       <div class="hero-bg" style="background-image: url('public/assets/HC.webp');">
         <div class="hero-overlay"></div>
       </div>
+      <!-- Three.js Particle Canvas -->
+      <canvas id="hero-particles" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; pointer-events: auto;"></canvas>
 
-      <div class="hero-content container">
+      <div class="hero-content container" style="position: relative; z-index: 2;">
         <h1 class="hero-title animate-up">
           <span class="highlight">Eficiencia Máxima</span> <br>
           <span data-i18n="hero.subtitle">en Control de Derrames</span>
@@ -104,8 +108,6 @@
           <a href="#contacto" class="btn btn-outline">Solicitar Consultoría</a>
         </div>
       </div>
-
-      <!-- Stats removed as per user request -->
     </section>
 
     <!-- Services Section -->
@@ -886,6 +888,7 @@
   <script src="js/translations.js?v=2"></script>
   <script src="js/i18n.js?v=2"></script>
   <script src="main.js"></script>
+  <script src="js/hero-particles.js"></script>
   <!-- Vercel Analytics -->
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
