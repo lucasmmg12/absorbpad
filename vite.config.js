@@ -21,6 +21,7 @@ export default defineConfig({
                 adhesivos: resolve(__dirname, 'productos-adhesivos.html'),
                 lubricantes: resolve(__dirname, 'productos-lubricantes.html'),
                 limpiamanos: resolve(__dirname, 'productos-limpiamanos.html'),
+                total: resolve(__dirname, 'productos-total.html'),
             },
         },
     },
