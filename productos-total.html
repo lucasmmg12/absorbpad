@@ -379,11 +379,10 @@
     </div>
   </div>
 
-  <!-- Data Script Integration -->
-  <script src="public/assets/total/total_products.js"></script>
+  <!-- Application Logic as ES Module (Guarantees zero 404s and instant loading) -->
+  <script type="module">
+    import totalProductsData from './public/assets/total/total_products.json';
 
-  <!-- Application Logic -->
-  <script>
     document.addEventListener('DOMContentLoaded', () => {
       const grid = document.getElementById('grid-products');
       const searchInput = document.getElementById('total-search');
@@ -403,8 +402,8 @@
       const mSpecs = document.getElementById('m-specs');
       const mWsp = document.getElementById('m-wsp');
 
-      // Get Products Array cleanly from window or fallback
-      let products = window.TOTAL_PRODUCTS || [];
+      // Get Products Array cleanly imported directly by Vite
+      let products = totalProductsData || [];
       cntAll.textContent = products.length;
 
       let selCat = 'all';
@@ -488,12 +487,19 @@
                 <div class="card-item-code">${p.code} ${p.cod_internal ? '• ' + p.cod_internal : ''}</div>
                 <ul class="card-item-specs">${specsHtml}</ul>
               </div>
-              <button class="btn-ver-ficha" onclick="showFicha('${p.id}')">
+              <button class="btn-ver-ficha" data-id="${p.id}">
                 <ion-icon name="document-text-outline"></ion-icon> Ver Ficha Técnica
               </button>
             </div>
           `;
         }).join('');
+
+        // Attach event listeners to dynamically rendered buttons
+        grid.querySelectorAll('.btn-ver-ficha').forEach(btn => {
+          btn.addEventListener('click', () => {
+            showFicha(btn.dataset.id);
+          });
+        });
       }
 
       categoryBtns.forEach(btn => {
@@ -530,7 +536,7 @@
         render();
       });
 
-      window.showFicha = function(id) {
+      function showFicha(id) {
         const item = products.find(p => p.id === id);
         if (!item) return;
 
@@ -540,8 +546,14 @@
         if (item.images && item.images.length > 1) {
           mThumbs.innerHTML = item.images.map(img => {
             const pth = fixImgPath(img);
-            return `<img src="${pth}" style="width:48px; height:48px; object-fit:contain; border:1px solid #CBD5E1; border-radius:4px; cursor:pointer;" onclick="document.getElementById('m-img').src='${pth}'">`;
+            return `<img src="${pth}" style="width:48px; height:48px; object-fit:contain; border:1px solid #CBD5E1; border-radius:4px; cursor:pointer;" class="m-thumb-item" data-src="${pth}">`;
           }).join('');
+
+          mThumbs.querySelectorAll('.m-thumb-item').forEach(thumb => {
+            thumb.addEventListener('click', () => {
+              mImg.src = thumb.dataset.src;
+            });
+          });
         } else {
           mThumbs.innerHTML = '';
         }
@@ -559,7 +571,7 @@
         mWsp.href = `https://wa.me/5492644115967?text=${msg}`;
 
         modal.classList.add('active');
-      };
+      }
 
       btnCloseModal.addEventListener('click', () => modal.classList.remove('active'));
       modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.remove('active'); });
