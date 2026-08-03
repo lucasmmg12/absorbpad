@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Herramientas TOTAL 2026 | Catálogo General | Absorb Pad S.R.L.</title>
+  <title>Herramientas TOTAL 2026 | Absorb Pad S.R.L.</title>
   <meta name="description"
     content="Catálogo completo de Herramientas TOTAL 2026. Línea inalámbrica 20V/12V Brushless, maquinaria eléctrica, neumáticas, nafteras, herramientas manuales y accesorios con 24 meses de garantía.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,305 +18,254 @@
   <link rel="stylesheet" href="style.css">
   
   <style>
-    /* Custom Styles for TOTAL Catalog */
-    .total-catalog-header {
-      background: linear-gradient(135deg, #1A1A1A 0%, #2E8B98 100%);
-      color: #fff;
-      padding: 3rem 1.5rem;
-      border-radius: 12px;
+    /* Absorb Pad Integrated Styling for TOTAL Line */
+    .total-header-banner {
+      background: linear-gradient(135deg, #2E8B98 0%, #1A1A1A 100%);
+      color: #FFFFFF !important;
+      padding: 2.5rem 2rem;
+      border-radius: 8px;
       margin-bottom: 2rem;
       position: relative;
-      overflow: hidden;
     }
-    .total-catalog-header::after {
-      content: 'TOTAL 2026';
-      position: absolute;
-      right: -20px;
-      bottom: -30px;
-      font-size: 8rem;
-      font-weight: 900;
-      color: rgba(255, 255, 255, 0.05);
-      pointer-events: none;
-    }
-    .total-badge-garantia {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      background: #F9D423;
-      color: #1A1A1A;
+    .total-header-banner h1 {
+      color: #FFFFFF !important;
+      font-size: 2rem;
       font-weight: 800;
-      padding: 4px 12px;
-      border-radius: 20px;
-      font-size: 0.85rem;
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
+      font-family: var(--title-font);
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
-    .filter-bar {
+    .total-header-banner p {
+      color: #E2E8F0 !important;
+      font-size: 1rem;
+      line-height: 1.6;
+      max-width: 800px;
+    }
+    .badge-garantia {
+      display: inline-block;
+      background: var(--second-color);
+      color: #1A1A1A;
+      font-weight: 800;
+      padding: 4px 12px;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+      letter-spacing: 0.5px;
+    }
+    
+    /* Tabs & Filters matching index.html design */
+    .total-filter-container {
+      background: #FFFFFF;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 1.25rem;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    
+    .filter-row {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.75rem;
+      gap: 0.5rem;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 2rem;
-      background: #F9F9F9;
-      padding: 1.25rem;
-      border-radius: 12px;
-      border: 1px solid #E2E8F0;
     }
-    .cat-pill {
-      border: 1px solid #CBD5E1;
-      background: #FFFFFF;
-      color: #4A4A4A;
-      padding: 0.5rem 1rem;
-      border-radius: 20px;
+
+    .filter-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .total-tab-btn {
+      background: #F1F5F9;
+      color: var(--text-color);
+      border: 1px solid var(--border-color);
+      padding: 0.5rem 1.25rem;
+      border-radius: 4px;
       font-size: 0.875rem;
       font-weight: 600;
+      font-family: var(--body-font);
       cursor: pointer;
       transition: all 0.2s ease;
     }
-    .cat-pill:hover, .cat-pill.active {
-      background: #2E8B98;
+
+    .total-tab-btn:hover, .total-tab-btn.active {
+      background: var(--first-color);
       color: #FFFFFF;
-      border-color: #2E8B98;
-      box-shadow: 0 2px 6px rgba(46, 139, 152, 0.25);
+      border-color: var(--first-color);
     }
-    .search-box {
-      position: relative;
-      flex-grow: 1;
-      max-width: 380px;
-    }
-    .search-input {
-      width: 100%;
-      padding: 0.6rem 1rem 0.6rem 2.5rem;
-      border: 1px solid #CBD5E1;
-      border-radius: 20px;
+
+    .total-search-input {
+      padding: 0.6rem 1rem 0.6rem 2.25rem;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
       font-size: 0.9rem;
-      font-family: inherit;
+      font-family: var(--body-font);
       outline: none;
-      transition: border 0.2s;
+      width: 100%;
+      max-width: 350px;
+      transition: border-color 0.2s;
     }
-    .search-input:focus {
-      border-color: #2E8B98;
+    .total-search-input:focus {
+      border-color: var(--first-color);
     }
-    .search-icon {
-      position: absolute;
-      left: 0.85rem;
-      top: 50%;
-      transform: translateY(-50%);
-      color: #94A3B8;
-      font-size: 1.1rem;
-    }
-    .total-grid {
+
+    /* Product Grid & Cards */
+    .total-cards-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
       gap: 1.5rem;
       margin-bottom: 3rem;
     }
-    .total-card {
+
+    .total-product-card {
       background: #FFFFFF;
-      border: 1px solid #E2E8F0;
-      border-radius: 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
       padding: 1.25rem;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      transition: all 0.2s ease;
     }
-    .total-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
-      border-color: #CBD5E1;
+    .total-product-card:hover {
+      border-color: var(--first-color);
+      box-shadow: 0 8px 20px rgba(46, 139, 152, 0.12);
+      transform: translateY(-3px);
     }
-    .total-card-img-wrapper {
+
+    .card-img-box {
       width: 100%;
       height: 180px;
       display: flex;
       align-items: center;
       justify-content: center;
       background: #F8FAFC;
-      border-radius: 8px;
-      overflow: hidden;
-      margin-bottom: 1rem;
+      border-radius: 6px;
       padding: 0.5rem;
-      position: relative;
+      margin-bottom: 1rem;
     }
-    .total-card-img {
+    .card-img-box img {
       max-width: 100%;
       max-height: 100%;
       object-fit: contain;
-      transition: transform 0.3s ease;
     }
-    .total-card:hover .total-card-img {
-      transform: scale(1.05);
-    }
-    .tag-container {
+
+    .card-tags {
       display: flex;
-      gap: 0.4rem;
+      gap: 0.35rem;
       flex-wrap: wrap;
       margin-bottom: 0.5rem;
     }
-    .tag-badge {
+    .card-tag {
       font-size: 0.7rem;
       font-weight: 700;
-      padding: 2px 8px;
-      border-radius: 4px;
+      padding: 2px 6px;
+      border-radius: 3px;
       text-transform: uppercase;
     }
-    .tag-20v { background: #2E8B98; color: #FFF; }
-    .tag-12v { background: #25707A; color: #FFF; }
-    .tag-brushless { background: #F9D423; color: #1A1A1A; }
-    .tag-cat { background: #E2E8F0; color: #475569; }
-    
-    .total-card-title {
-      font-size: 1.05rem;
+    .tag-blue { background: var(--first-color); color: #FFF; }
+    .tag-yellow { background: var(--second-color); color: #1A1A1A; }
+    .tag-gray { background: #E2E8F0; color: #475569; }
+
+    .card-item-title {
+      font-size: 1rem;
       font-weight: 700;
-      color: #1E293B;
-      margin-bottom: 0.4rem;
+      color: var(--title-color);
+      margin-bottom: 0.35rem;
+      font-family: var(--title-font);
       line-height: 1.3;
     }
-    .total-card-code {
+    .card-item-code {
       font-size: 0.8rem;
-      font-weight: 600;
-      color: #2E8B98;
+      font-weight: 700;
+      color: var(--first-color);
       margin-bottom: 0.75rem;
     }
-    .total-card-specs {
+    .card-item-specs {
       font-size: 0.825rem;
-      color: #64748B;
+      color: var(--text-color);
       margin-bottom: 1.25rem;
       line-height: 1.4;
-      flex-grow: 1;
-    }
-    .total-card-specs li {
-      list-style: none;
-      position: relative;
       padding-left: 1rem;
-      margin-bottom: 0.25rem;
     }
-    .total-card-specs li::before {
-      content: "•";
-      position: absolute;
-      left: 0;
-      color: #2E8B98;
-      font-weight: bold;
+    .card-item-specs li {
+      margin-bottom: 0.2rem;
     }
-    .btn-detail {
+
+    .btn-ver-ficha {
       width: 100%;
-      background: #1A1A1A;
-      color: #FFF;
+      background: var(--title-color);
+      color: #FFFFFF;
       border: none;
       padding: 0.65rem;
-      border-radius: 8px;
+      border-radius: 4px;
       font-weight: 600;
       font-size: 0.875rem;
+      font-family: var(--body-font);
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 0.5rem;
+      gap: 0.4rem;
       transition: background 0.2s;
     }
-    .btn-detail:hover {
-      background: #2E8B98;
+    .btn-ver-ficha:hover {
+      background: var(--first-color);
     }
 
-    /* Detail Modal */
-    .modal-backdrop {
+    /* Modal Ficha Técnica */
+    .total-modal-overlay {
       position: fixed;
       top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(15, 23, 42, 0.75);
-      backdrop-filter: blur(4px);
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(3px);
       z-index: 9999;
       display: flex;
       align-items: center;
       justify-content: center;
       opacity: 0;
       visibility: hidden;
-      transition: opacity 0.3s ease, visibility 0.3s ease;
+      transition: all 0.3s ease;
       padding: 1rem;
     }
-    .modal-backdrop.active {
+    .total-modal-overlay.active {
       opacity: 1;
       visibility: visible;
     }
-    .modal-box {
+    .total-modal-content {
       background: #FFFFFF;
-      border-radius: 16px;
-      max-width: 700px;
+      border-radius: 8px;
+      max-width: 680px;
       width: 100%;
       max-height: 90vh;
       overflow-y: auto;
       padding: 2rem;
       position: relative;
-      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
     }
-    .modal-close {
+    .modal-close-icon {
       position: absolute;
       top: 1rem;
       right: 1rem;
       background: #F1F5F9;
       border: none;
-      width: 36px;
-      height: 36px;
+      width: 32px;
+      height: 32px;
       border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
       cursor: pointer;
       font-size: 1.25rem;
       color: #64748B;
-      transition: background 0.2s;
-    }
-    .modal-close:hover {
-      background: #E2E8F0;
-      color: #0F172A;
-    }
-    .modal-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1.5rem;
-    }
-    @media (max-width: 640px) {
-      .modal-grid { grid-template-columns: 1fr; }
-    }
-    .modal-img-container {
-      background: #F8FAFC;
-      border-radius: 12px;
-      padding: 1rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 220px;
-    }
-    .modal-img {
-      max-width: 100%;
-      max-height: 250px;
-      object-fit: contain;
-    }
-    .btn-whatsapp {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      background: #25D366;
-      color: #FFF;
-      font-weight: 700;
-      padding: 0.75rem 1.25rem;
-      border-radius: 8px;
-      text-decoration: none;
-      width: 100%;
-      margin-top: 1.25rem;
-      transition: background 0.2s;
-    }
-    .btn-whatsapp:hover {
-      background: #1EBE57;
     }
   </style>
 </head>
 
 <body>
-  <!-- Header -->
+  <!-- Header Nav -->
   <header class="header scroll-header">
     <nav class="nav container">
       <a href="index.html" class="logo">
@@ -346,274 +295,276 @@
         <span>Herramientas TOTAL 2026</span>
       </div>
 
-      <!-- Header Banner -->
-      <div class="total-catalog-header">
-        <div class="total-badge-garantia">
-          <ion-icon name="shield-checkmark-outline"></ion-icon> 24 Meses de Garantía Oficial
+      <!-- Main Header Banner -->
+      <div class="total-header-banner">
+        <div class="badge-garantia">
+          <ion-icon name="shield-checkmark-outline"></ion-icon> 24 MESES DE GARANTÍA OFICIAL
         </div>
-        <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem;">Catálogo General TOTAL 2026</h1>
-        <p style="max-width: 650px; font-size: 1.05rem; opacity: 0.95; line-height: 1.5;">
-          Solución integral de herramientas profesionales inalambricas 20V/12V Brushless, maquinaria eléctrica industrial, neumática y equipamiento pesado para minería e industria.
+        <h1>Herramientas TOTAL 2026 — Catálogo Industrial</h1>
+        <p>
+          Solución integral de herramientas profesionales inalámbricas 20V/12V Brushless, maquinaria eléctrica industrial, neumáticas, nafteras y equipamiento para minería e industria pesada.
         </p>
       </div>
 
-      <!-- Filter & Search Bar -->
-      <div class="filter-bar">
-        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;" id="category-pills">
-          <button class="cat-pill active" data-cat="all">Todas (<span id="count-all">0</span>)</button>
-          <button class="cat-pill" data-cat="Inalámbricas">Inalámbricas</button>
-          <button class="cat-pill" data-cat="Eléctricas">Eléctricas</button>
-          <button class="cat-pill" data-cat="Neumáticas">Neumáticas</button>
-          <button class="cat-pill" data-cat="Nafteras">Nafteras</button>
-          <button class="cat-pill" data-cat="Manuales">Manuales</button>
-          <button class="cat-pill" data-cat="Accesorios">Accesorios</button>
+      <!-- Filter Controls -->
+      <div class="total-filter-container">
+        <div class="filter-row">
+          <div class="filter-pills" id="category-buttons">
+            <button class="total-tab-btn active" data-cat="all">Todas (<span id="cnt-all">0</span>)</button>
+            <button class="total-tab-btn" data-cat="Inalámbricas">Inalámbricas</button>
+            <button class="total-tab-btn" data-cat="Eléctricas">Eléctricas</button>
+            <button class="total-tab-btn" data-cat="Neumáticas">Neumáticas</button>
+            <button class="total-tab-btn" data-cat="Nafteras">Nafteras</button>
+            <button class="total-tab-btn" data-cat="Manuales">Manuales</button>
+            <button class="total-tab-btn" data-cat="Accesorios">Accesorios</button>
+          </div>
+
+          <div style="position: relative; width: 100%; max-width: 320px;">
+            <ion-icon name="search-outline" style="position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: #94A3B8;"></ion-icon>
+            <input type="text" id="total-search" class="total-search-input" placeholder="Buscar por código (ej: TIDLI205581) o nombre...">
+          </div>
         </div>
 
-        <div class="search-box">
-          <ion-icon name="search-outline" class="search-icon"></ion-icon>
-          <input type="text" id="search-input" class="search-input" placeholder="Buscar por código (ej: TIDLI205581) o nombre...">
+        <div class="filter-row" style="border-top: 1px solid #E2E8F0; padding-top: 0.75rem;">
+          <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+            <span style="font-size: 0.8rem; font-weight: 700; color: #64748B; text-transform: uppercase;">Filtros rápidos:</span>
+            <button class="total-tab-btn" data-volt="20V" style="padding: 0.25rem 0.75rem; font-size: 0.8rem;">⚡ Línea 20V</button>
+            <button class="total-tab-btn" data-volt="12V" style="padding: 0.25rem 0.75rem; font-size: 0.8rem;">⚡ Línea 12V</button>
+            <button class="total-tab-btn" data-bl="true" style="padding: 0.25rem 0.75rem; font-size: 0.8rem;">⚙️ Motor Brushless</button>
+          </div>
+          <div style="font-size: 0.85rem; color: #64748B;">
+            Mostrando <strong id="lbl-showing">0</strong> de <strong id="lbl-total">0</strong> productos
+          </div>
         </div>
-      </div>
-
-      <!-- Quick Voltage Filters -->
-      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 1.5rem; flex-wrap: wrap;">
-        <span style="font-size: 0.85rem; font-weight: 700; color: #64748B; text-transform: uppercase;">Filtro rápido:</span>
-        <button class="cat-pill" data-voltage="20V" style="padding: 0.3rem 0.75rem; font-size: 0.8rem;">⚡ Linea 20V</button>
-        <button class="cat-pill" data-voltage="12V" style="padding: 0.3rem 0.75rem; font-size: 0.8rem;">⚡ Linea 12V</button>
-        <button class="cat-pill" data-brushless="true" style="padding: 0.3rem 0.75rem; font-size: 0.8rem;">⚙️ Motor Brushless</button>
       </div>
 
       <!-- Products Grid -->
-      <div class="total-grid" id="products-grid">
-        <!-- Rendered dynamically -->
+      <div class="total-cards-grid" id="grid-products">
+        <!-- Dynamic content -->
       </div>
 
-      <!-- Load More / Pagination -->
-      <div style="text-align: center; margin-bottom: 3rem;" id="load-more-container">
-        <button id="btn-load-more" class="btn-detail" style="max-width: 250px; margin: 0 auto; background: #2E8B98;">
-          Cargar más productos (<span id="rendered-count">0</span> / <span id="total-count">0</span>)
+      <!-- Load More Button -->
+      <div style="text-align: center; margin-bottom: 4rem;">
+        <button id="btn-more" class="btn-ver-ficha" style="max-width: 260px; margin: 0 auto; background: var(--first-color);">
+          Cargar Más Productos
         </button>
       </div>
-
     </section>
   </main>
 
-  <!-- Product Detail Modal -->
-  <div class="modal-backdrop" id="product-modal">
-    <div class="modal-box">
-      <button class="modal-close" id="modal-close-btn">&times;</button>
-      <div class="modal-grid">
+  <!-- Modal Ficha Técnica -->
+  <div class="total-modal-overlay" id="modal-box">
+    <div class="total-modal-content">
+      <button class="modal-close-icon" id="btn-close-modal">&times;</button>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;" id="modal-grid-inner">
         <div>
-          <div class="modal-img-container">
-            <img id="modal-img" src="" alt="Producto TOTAL" class="modal-img">
+          <div style="background: #F8FAFC; border-radius: 6px; padding: 1rem; display: flex; align-items: center; justify-content: center; min-height: 220px;">
+            <img id="m-img" src="" alt="Producto TOTAL" style="max-width: 100%; max-height: 240px; object-fit: contain;">
           </div>
-          <div id="modal-thumbnails" style="display: flex; gap: 0.5rem; margin-top: 0.75rem; overflow-x: auto;"></div>
+          <div id="m-thumbs" style="display: flex; gap: 0.5rem; margin-top: 0.75rem; overflow-x: auto;"></div>
         </div>
         <div>
-          <div id="modal-tags" class="tag-container"></div>
-          <h2 id="modal-title" style="font-size: 1.35rem; font-weight: 800; color: #0F172A; margin: 0.5rem 0;"></h2>
-          <div id="modal-code" style="font-size: 0.9rem; font-weight: 700; color: #2E8B98; margin-bottom: 1rem;"></div>
+          <div id="m-tags" class="card-tags"></div>
+          <h2 id="m-title" style="font-size: 1.25rem; font-weight: 800; color: var(--title-color); margin: 0.5rem 0; font-family: var(--title-font);"></h2>
+          <div id="m-code" style="font-size: 0.85rem; font-weight: 700; color: var(--first-color); margin-bottom: 1rem;"></div>
           
-          <h4 style="font-size: 0.85rem; font-weight: 700; text-transform: uppercase; color: #64748B; margin-bottom: 0.5rem;">Especificaciones Técnicas</h4>
-          <ul id="modal-specs" style="font-size: 0.875rem; color: #334155; line-height: 1.6; padding-left: 1.25rem; margin-bottom: 1.5rem;"></ul>
+          <h4 style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: #64748B; margin-bottom: 0.5rem;">Especificaciones Técnicas</h4>
+          <ul id="m-specs" style="font-size: 0.85rem; color: var(--text-color); line-height: 1.6; padding-left: 1.25rem; margin-bottom: 1.5rem;"></ul>
 
-          <a id="modal-whatsapp-link" href="#" target="_blank" class="btn-whatsapp">
-            <ion-icon name="logo-whatsapp" style="font-size: 1.3rem;"></ion-icon> Consultar por este Producto
+          <a id="m-wsp" href="#" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 8px; background: #25D366; color: #FFF; font-weight: 700; padding: 0.75rem; border-radius: 4px; text-decoration: none;">
+            <ion-icon name="logo-whatsapp" style="font-size: 1.2rem;"></ion-icon> Consultar Disponibilidad
           </a>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Include Product Data -->
+  <!-- Data Script Integration -->
   <script src="public/assets/total/total_products.js"></script>
 
-  <!-- Interactive Rendering Script -->
+  <!-- Application Logic -->
   <script>
     document.addEventListener('DOMContentLoaded', () => {
-      const productsGrid = document.getElementById('products-grid');
-      const searchInput = document.getElementById('search-input');
-      const categoryPills = document.querySelectorAll('.cat-pill');
-      const btnLoadMore = document.getElementById('btn-load-more');
-      const renderedCountEl = document.getElementById('rendered-count');
-      const totalCountEl = document.getElementById('total-count');
-      const countAllEl = document.getElementById('count-all');
-      
-      const modal = document.getElementById('product-modal');
-      const modalCloseBtn = document.getElementById('modal-close-btn');
-      const modalImg = document.getElementById('modal-img');
-      const modalThumbnails = document.getElementById('modal-thumbnails');
-      const modalTags = document.getElementById('modal-tags');
-      const modalTitle = document.getElementById('modal-title');
-      const modalCode = document.getElementById('modal-code');
-      const modalSpecs = document.getElementById('modal-specs');
-      const modalWhatsappLink = document.getElementById('modal-whatsapp-link');
+      const grid = document.getElementById('grid-products');
+      const searchInput = document.getElementById('total-search');
+      const categoryBtns = document.querySelectorAll('.total-tab-btn');
+      const btnMore = document.getElementById('btn-more');
+      const lblShowing = document.getElementById('lbl-showing');
+      const lblTotal = document.getElementById('lbl-total');
+      const cntAll = document.getElementById('cnt-all');
 
-      const allProducts = window.TOTAL_PRODUCTS || [];
-      countAllEl.textContent = allProducts.length;
+      const modal = document.getElementById('modal-box');
+      const btnCloseModal = document.getElementById('btn-close-modal');
+      const mImg = document.getElementById('m-img');
+      const mThumbs = document.getElementById('m-thumbs');
+      const mTags = document.getElementById('m-tags');
+      const mTitle = document.getElementById('m-title');
+      const mCode = document.getElementById('m-code');
+      const mSpecs = document.getElementById('m-specs');
+      const mWsp = document.getElementById('m-wsp');
 
-      let currentCategory = 'all';
-      let currentVoltage = '';
-      let currentBrushless = false;
-      let searchQuery = '';
-      let pageSize = 24;
-      let currentPage = 1;
+      // Get Products Array cleanly from window or fallback
+      let products = window.TOTAL_PRODUCTS || [];
+      cntAll.textContent = products.length;
 
-      // Read URL Params if present
-      const urlParams = new URLSearchParams(window.location.search);
-      const catParam = urlParams.get('cat');
-      if (catParam) {
-        currentCategory = catParam;
-        categoryPills.forEach(pill => {
-          if (pill.dataset.cat === catParam) {
-            categoryPills.forEach(p => p.classList.remove('active'));
-            pill.classList.add('active');
+      let selCat = 'all';
+      let selVolt = '';
+      let selBL = false;
+      let q = '';
+      let page = 1;
+      const perPage = 24;
+
+      // Handle category from URL if present
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('cat')) {
+        selCat = params.get('cat');
+        categoryBtns.forEach(btn => {
+          if (btn.dataset.cat === selCat) {
+            categoryBtns.forEach(b => { if(b.dataset.cat) b.classList.remove('active'); });
+            btn.classList.add('active');
           }
         });
       }
 
-      function getFilteredProducts() {
-        return allProducts.filter(p => {
-          const matchCat = (currentCategory === 'all' || p.category === currentCategory);
-          const matchVolt = (!currentVoltage || p.voltage === currentVoltage);
-          const matchBL = (!currentBrushless || p.is_brushless);
-          
-          const textSearch = `${p.title} ${p.code} ${p.cod_internal} ${p.specs.join(' ')}`.toLowerCase();
-          const matchQuery = (!searchQuery || textSearch.includes(searchQuery.toLowerCase()));
+      function getFiltered() {
+        return products.filter(p => {
+          const matchCat = (selCat === 'all' || p.category === selCat);
+          const matchVolt = (!selVolt || p.voltage === selVolt);
+          const matchBL = (!selBL || p.is_brushless);
+          const searchTxt = `${p.title} ${p.code} ${p.cod_internal} ${(p.specs||[]).join(' ')}`.toLowerCase();
+          const matchQ = (!q || searchTxt.includes(q.toLowerCase()));
 
-          return matchCat && matchVolt && matchBL && matchQuery;
+          return matchCat && matchVolt && matchBL && matchQ;
         });
       }
 
-      function renderGrid() {
-        const filtered = getFilteredProducts();
-        const toRender = filtered.slice(0, currentPage * pageSize);
+      function fixImgPath(imgPath) {
+        if (!imgPath) return 'public/assets/images.webp';
+        // Normalize image paths for Vite/static servers
+        return imgPath.replace(/^public\//, '');
+      }
 
-        totalCountEl.textContent = filtered.length;
-        renderedCountEl.textContent = toRender.length;
+      function render() {
+        const filtered = getFiltered();
+        const items = filtered.slice(0, page * perPage);
 
-        if (toRender.length >= filtered.length) {
-          btnLoadMore.style.display = 'none';
+        lblTotal.textContent = filtered.length;
+        lblShowing.textContent = items.length;
+
+        if (items.length >= filtered.length) {
+          btnMore.style.display = 'none';
         } else {
-          btnLoadMore.style.display = 'flex';
+          btnMore.style.display = 'flex';
         }
 
-        if (toRender.length === 0) {
-          productsGrid.innerHTML = `
-            <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 1rem; background: #F8FAFC; border-radius: 12px;">
-              <ion-icon name="search-discontent-outline" style="font-size: 3rem; color: #94A3B8; margin-bottom: 1rem;"></ion-icon>
-              <h3 style="font-size: 1.25rem; font-weight: 700; color: #334155;">No se encontraron productos</h3>
-              <p style="color: #64748B;">Intenta cambiar los filtros o el término de búsqueda.</p>
+        if (items.length === 0) {
+          grid.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 1rem; background: #F8FAFC; border-radius: 8px; border: 1px solid var(--border-color);">
+              <ion-icon name="search-outline" style="font-size: 2.5rem; color: #94A3B8; margin-bottom: 0.5rem;"></ion-icon>
+              <h3 style="font-size: 1.1rem; font-weight: 700; color: var(--title-color);">No se encontraron productos</h3>
+              <p style="color: var(--text-color); font-size: 0.9rem;">Prueba con otros términos de búsqueda o elimina los filtros.</p>
             </div>
           `;
           return;
         }
 
-        productsGrid.innerHTML = toRender.map(p => {
-          const mainImg = (p.images && p.images.length > 0) ? p.images[0] : 'public/assets/images.webp';
-          
-          let tagsHtml = `<span class="tag-badge tag-cat">${p.category}</span>`;
-          if (p.voltage) tagsHtml += `<span class="tag-badge tag-20v">${p.voltage}</span>`;
-          if (p.is_brushless) tagsHtml += `<span class="tag-badge tag-brushless">Brushless</span>`;
+        grid.innerHTML = items.map(p => {
+          const firstImg = (p.images && p.images.length > 0) ? fixImgPath(p.images[0]) : 'public/assets/images.webp';
 
-          const specsList = p.specs.slice(0, 3).map(s => `<li>${s}</li>`).join('');
+          let tags = `<span class="card-tag tag-gray">${p.category}</span>`;
+          if (p.voltage) tags += `<span class="card-tag tag-blue">${p.voltage}</span>`;
+          if (p.is_brushless) tags += `<span class="card-tag tag-yellow">Brushless</span>`;
+
+          const specsHtml = (p.specs || []).slice(0, 3).map(s => `<li>${s}</li>`).join('');
 
           return `
-            <div class="total-card">
+            <div class="total-product-card">
               <div>
-                <div class="total-card-img-wrapper">
-                  <img src="${mainImg}" alt="${p.title}" class="total-card-img" loading="lazy" onerror="this.src='public/assets/images.webp'">
+                <div class="card-img-box">
+                  <img src="${firstImg}" alt="${p.title}" loading="lazy" onerror="this.src='public/assets/images.webp'; this.onerror=null;">
                 </div>
-                <div class="tag-container">${tagsHtml}</div>
-                <h3 class="total-card-title">${p.title}</h3>
-                <div class="total-card-code">${p.code} ${p.cod_internal ? '• ' + p.cod_internal : ''}</div>
-                <ul class="total-card-specs">${specsList}</ul>
+                <div class="card-tags">${tags}</div>
+                <h3 class="card-item-title">${p.title}</h3>
+                <div class="card-item-code">${p.code} ${p.cod_internal ? '• ' + p.cod_internal : ''}</div>
+                <ul class="card-item-specs">${specsHtml}</ul>
               </div>
-              <button class="btn-detail" onclick="openModal('${p.id}')">
-                <ion-icon name="information-circle-outline" style="font-size: 1.1rem;"></ion-icon> Ficha Técnica
+              <button class="btn-ver-ficha" onclick="showFicha('${p.id}')">
+                <ion-icon name="document-text-outline"></ion-icon> Ver Ficha Técnica
               </button>
             </div>
           `;
         }).join('');
       }
 
-      // Event Listeners for Filters
-      categoryPills.forEach(pill => {
-        pill.addEventListener('click', () => {
-          if (pill.dataset.cat) {
-            categoryPills.forEach(p => {
-              if (p.dataset.cat) p.classList.remove('active');
-            });
-            pill.classList.add('active');
-            currentCategory = pill.dataset.cat;
-          } else if (pill.dataset.voltage) {
-            if (currentVoltage === pill.dataset.voltage) {
-              currentVoltage = '';
-              pill.classList.remove('active');
+      categoryBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          if (btn.dataset.cat) {
+            categoryBtns.forEach(b => { if(b.dataset.cat) b.classList.remove('active'); });
+            btn.classList.add('active');
+            selCat = btn.dataset.cat;
+          } else if (btn.dataset.volt) {
+            if (selVolt === btn.dataset.volt) {
+              selVolt = '';
+              btn.classList.remove('active');
             } else {
-              currentVoltage = pill.dataset.voltage;
-              pill.classList.add('active');
+              selVolt = btn.dataset.volt;
+              btn.classList.add('active');
             }
-          } else if (pill.dataset.brushless) {
-            currentBrushless = !currentBrushless;
-            pill.classList.toggle('active', currentBrushless);
+          } else if (btn.dataset.bl) {
+            selBL = !selBL;
+            btn.classList.toggle('active', selBL);
           }
-          currentPage = 1;
-          renderGrid();
+          page = 1;
+          render();
         });
       });
 
       searchInput.addEventListener('input', (e) => {
-        searchQuery = e.target.value;
-        currentPage = 1;
-        renderGrid();
+        q = e.target.value;
+        page = 1;
+        render();
       });
 
-      btnLoadMore.addEventListener('click', () => {
-        currentPage++;
-        renderGrid();
+      btnMore.addEventListener('click', () => {
+        page++;
+        render();
       });
 
-      // Modal Handling
-      window.openModal = function(id) {
-        const product = allProducts.find(p => p.id === id);
-        if (!product) return;
+      window.showFicha = function(id) {
+        const item = products.find(p => p.id === id);
+        if (!item) return;
 
-        const mainImg = (product.images && product.images.length > 0) ? product.images[0] : 'public/assets/images.webp';
-        modalImg.src = mainImg;
+        const mainImg = (item.images && item.images.length > 0) ? fixImgPath(item.images[0]) : 'public/assets/images.webp';
+        mImg.src = mainImg;
 
-        // Thumbnails
-        if (product.images && product.images.length > 1) {
-          modalThumbnails.innerHTML = product.images.map(img => `
-            <img src="${img}" style="width: 50px; height: 50px; object-fit: contain; border: 1px solid #E2E8F0; border-radius: 6px; cursor: pointer;" onclick="document.getElementById('modal-img').src='${img}'">
-          `).join('');
+        if (item.images && item.images.length > 1) {
+          mThumbs.innerHTML = item.images.map(img => {
+            const pth = fixImgPath(img);
+            return `<img src="${pth}" style="width:48px; height:48px; object-fit:contain; border:1px solid #CBD5E1; border-radius:4px; cursor:pointer;" onclick="document.getElementById('m-img').src='${pth}'">`;
+          }).join('');
         } else {
-          modalThumbnails.innerHTML = '';
+          mThumbs.innerHTML = '';
         }
 
-        let tagsHtml = `<span class="tag-badge tag-cat">${product.category}</span>`;
-        if (product.voltage) tagsHtml += `<span class="tag-badge tag-20v">${product.voltage}</span>`;
-        if (product.is_brushless) tagsHtml += `<span class="tag-badge tag-brushless">Motor Brushless</span>`;
-        modalTags.innerHTML = tagsHtml;
+        let tags = `<span class="card-tag tag-gray">${item.category}</span>`;
+        if (item.voltage) tags += `<span class="card-tag tag-blue">${item.voltage}</span>`;
+        if (item.is_brushless) tags += `<span class="card-tag tag-yellow">Brushless</span>`;
+        mTags.innerHTML = tags;
 
-        modalTitle.textContent = product.title;
-        modalCode.textContent = `Código: ${product.code} ${product.cod_internal ? ' (' + product.cod_internal + ')' : ''} — Pág. PDF: ${product.page}`;
+        mTitle.textContent = item.title;
+        mCode.textContent = `Código: ${item.code} ${item.cod_internal ? ' (' + item.cod_internal + ')' : ''} — Pág. PDF: ${item.page}`;
+        mSpecs.innerHTML = (item.specs || []).map(s => `<li>${s}</li>`).join('');
 
-        modalSpecs.innerHTML = product.specs.map(s => `<li>${s}</li>`).join('');
-
-        const msg = encodeURIComponent(`Hola, quisiera consultar por el producto TOTAL: ${product.title} (Código ${product.code}).`);
-        modalWhatsappLink.href = `https://wa.me/5492644115967?text=${msg}`;
+        const msg = encodeURIComponent(`Hola Absorb Pad S.R.L., quisiera solicitar presupuesto por el producto TOTAL: ${item.title} (${item.code}).`);
+        mWsp.href = `https://wa.me/5492644115967?text=${msg}`;
 
         modal.classList.add('active');
       };
 
-      modalCloseBtn.addEventListener('click', () => modal.classList.remove('active'));
-      modal.addEventListener('click', (e) => {
-        if (e.target === modal) modal.classList.remove('active');
-      });
+      btnCloseModal.addEventListener('click', () => modal.classList.remove('active'));
+      modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.remove('active'); });
 
-      // Initial Render
-      renderGrid();
+      render();
     });
   </script>
 </body>

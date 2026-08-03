@@ -14,23 +14,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p9_TOTAL-P9",
-    "title": "Herramienta TOTAL Pág. 9",
-    "code": "TOTAL-P9",
-    "cod_internal": "",
+    "id": "p9_TDLI205581",
+    "title": "TALADRO 20V BL 2000RPM 55NM",
+    "code": "TDLI205581",
+    "cod_internal": "COD. V2VITI228",
     "category": "Inalámbricas",
     "page": 9,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ",
-      "ñññMñññáñññxñññiñññmñññoñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ5ñññ5ñññNñññMñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ"
+      "Velocidad Variable: 0-500/0-2000 rpm",
+      "Control de torque: 22+1",
+      "Mandril autoajustable: 13mm",
+      "Máximo torque: 55NM",
+      "Velocidad Variable: 0-500/0-2000 rpm",
+      "Control de torque: 22+1",
+      "Mandril autoajustable: 13mm",
+      "Máximo torque: 55NM"
     ],
     "images": [
       "public/assets/total/p009_img1.jpeg",
@@ -38,23 +38,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p10_TOTAL-P10",
-    "title": "Herramienta TOTAL Pág. 10",
-    "code": "TOTAL-P10",
-    "cod_internal": "",
+    "id": "p10_TIDLI205581",
+    "title": "TALADRO PERCUTOR 20V BL 2000RPM 55NM",
+    "code": "TIDLI205581",
+    "cod_internal": "COD. V2VITI216",
     "category": "Inalámbricas",
     "page": 10,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ.ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ",
-      "ñññMñññáñññxñññiñññmñññoñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ5ñññ5ñññNñññMñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ.ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ ñññ"
+      "Velocidad Variable: 0-500/0-2000 rpm",
+      "Tasa de impacto: 30.000 gpm",
+      "Control de torque: 22+1",
+      "Mandril autoajustable: 13mm",
+      "Máximo torque: 55NM",
+      "Velocidad Variable: 0-500/0-2000 rpm",
+      "Tasa de impacto: 30.000 gpm",
+      "Control de torque: 22+1"
     ],
     "images": [
       "public/assets/total/p010_img1.jpeg",
@@ -62,23 +62,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p11_TOTAL-P11",
-    "title": "Herramienta TOTAL Pág. 11",
-    "code": "TOTAL-P11",
-    "cod_internal": "",
+    "id": "p11_TIDLI206681",
+    "title": "TALADRO PERCUTOR INALAMBRICO 20V BL 2000RPM 66NM",
+    "code": "TIDLI206681",
+    "cod_internal": "COD. V2VITI241",
     "category": "Inalámbricas",
     "page": 11,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ5ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ+ñññ1ñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ",
-      "ñññMñññáñññxñññiñññmñññoñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ6ñññ0ñññNñññMñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ5ñññ5ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ"
+      "Velocidad Variable: 0-550/0-2000 rpm",
+      "Control de torque: 22+1+1",
+      "Tasa de impacto : 30000 gpm",
+      "Mandril autoajustable: 13mm",
+      "Máximo torque: 60NM",
+      "Velocidad Variable: 550-2000 rpm",
+      "Control de torque: 22+1",
+      "Máximo torque: 66 Nm"
     ],
     "images": [
       "public/assets/total/p011_img1.jpeg",
@@ -86,23 +86,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p12_TOTAL-P12",
-    "title": "Herramienta TOTAL Pág. 12",
-    "code": "TOTAL-P12",
-    "cod_internal": "",
+    "id": "p12_TIDLI20668-4",
+    "title": "TALADRO PERCUTOR 20V BL 2000RPM 76NM",
+    "code": "TIDLI20668-4",
+    "cod_internal": "COD. V2VITI270",
     "category": "Inalámbricas",
     "page": 12,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññMñññáñññxñññ.ñññ:ñññ ñññ6ñññ6ñññ ñññNñññmñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññ ñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññTñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ+ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ"
+      "Velocidad: 0-500/0-2000 rpm",
+      "Tasa de Impacto: 30000 gpm",
+      "Torque Máx.: 66 Nm",
+      "Mandril auto ajustable: 13mm",
+      "Control de Torque: 22+1+1",
+      "Velocidad Variable: 0-500/0-2000 rpm",
+      "Control de torque: 22+1+1",
+      "Tasa de impacto : 30000 gpm"
     ],
     "images": [
       "public/assets/total/p012_img1.jpeg",
@@ -114,23 +114,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p13_TOTAL-P13",
-    "title": "Herramienta TOTAL Pág. 13",
-    "code": "TOTAL-P13",
-    "cod_internal": "",
+    "id": "p13_TIDLI20868-4",
+    "title": "TALADRO PERCUTOR 20V BL 2000RPM 86NM",
+    "code": "TIDLI20868-4",
+    "cod_internal": "COD. V2VITI280",
     "category": "Inalámbricas",
     "page": 13,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ5ñññ0ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ",
-      "ñññMñññáñññxñññiñññmñññoñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ8ñññ6ñññ ñññNñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ:ñññ ñññ9ñññ6ñññ ñññNñññmñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññ ñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ"
+      "Velocidad Variable: 500-2000 rpm",
+      "Control de torque: 22+1",
+      "Máximo torque: 86 Nm",
+      "Velocidad: 0-500/0-2000 rpm",
+      "Tasa de impacto: 30 000 rpm",
+      "Torque: 96 Nm",
+      "Mandril auto ajustable: 13mm",
+      "Control de Torque: 22+1+2"
     ],
     "images": [
       "public/assets/total/p013_img1.png",
@@ -142,23 +142,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p14_TOTAL-P14",
-    "title": "Herramienta TOTAL Pág. 14",
-    "code": "TOTAL-P14",
-    "cod_internal": "",
+    "id": "p14_TIDLI201668-4",
+    "title": "TALADRO PERCUTOR 20V BL 2000RPM 166NM",
+    "code": "TIDLI201668-4",
+    "cod_internal": "COD. V2VITI350",
     "category": "Inalámbricas",
     "page": 14,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ5ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ3ñññ+ñññ1ñññ+ñññ1ñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññ:ñññ ñññ3ñññ1ñññ5ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ1ñññ3ñññmñññmñññ",
-      "ñññMñññáñññxñññiñññmñññoñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ1ñññ6ñññ6ñññNñññMñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Velocidad Variable: 0-550/0-2000 rpm",
+      "Control de torque: 23+1+1",
+      "Tasa de impacto : 31500 gpm",
+      "Mandril autoajustable: 13mm",
+      "Máximo torque: 166NM",
+      "Velocidad: 0-500/0-2000 rpm",
+      "Tasa de impacto: 30 000 rpm",
+      "Torque: 96 Nm"
     ],
     "images": [
       "public/assets/total/p014_img1.jpeg",
@@ -167,23 +167,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p15_TOTAL-P15",
-    "title": "Herramienta TOTAL Pág. 15",
-    "code": "TOTAL-P15",
-    "cod_internal": "",
+    "id": "p15_TDLI12456",
+    "title": "TALADRO PERCUTOR 16V BL 2000RPM 66NM",
+    "code": "TDLI12456",
+    "cod_internal": "COD. V0V0TI081",
     "category": "Inalámbricas",
     "page": 15,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "12V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ7ñññ5ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññoñññnñññtñññrñññoñññlñññ ñññdñññeñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ1ñññ5ñññ+ñññ1ñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ0ñññ,ñññ8ñññ-ñññ1ñññ0ñññmñññmñññ",
-      "ñññMñññáñññxñññiñññmñññoñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ2ñññ0ñññNñññMñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ1ñññ6ñññ ñññVñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ"
+      "Velocidad: 0-750 rpm",
+      "Control de torque: 15+1",
+      "Mandril autoajustable: 0,8-10mm",
+      "Máximo torque: 20NM",
+      "Voltaje: 16 V",
+      "Velocidad sin carga: 0-500/0-2000 rpm",
+      "Frecuencia máxima de impacto: 30 000 rpm",
+      "Par máximo: 66 Nm"
     ],
     "images": [
       "public/assets/total/p015_img1.jpeg",
@@ -192,23 +192,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p16_TOTAL-P16",
-    "title": "Herramienta TOTAL Pág. 16",
-    "code": "TOTAL-P16",
-    "cod_internal": "",
+    "id": "p16_TDLI122061",
+    "title": "TALADRO PERCUTOR 12V 1500RPM 20NM",
+    "code": "TDLI122061",
+    "cod_internal": "COD. V0V0TI100",
     "category": "Inalámbricas",
     "page": 16,
-    "voltage": "",
+    "voltage": "12V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ1ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ4ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññPñññañññrñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ2ñññ0ñññ ñññNñññmñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññlñññ ñññpñññoñññrñññtñññañññbñññrñññoñññcñññañññsñññ:ñññ ñññ0ñññ,ñññ8ñññ-ñññ1ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññAñññjñññuñññsñññtñññeñññsñññ ñññdñññeñññ ñññpñññañññrñññ:ñññ ñññ1ñññ5ñññ+ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ4ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññPñññañññrñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ2ñññ0ñññ ñññNñññmñññ ñññ"
+      "Voltaje: 12 V",
+      "Velocidad sin carga: 0-400/0-1500 rpm",
+      "Par máximo: 20 Nm",
+      "Capacidad del portabrocas: 0,8-10 mm",
+      "Ajustes de par: 15+1",
+      "Velocidad sin carga: 0-400/0-1500 rpm",
+      "Par máximo: 20 Nm",
+      "Capacidad del portabrocas: 0,8-10 mm"
     ],
     "images": [
       "public/assets/total/p016_img1.jpeg",
@@ -217,67 +217,66 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p17_TOTAL-P17",
-    "title": "Herramienta TOTAL Pág. 17",
-    "code": "TOTAL-P17",
-    "cod_internal": "",
+    "id": "p17_THKTHP11652-4",
+    "title": "KIT TALADRO 20V +  165 ACCESORIOS",
+    "code": "THKTHP11652-4",
+    "cod_internal": "COD. VTA0K200M",
     "category": "Inalámbricas",
     "page": 17,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññTñññañññlñññañññdñññrñññoñññ ñññIñññnñññañññlñññáñññmñññbñññrñññiñññcñññoñññ ñññ2ñññ0ñññVñññ ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ2ñññ2ñññ5ñññ0ñññ0ñññgñññpñññmñññ",
-      "ñññPñññuñññnñññtñññañññsñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ ñññdñññeñññ ñññpñññrñññeñññsñññiñññcñññiñññoñññnñññ:ñññSñññLñññ1ñññ.ñññ5ñññ,ñññSñññLñññ2ñññ,ñññSñññLñññ3ñññ,ñññ ñññPñññHñññ0ñññ0ñññ0ñññ,ñññPñññHñññ0ñññ0ñññ,ñññPñññHñññ0ñññ,ñññTñññ6ñññ,ñññTñññ8ñññ,ñññHñññ1ñññ.ñññ5ñññ,ñññHñññ2ñññ.ñññ5ñññ",
-      "ñññ8ñññ ñññLñññlñññañññvñññeñññ ñññHñññeñññxñññ:ñññ1ñññ.ñññ5ñññ,ñññ2ñññ,ñññ2ñññ.ñññ5ñññ,ñññ3ñññ,ñññ4ñññ,ñññ5ñññ,ñññ5ñññ.ñññ5ñññ,ñññ6ñññmñññmñññ",
-      "ñññ1ñññ0ñññ ñññpñññuñññnñññtñññañññañññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ ñññ2ñññ”ñññ:ñññ ñññSñññLñññ4ñññ,ñññSñññLñññ5ñññ,ñññSñññLñññ6ñññ,ñññPñññHñññ1ñññ,ñññPñññHñññ2ñññ,ñññPñññHñññ3ñññ,ñññTñññ1ñññ0ñññ,ñññTñññ1ñññ5ñññ,ñññTñññ2ñññ0ñññ,ñññTñññ3ñññ0ñññ",
-      "ñññ7ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññ(ñññCñññrñññ-ñññVñññ)ñññ:ñññ ñññ5ñññ,ñññ6ñññ,ñññ7ñññ,ñññ8ñññ,ñññ9ñññ,ñññ1ñññ0ñññ,ñññ1ñññ1ñññmñññmñññ"
+      "Taladro Inalámbrico 20V Impacto: 22500gpm",
+      "Puntas destornillador de presicion:SL1.5,SL2,SL3, PH000,PH00,PH0,T6,T8,H1.5,H2.5",
+      "8 Llave Hex:1.5,2,2.5,3,4,5,5.5,6mm",
+      "10 puntaa destornillador 2”: SL4,SL5,SL6,PH1,PH2,PH3,T10,T15,T20,T30",
+      "7 bocallaves de impacto (Cr-V): 5,6,7,8,9,10,11mm"
     ],
     "images": [
       "public/assets/total/p017_img1.jpeg"
     ]
   },
   {
-    "id": "p18_TOTAL-P18",
-    "title": "Herramienta TOTAL Pág. 18",
-    "code": "TOTAL-P18",
-    "cod_internal": "",
+    "id": "p18_THKTHP11652-4",
+    "title": "PZ2, PZ3, T10, T15, T20, T30, H3, H4, H5, H6",
+    "code": "THKTHP11652-4",
+    "cod_internal": "COD. VTA0K123M",
     "category": "Inalámbricas",
     "page": 18,
-    "voltage": "",
+    "voltage": "12V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ1ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ7ñññ5ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññPñññañññrñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ2ñññ0ñññ ñññNñññmñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññlñññ ñññpñññoñññrñññtñññañññbñññrñññoñññcñññañññsñññ:ñññ ñññ0ñññ,ñññ8ñññ-ñññ1ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññAñññjñññuñññsñññtñññeñññsñññ ñññdñññeñññ ñññpñññañññrñññ:ñññ ñññ1ñññ5ñññ+ñññ1ñññ ñññ",
-      "ñññPñññuñññeñññrñññtñññoñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññUñññSñññBñññ ñññtñññiñññpñññoñññ ñññCñññ ñññ",
-      "ñññIñññnñññcñññlñññuñññyñññeñññ:ñññ ñññ",
-      "ñññ8ñññ ñññlñññlñññañññvñññeñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ:ñññ ñññ1ñññ,ñññ5ñññ,ñññ ñññ2ñññ,ñññ ñññ2ñññ,ñññ5ñññ,ñññ ñññ3ñññ,ñññ ñññ4ñññ,ñññ ñññ5ñññ,ñññ ñññ5ñññ,ñññ5ñññ ñññyñññ ñññ6ñññ ñññmñññmñññ ñññ"
+      "Voltaje: 12 V",
+      "Velocidad sin carga: 0-750 rpm",
+      "Par máximo: 20 Nm",
+      "Capacidad del portabrocas: 0,8-10 mm",
+      "Ajustes de par: 15+1",
+      "Puerto de carga: USB tipo C",
+      "Incluye:",
+      "8 llaves hexagonales: 1,5, 2, 2,5, 3, 4, 5, 5,5 y 6 mm"
     ],
     "images": [
       "public/assets/total/p018_img1.jpeg"
     ]
   },
   {
-    "id": "p19_TOTAL-P19",
-    "title": "Herramienta TOTAL Pág. 19",
-    "code": "TOTAL-P19",
-    "cod_internal": "",
+    "id": "p19_TIRLI2028-4",
+    "title": "ATORNILLADOR DE IMPACTO 20V BL 1/4 285NM",
+    "code": "TIRLI2028-4",
+    "cod_internal": "COD. V2VIAI210",
     "category": "Inalámbricas",
     "page": 19,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ ñññ/ñññ ñññ0ñññ-ñññ2ñññ6ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ9ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ2ñññ8ñññ5ñññNñññMñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ",
-      "ñññVñññáñññsñññtñññañññgñññoñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññ:ñññ ñññ6ñññ,ñññ3ñññ5ñññ ñññmñññmñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ4ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ6ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Velocidad Variable: 0-1600 / 0-2600 rpm",
+      "Tasa de impacto: 0-2100/0-2900 gpm",
+      "Torque máximo: 285NM",
+      "Voltaje: 20 V",
+      "Vástago hexagonal: 6,35 mm",
+      "Velocidad sin carga: 0-2000/0-2400/0-2600 rpm",
+      "Frecuencia de impacto: 0-2100/0-2500/0-2900 rpm",
+      "Par máximo: 230 Nm"
     ],
     "images": [
       "public/assets/total/p019_img1.jpeg",
@@ -286,23 +285,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p20_TOTAL-P20",
-    "title": "Herramienta TOTAL Pág. 20",
-    "code": "TOTAL-P20",
-    "cod_internal": "",
+    "id": "p20_TDSLI204281-4",
+    "title": "ATORNILLADOR PARA DURLOCK 20V BL",
+    "code": "TDSLI204281-4",
+    "cod_internal": "COD. V2VIAD220",
     "category": "Inalámbricas",
     "page": 20,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññpñññuñññnñññtñññañññ:ñññ ñññHñññeñññxñññañññgñññoñññnñññañññlñññ ñññdñññeñññ ñññ6ñññ,ñññ3ñññ5ñññ ñññmñññmñññ ñññ(ñññ1ñññ/ñññ4ñññ”ñññ)ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ4ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññmñññáñññxñññiñññmñññoñññ ñññdñññeñññlñññ ñññtñññoñññrñññnñññiñññlñññlñññoñññ:ñññ ñññ4ñññ,ñññ2ñññ ñññmñññmñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññpñññuñññnñññtñññañññ:ñññ ñññHñññeñññxñññañññgñññoñññnñññañññlñññ ñññdñññeñññ ñññ6ñññ,ñññ3ñññ5ñññ ñññmñññmñññ ñññ(ñññ1ñññ/ñññ4ñññ”ñññ)ñññ"
+      "Voltaje: 20 V",
+      "Tipo de punta: Hexagonal de 6,35 mm (1/4”)",
+      "Velocidad sin carga: 0-4200 rpm",
+      "Diámetro máximo del tornillo: 4,2 mm",
+      "Voltaje: 20 V",
+      "Tipo de punta: Hexagonal de 6,35 mm (1/4”)",
+      "Velocidad sin carga: 0-4200 rpm",
+      "Diámetro máximo del tornillo: 4,2 mm"
     ],
     "images": [
       "public/assets/total/p020_img1.jpeg",
@@ -310,23 +309,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p21_TOTAL-P21",
-    "title": "Herramienta TOTAL Pág. 21",
-    "code": "TOTAL-P21",
-    "cod_internal": "",
+    "id": "p21_TSDLI04062",
+    "title": "ATORNILLADOR INALAMBRICO 4V + 43 ACCESORIOS",
+    "code": "TSDLI04062",
+    "cod_internal": "COD. VAT00402M",
     "category": "Inalámbricas",
     "page": 21,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "12V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ2ñññ4ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññ ñññ.ñññ:ñññ ñññ5ñññNñññ.ñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññ:ñññ ñññ1ñññ/ñññ4ñññ“ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ0ñññ-ñññ2ñññ2ñññ0ñññ ñññ/ñññ ñññmñññiñññnñññ.ñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññ ñññ.ñññ:ñññ ñññ6ñññ ñññNñññ.ñññmñññ"
+      "Encastre hexagonal: 1/4”",
+      "Velocidad : 240 rpm",
+      "Torque máx .: 5N.m",
+      "Encastre hexagonal: 1/4“",
+      "Velocidad : 0-220 / min.",
+      "Torque máx .: 6 N.m",
+      "Configuración de Torque: 15 + 1",
+      "Encastre hexagonal: 1/4 “"
     ],
     "images": [
       "public/assets/total/p021_img1.jpeg",
@@ -335,23 +334,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p22_TOTAL-P22",
-    "title": "Herramienta TOTAL Pág. 22",
-    "code": "TOTAL-P22",
-    "cod_internal": "",
+    "id": "p22_TSDLI04425",
+    "title": "ATORNILLADOR INALAMBRICO 4V + 24 ACCESORIOS",
+    "code": "TSDLI04425",
+    "cod_internal": "COD. VAT00403M",
     "category": "Inalámbricas",
     "page": 22,
-    "voltage": "",
+    "voltage": "4V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññVñññáñññsñññtñññañññgñññoñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññ:ñññ ñññ1ñññ/ñññ4ñññ’ñññ’ñññ’ñññ’ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ4ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ4ñññ ñññNñññ.ñññmñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ ñññVñññ",
-      "ñññVñññáñññsñññtñññañññgñññoñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ4ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññPñññañññrñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ4ñññ ñññNñññmñññ"
+      "Vástago hexagonal: 1/4’’’’",
+      "Velocidad sin carga: 240 rpm",
+      "Torque máximo: 4 N.m",
+      "Voltaje: 4 V",
+      "Vástago hexagonal: 1/4”",
+      "Velocidad sin carga: 240 rpm",
+      "Par máximo: 4 Nm",
+      "Voltaje: 4 V"
     ],
     "images": [
       "public/assets/total/p022_img1.jpeg",
@@ -360,23 +359,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p23_TOTAL-P23",
-    "title": "Herramienta TOTAL Pág. 23",
-    "code": "TOTAL-P23",
-    "cod_internal": "",
+    "id": "p23_TIWLI2040-4",
+    "title": "LLAVE DE IMPACTO 20V BL 350NM",
+    "code": "TIWLI2040-4",
+    "cod_internal": "COD. V2VILI205",
     "category": "Inalámbricas",
     "page": 23,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ3ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ9ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññ.ñññ:ñññ ñññ4ñññ0ñññ0ñññ ñññNñññmñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ3ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ9ñññ0ñññ0ñññ ñññ"
+      "Velocidad: 0-1600/0-1900/0-2300 rpm",
+      "Tasa de impacto: 0-2100/0-2500/0-2900 gpm",
+      "Torque máx.: 400 Nm",
+      "Cuadro de mando: 1/2”",
+      "Velocidad sin carga: 0-1600/0-1900/0-2300 rpm",
+      "Frecuencia de impacto: 0-2100/0-2500/0-2900",
+      "Par de apriete: 350 Nm",
+      "Par de apriete de tuercas: 450 Nm"
     ],
     "images": [
       "public/assets/total/p023_img1.jpeg",
@@ -384,23 +383,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p24_TOTAL-P24",
-    "title": "Herramienta TOTAL Pág. 24",
-    "code": "TOTAL-P24",
-    "cod_internal": "",
+    "id": "p24_TIWLI20501",
+    "title": "LLAVE DE IMPACTO 20V 500NM BL",
+    "code": "TIWLI20501",
+    "cod_internal": "COD. V2VILI210",
     "category": "Inalámbricas",
     "page": 24,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ2ñññ4ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ3ñññ3ñññ0ñññ0ñññgñññpñññmñññ",
-      "ñññMñññáñññxñññ.ñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ5ñññ0ñññ0ñññNñññMñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ4ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Encastre: 1/2”",
+      "Velocidad Variable: 0-1200/0-1800/0-2200 rpm",
+      "Impacto: 0-2400/0-2800/0-3300gpm",
+      "Máx. torque: 500NM",
+      "Cuadro de mando: 1/2”",
+      "Velocidad sin carga: 0-1800/0-2000/0-2400 rpm",
+      "Frecuencia de impacto: 0-2200/0-2600/0-3000 rpm",
+      "Par de apriete: 405 Nm"
     ],
     "images": [
       "public/assets/total/p024_img1.jpeg",
@@ -408,23 +407,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p25_TOTAL-P25",
-    "title": "Herramienta TOTAL Pág. 25",
-    "code": "TOTAL-P25",
-    "cod_internal": "",
+    "id": "p25_TIWLI20851",
+    "title": "LLAVE DE IMPACTO 20V 850NM BL",
+    "code": "TIWLI20851",
+    "cod_internal": "COD. V2VILI250",
     "category": "Inalámbricas",
     "page": 25,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ4ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññgñññpñññmñññ",
-      "ñññMñññáñññxñññ.ñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ8ñññ5ñññ0ñññNñññMñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Encastre: 1/2”",
+      "Velocidad Variable: 0-1600/0-2100/0-2400 rpm",
+      "Impacto: 0-1500/0-1800/0-2200gpm",
+      "Máx. torque: 850NM",
+      "Encastre: 1/2”",
+      "Velocidad Variable: 0-1200/0-1800/0-2200 rpm",
+      "Impacto: 0-2400/0-2800/0-3300gpm",
+      "Máx. torque: 500NM"
     ],
     "images": [
       "public/assets/total/p025_img1.jpeg",
@@ -432,23 +431,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p26_TOTAL-P26",
-    "title": "Herramienta TOTAL Pág. 26",
-    "code": "TOTAL-P26",
-    "cod_internal": "",
+    "id": "p26_TIWLI20105-4",
+    "title": "LLAVE DE IMPACTO 20V BL 1050NM",
+    "code": "TIWLI20105-4",
+    "cod_internal": "COD. V2VILI270",
     "category": "Inalámbricas",
     "page": 26,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ3ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññgñññpñññmñññ",
-      "ñññMñññáñññxñññ.ñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ1ñññ0ñññ5ñññ0ñññNñññMñññ",
-      "ñññ ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ4ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Encastre: 3/4”",
+      "Velocidad Variable: 0-900/0-1200/0-1800 rpm",
+      "Impacto: 0-1800/0-2000/0-2200gpm",
+      "Máx. torque: 1050NM",
+      "Encastre: 1/2”",
+      "Velocidad Variable: 0-1600/0-2100/0-2400 rpm",
+      "Impacto: 0-1500/0-1800/0-2200gpm",
+      "Máx. torque: 850NM"
     ],
     "images": [
       "public/assets/total/p026_img1.jpeg",
@@ -457,23 +456,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p27_TOTAL-P27",
-    "title": "Herramienta TOTAL Pág. 27",
-    "code": "TOTAL-P27",
-    "cod_internal": "",
+    "id": "p27_TIWLI201351",
+    "title": "LLAVE DE IMPACTO 20V BL 1350NM",
+    "code": "TIWLI201351",
+    "cod_internal": "COD. V2VILI299",
     "category": "Inalámbricas",
     "page": 27,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ3ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññgñññpñññmñññ",
-      "ñññMñññáñññxñññ.ñññ ñññtñññoñññrñññqñññuñññeñññ:ñññ ñññ1ñññ3ñññ5ñññ0ñññNñññMñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññEñññnñññcñññañññsñññtñññrñññeñññ:ñññ ñññ3ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Encastre: 3/4”",
+      "Velocidad Variable: 0-900/0-1200/0-1800 rpm",
+      "Impacto: 0-1800/0-2000/0-2200gpm",
+      "Máx. torque: 1350NM",
+      "Encastre: 3/4”",
+      "Velocidad Variable: 0-900/0-1200/0-1800 rpm",
+      "Impacto: 0-1800/0-2000/0-2200gpm",
+      "Máx. torque: 1350NM"
     ],
     "images": [
       "public/assets/total/p027_img1.jpeg",
@@ -481,23 +480,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p28_TOTAL-P28",
-    "title": "Herramienta TOTAL Pág. 28",
-    "code": "TOTAL-P28",
-    "cod_internal": "",
+    "id": "p28_TIWLI201751",
+    "title": "LLAVE DE IMPACTO 20V BL 1750NM",
+    "code": "TIWLI201751",
+    "cod_internal": "COD. V2VILI310",
     "category": "Inalámbricas",
     "page": 28,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ3ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ1ñññ7ñññ5ñññ0ñññ ñññNñññmñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ2ñññ1ñññ0ñññ0ñññ ñññNñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ"
+      "Voltaje: 20 V",
+      "Cuadro de mando: 3/4”",
+      "Velocidad sin carga: 0-900/0-1200/0-1800 rpm",
+      "Frecuencia de impacto: 0-1800/0-2000/0-2200 rpm",
+      "Par de apriete: 1750 Nm",
+      "Par de apriete: 2100 Nm",
+      "Voltaje: 20 V",
+      "Cuadro de mando: 3/4”"
     ],
     "images": [
       "public/assets/total/p028_img1.jpeg",
@@ -505,23 +504,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p29_TOTAL-P29",
-    "title": "Herramienta TOTAL Pág. 29",
-    "code": "TOTAL-P29",
-    "cod_internal": "",
+    "id": "p29_THPTCS83692-4",
+    "title": "KIT LLAVE DE IMPACTO 850NM + 369 ACCESORIOS",
+    "code": "THPTCS83692-4",
+    "cod_internal": "COD. VTAIK0850",
     "category": "Inalámbricas",
     "page": 29,
     "voltage": "",
-    "is_brushless": false,
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ4ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ8ñññ5ñññ0ñññ ñññNñññmñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ ñññNñññmñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ2ñññ0ñññ–ñññ2ñññ4ñññ0ñññ ñññVñññ ñññ~ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ ñññ",
-      "ñññ1ñññ0ñññ ñññdñññañññdñññoñññsñññ ñññlñññañññrñññgñññoñññsñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ9ñññ,ñññ ñññ2ñññ1ñññ,ñññ ñññ2ñññ2ñññ ñññ"
+      "Voltaje: 20 V",
+      "Cuadro de mando: 1/2”",
+      "Velocidad sin carga: 0-1600/0-2100/0-2400 rpm",
+      "Frecuencia de impacto: 0-1500/0-1800/0-2200 rpm",
+      "Par de apriete: 850 Nm",
+      "Par de apriete: 1000 Nm",
+      "Voltaje de carga: 220–240 V ~ 50/60 Hz",
+      "10 dados largos de impacto de 1/2”: 10, 12, 13, 14, 15, 17, 19, 21, 22"
     ],
     "images": [
       "public/assets/total/p029_img1.jpeg",
@@ -529,23 +528,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p30_TOTAL-P30",
-    "title": "Herramienta TOTAL Pág. 30",
-    "code": "TOTAL-P30",
-    "cod_internal": "",
+    "id": "p30_THKTHP31262-4",
+    "title": "KIT LLAVE DE IMPACTO 1350NM + 126 ACCESORIOS",
+    "code": "THKTHP31262-4",
+    "cod_internal": "COD. VTAIK1350",
     "category": "Inalámbricas",
     "page": 30,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ3ñññ/ñññ4ñññ”ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ/ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ1ñññ3ñññ5ñññ0ñññ ñññNñññmñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ1ñññ9ñññ0ñññ0ñññ ñññNñññmñññ",
-      "ñññiñññmñññpñññañññcñññtñññoñññ ñññiñññnñññañññlñññáñññmñññbñññrñññiñññcñññañññ:ñññ"
+      "Voltaje: 20 V",
+      "Cuadro de mando: 3/4”",
+      "Velocidad sin carga: 0-900/0-1200/0-1800 rpm",
+      "Frecuencia de impacto: 0-1800/0-2000/0-2200 rpm",
+      "Par de apriete: 1350 Nm",
+      "Par de apriete: 1900 Nm",
+      "impacto inalámbrica:",
+      "4 bocallaves de 3/4”: 26, 27, 30 y 32 mm"
     ],
     "images": [
       "public/assets/total/p030_img1.jpeg",
@@ -553,23 +552,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p31_TOTAL-P31",
-    "title": "Herramienta TOTAL Pág. 31",
-    "code": "TOTAL-P31",
-    "cod_internal": "",
+    "id": "p31_TRHLI20168",
+    "title": "ROTOMARTILLO SDS PLUS 20V BL 18MM",
+    "code": "TRHLI20168",
+    "cod_internal": "COD. V2V0MR160",
     "category": "Inalámbricas",
     "page": 31,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññEñññnñññeñññrñññgñññíñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ1ñññ.ñññ5ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ1ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññPñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññcñññoñññnñññcñññrñññeñññtñññoñññ ñññ1ñññ6ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññEñññnñññeñññrñññgñññíñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ1ñññ.ñññ5ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ1ñññ0ñññ0ñññ ñññgñññpñññmñññ"
+      "Velocidad Variable: 0-900 rpm",
+      "Energía de impacto: 1.5J",
+      "Tasa de Impacto: 0-5100 gpm",
+      "Perforación: concreto 16mm",
+      "Velocidad Variable: 0-900 rpm",
+      "Energía de impacto: 1.5J",
+      "Tasa de Impacto: 0-5100 gpm",
+      "Perforación: concreto 18mm"
     ],
     "images": [
       "public/assets/total/p031_img1.jpeg",
@@ -581,23 +580,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p32_TOTAL-P32",
-    "title": "Herramienta TOTAL Pág. 32",
-    "code": "TOTAL-P32",
-    "cod_internal": "",
+    "id": "p32_TRHLI212282-4",
+    "title": "ROTOMARTILLO SDS PLUS 20V BL 22MM",
+    "code": "TRHLI212282-4",
+    "cod_internal": "COD. V2VIMR221",
     "category": "Inalámbricas",
     "page": 32,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ1ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ2ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ4ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññPñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññcñññoñññnñññcñññrñññeñññtñññoñññ ñññ2ñññ2ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ1ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ2ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ4ñññ0ñññ0ñññ ñññgñññpñññmñññ"
+      "Velocidad Variable: 0-1100 rpm",
+      "Impacto: 2J",
+      "Tasa de impacto: 0-5400 gpm",
+      "Perforación: concreto 22mm",
+      "Velocidad Variable: 0-1100 rpm",
+      "Impacto: 2J",
+      "Tasa de impacto: 0-5400 gpm",
+      "Perforación: concreto 22mm"
     ],
     "images": [
       "public/assets/total/p032_img1.jpeg",
@@ -605,23 +604,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p33_TOTAL-P33",
-    "title": "Herramienta TOTAL Pág. 33",
-    "code": "TOTAL-P33",
-    "cod_internal": "",
+    "id": "p33_TRHLI202682-4",
+    "title": "ROTOMARTILLO SDS PLUS 20V BL 26MM",
+    "code": "TRHLI202682-4",
+    "cod_internal": "COD.V2VIMR262",
     "category": "Inalámbricas",
     "page": 33,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ1ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ2ñññ,ñññ5ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññPñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññcñññoñññnñññcñññrñññeñññtñññoñññ ñññ2ñññ6ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ1ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ2ñññ,ñññ5ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ"
+      "Velocidad Variable: 0-1100 rpm",
+      "Impacto: 2,5J",
+      "Tasa de impacto: 0-5000 gpm",
+      "Perforación: concreto 26mm",
+      "Velocidad Variable: 0-1100 rpm",
+      "Impacto: 2,5J",
+      "Tasa de impacto: 0-5000 gpm",
+      "Perforación: concreto 26mm"
     ],
     "images": [
       "public/assets/total/p033_img1.jpeg",
@@ -629,23 +628,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p34_TOTAL-P34",
-    "title": "Herramienta TOTAL Pág. 34",
-    "code": "TOTAL-P34",
-    "cod_internal": "",
+    "id": "p34_TRHLI20288",
+    "title": "ROTOMARTILLO SDS PLUS 20V BL 28MM",
+    "code": "TRHLI20288",
+    "cod_internal": "COD. V2VIMR280",
     "category": "Inalámbricas",
     "page": 34,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ4ñññ,ñññ5ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ4ñññ4ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññPñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññcñññoñññnñññcñññrñññeñññtñññoñññ ñññ2ñññ8ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ4ñññ,ñññ5ñññJñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ4ñññ4ñññ0ñññ0ñññ ñññgñññpñññmñññ"
+      "Velocidad Variable: 0-1000 rpm",
+      "Impacto: 4,5J",
+      "Tasa de impacto: 0-4400 gpm",
+      "Perforación: concreto 28mm",
+      "Velocidad Variable: 0-1000 rpm",
+      "Impacto: 4,5J",
+      "Tasa de impacto: 0-4400 gpm",
+      "Perforación: concreto 28mm"
     ],
     "images": [
       "public/assets/total/p034_img1.jpeg",
@@ -653,23 +652,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p35_TOTAL-P35",
-    "title": "Herramienta TOTAL Pág. 35",
-    "code": "TOTAL-P35",
-    "cod_internal": "",
+    "id": "p35_TAGLI261522-4",
+    "title": "AMOLADORA ANGULAR 20V BL 1000W 115MM",
+    "code": "TAGLI261522-4",
+    "cod_internal": "COD.V2VIAM110",
     "category": "Inalámbricas",
     "page": 35,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ-ñññ6ñññ0ñññ0ñññ-ñññ9ñññ0ñññ0ñññ0ñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ1ñññ5ñññ ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ-ñññ6ñññ0ñññ0ñññ-ñññ9ñññ0ñññ0ñññ0ñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ1ñññ5ñññ ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ"
+      "Velocidad variable: 3000-600-9000",
+      "Diámetro del disco: 115 mm",
+      "Rosca del husillo: M14",
+      "Velocidad variable: 3000-600-9000",
+      "Diámetro del disco: 115 mm",
+      "Rosca del husillo: M14"
     ],
     "images": [
       "public/assets/total/p035_img1.jpeg",
@@ -678,23 +675,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p36_TOTAL-P36",
-    "title": "Herramienta TOTAL Pág. 36",
-    "code": "TOTAL-P36",
-    "cod_internal": "",
+    "id": "p36_TAGLI271532-4",
+    "title": "AMOLADORA ANGULAR 20V BL 1000W 115MM",
+    "code": "TAGLI271532-4",
+    "cod_internal": "COD. V2VIAM162",
     "category": "Inalámbricas",
     "page": 36,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ-ñññ6ñññ0ñññ0ñññ-ñññ9ñññ0ñññ0ñññ0ñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ1ñññ5ñññ ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ-ñññ6ñññ0ñññ0ñññ-ñññ9ñññ0ñññ0ñññ0ñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ1ñññ5ñññ ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
+      "Velocidad variable: 3000-600-9000",
+      "Diámetro del disco: 115 mm",
+      "Rosca del husillo: M14",
+      "Velocidad variable: 3000-600-9000",
+      "Diámetro del disco: 115 mm",
+      "Rosca del husillo: M14"
     ],
     "images": [
       "public/assets/total/p036_img1.jpeg",
@@ -703,23 +698,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p37_TOTAL-P37",
-    "title": "Herramienta TOTAL Pág. 37",
-    "code": "TOTAL-P37",
-    "cod_internal": "",
+    "id": "p37_TAGLI7601",
+    "title": "MINIAMOLADORA 20V 76MM",
+    "code": "TAGLI7601",
+    "cod_internal": "COD.V2VIAM076",
     "category": "Inalámbricas",
     "page": 37,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ1ñññ9ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ7ñññ6ñññmñññmñññ ñññ(ñññ3ñññ”ñññ)ñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ1ñññ9ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ7ñññ6ñññmñññmñññ ñññ(ñññ3ñññ”ñññ)ñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ6ñññ"
+      "Velocidad : 19500 rpm",
+      "Diámetro del disco: 76mm (3”)",
+      "Rosca del husillo: M6",
+      "Velocidad : 19500 rpm",
+      "Diámetro del disco: 76mm (3”)",
+      "Rosca del husillo: M6",
+      "Velocidad variable: 400-2500 rpm.",
+      "Disco de pulido: 150mm"
     ],
     "images": [
       "public/assets/total/p037_img1.jpeg",
@@ -728,23 +723,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p38_TOTAL-P38",
-    "title": "Herramienta TOTAL Pág. 38",
-    "code": "TOTAL-P38",
-    "cod_internal": "",
+    "id": "p38_TAPLI2018",
+    "title": "PULIDORA 20V BL 180MM (MANGO D)",
+    "code": "TAPLI2018",
+    "cod_internal": "COD. V2VILP160",
     "category": "Inalámbricas",
     "page": 38,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ4ñññ0ñññ0ñññ-ñññ2ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ.ñññ",
-      "ñññDñññiñññsñññcñññoñññ ñññdñññeñññ ñññpñññuñññlñññiñññdñññoñññ:ñññ ñññ1ñññ8ñññ0ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ4ñññ0ñññ0ñññ-ñññ2ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ.ñññ",
-      "ñññDñññiñññsñññcñññoñññ ñññdñññeñññ ñññpñññuñññlñññiñññdñññoñññ:ñññ ñññ2ñññ5ñññ4ñññmñññmñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ4ñññ0ñññ0ñññ-ñññ2ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ.ñññ",
-      "ñññDñññiñññsñññcñññoñññ ñññdñññeñññ ñññpñññuñññlñññiñññdñññoñññ:ñññ ñññ2ñññ5ñññ4ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
+      "Velocidad variable: 400-2500 rpm.",
+      "Disco de pulido: 180mm",
+      "Velocidad variable: 400-2500 rpm.",
+      "Disco de pulido: 254mm",
+      "Velocidad variable: 400-2500 rpm.",
+      "Disco de pulido: 254mm"
     ],
     "images": [
       "public/assets/total/p038_img1.jpeg",
@@ -753,22 +746,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p39_TOTAL-P39",
-    "title": "Herramienta TOTAL Pág. 39",
-    "code": "TOTAL-P39",
-    "cod_internal": "",
+    "id": "p39_TAPLI1676-4",
+    "title": "LIJADORA ROTO ORBITAL 20V BL",
+    "code": "TAPLI1676-4",
+    "cod_internal": "COD.VPLI16760",
     "category": "Inalámbricas",
     "page": 39,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ1ñññ6ñññ ñññVñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ2ñññ8ñññ0ñññ0ñññ/ñññ0ñññ-ñññ8ñññ3ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññañññlñññmñññoñññhñññañññdñññiñññlñññlñññañññ ñññdñññeñññ ñññpñññuñññlñññiñññdñññoñññ:ñññ ñññ7ñññ6ñññ ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññ5ñññ/ñññ1ñññ6ñññ’ñññ’ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ8ñññ0ñññ0ñññ0ñññ-ñññ1ñññ3ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ"
+      "Voltaje: 16 V",
+      "Velocidad sin carga: 0-2800/0-8300 rpm",
+      "Diámetro de la almohadilla de pulido: 76 mm",
+      "Rosca del husillo: 5/16’’",
+      "Velocidad: 8000-13000 rpm"
     ],
     "images": [
       "public/assets/total/p039_img1.jpeg",
@@ -777,21 +768,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p40_TOTAL-P40",
-    "title": "Herramienta TOTAL Pág. 40",
-    "code": "TOTAL-P40",
-    "cod_internal": "",
+    "id": "p40_TROSLI2002",
+    "title": "LIJADORA DE PALMA ORBITAL 20V BL",
+    "code": "TROSLI2002",
+    "cod_internal": "COD. V2VILJR00",
     "category": "Inalámbricas",
     "page": 40,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ8ñññ0ñññ0ñññ0ñññ-ñññ1ñññ3ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ"
+      "Velocidad: 8000-13000 rpm",
+      "Velocidad: 12000 rpm",
+      "Velocidad: 12000 rpm"
     ],
     "images": [
       "public/assets/total/p040_img1.jpeg",
@@ -800,22 +788,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p41_TOTAL-P41",
-    "title": "Herramienta TOTAL Pág. 41",
-    "code": "TOTAL-P41",
-    "cod_internal": "",
+    "id": "p41_TPSLI2024",
+    "title": "CEPILLO 20V BL 14000RPM",
+    "code": "TPSLI2024",
+    "cod_internal": "COD. V2VILJD01",
     "category": "Inalámbricas",
     "page": 41,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ4ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññAñññnñññcñññhñññoñññ ñññyñññ ñññpñññrñññoñññfñññuñññnñññdñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññeñññpñññiñññlñññlñññañññdñññoñññ:ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
+      "Velocidad: 12000rpm",
+      "Velocidad: 12000rpm",
+      "Velocidad: 14000 rpm",
+      "Ancho y profundidad de cepillado:"
     ],
     "images": [
       "public/assets/total/p041_img1.jpeg",
@@ -824,23 +809,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p42_TOTAL-P42",
-    "title": "Herramienta TOTAL Pág. 42",
-    "code": "TOTAL-P42",
-    "cod_internal": "",
+    "id": "p42_TMLI2022",
+    "title": "SIERRA CIRCULAR BL 20V 140MM.",
+    "code": "TMLI2022",
+    "cod_internal": "COD. V2V0MH010",
     "category": "Inalámbricas",
     "page": 42,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ5ñññ0ñññ0ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ",
-      "ñññMñññañññdñññeñññrñññañññ:ñññ ñññ1ñññ1ñññ0ñññ ñññmñññmñññ",
-      "ñññMñññeñññtñññañññlñññ:ñññ ñññ1ñññ2ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ3ñññ6ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Velocidad Variable: 5000-20000 rpm",
+      "Velocidad: 3000rpm",
+      "Capacidad de corte:",
+      "Madera: 110 mm",
+      "Metal: 12 mm",
+      "Velocidad sin carga: 3600 rpm",
+      "Diámetro de la hoja: 140 mm",
+      "Capacidad de corte 45°: 33 mm"
     ],
     "images": [
       "public/assets/total/p042_img1.jpeg",
@@ -849,23 +834,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p43_TOTAL-P43",
-    "title": "Herramienta TOTAL Pág. 43",
-    "code": "TOTAL-P43",
-    "cod_internal": "",
+    "id": "p43_TSLI1652",
+    "title": "SIERRA CIRCULAR 20V BL 165MM",
+    "code": "TSLI1652",
+    "cod_internal": "COD. V2VISI005",
     "category": "Inalámbricas",
     "page": 43,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ5ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ1ñññ4ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññ4ñññ5ñññ°ñññ:ñññ ñññ4ñññ2ñññ ñññmñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññ9ñññ0ñññ°ñññ:ñññ ñññ5ñññ5ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ4ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ1ñññ8ñññ5ñññ ñññmñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññ4ñññ5ñññ°ñññ:ñññ ñññ4ñññ5ñññ ñññmñññmñññ"
+      "Velocidad sin carga: 5200 rpm",
+      "Diámetro de la hoja: 140 mm",
+      "Capacidad de corte 45°: 42 mm",
+      "Capacidad de corte 90°: 55 mm",
+      "Velocidad sin carga: 4800 rpm",
+      "Diámetro de la hoja: 185 mm",
+      "Capacidad de corte 45°: 45 mm",
+      "Capacidad de corte 90°: 65 mm"
     ],
     "images": [
       "public/assets/total/p043_img1.jpeg",
@@ -874,23 +859,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p44_TOTAL-P44",
-    "title": "Herramienta TOTAL Pág. 44",
-    "code": "TOTAL-P44",
-    "cod_internal": "",
+    "id": "p44_TRSLI6506",
+    "title": "CLAVADORA 20V 18GA 35MM",
+    "code": "TRSLI6506",
+    "cod_internal": "COD. V2V0SS250",
     "category": "Inalámbricas",
     "page": 44,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ3ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ",
-      "ñññMñññeñññtñññañññlñññ:ñññ ñññ8ñññmñññmñññ",
-      "ñññMñññañññdñññeñññrñññañññ:ñññ ñññ6ñññ5ñññmñññmñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññlñññañññvñññañññdñññoñññ:ñññ ñññ3ñññ ñññcñññlñññañññvñññoñññsñññ ñññpñññoñññrñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññlñññañññvñññañññdñññoñññ:ñññ ñññ3ñññ ñññcñññlñññañññvñññoñññsñññ ñññpñññoñññrñññ ñññsñññeñññgñññuñññnñññ-ñññ"
+      "Velocidad variable: 0-3200 rpm",
+      "Capacidad de corte:",
+      "Metal: 8mm",
+      "Madera: 65mm",
+      "Velocidad de clavado: 3 clavos por",
+      "Velocidad de clavado: 3 clavos por segun-"
     ],
     "images": [
       "public/assets/total/p044_img1.jpeg",
@@ -899,23 +882,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p45_TOTAL-P45",
-    "title": "Herramienta TOTAL Pág. 45",
-    "code": "TOTAL-P45",
-    "cod_internal": "",
+    "id": "p45_TCNLI9005",
+    "title": "CLAVADORA PARA CONCRETO 20V BL 40MM",
+    "code": "TCNLI9005",
+    "cod_internal": "COD. V2VICC400",
     "category": "Inalámbricas",
     "page": 45,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "20V",
+    "is_brushless": true,
     "specs": [
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññlñññ ñññfñññiñññjñññañññdñññoñññrñññ:ñññ ñññ1ñññ5ñññ-ñññ4ñññ0ñññ ñññmñññmñññ",
-      "ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññlñññ ñññcñññlñññañññvñññoñññ:ñññ ñññ2ñññ7ñññ ñññmñññmñññ)ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññvñññiñññbñññrñññañññcñññiñññóñññnñññ:ñññ ñññ0ñññ-ñññ1ñññ0ñññ ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññañññbñññsñññoñññrñññcñññiñññóñññnñññ:ñññ ñññ6ñññ0ñññ ñññkñññgñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññvñññeñññnñññtñññoñññsñññañññ:ñññ ñññ1ñññ3ñññ0ñññ ñññmñññmñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ"
+      "Longitud del fijador: 15-40 mm",
+      "máxima del clavo: 27 mm)",
+      "Frecuencia de vibración: 0-10 000 rpm",
+      "Capacidad de absorción: 60 kg",
+      "Diámetro de la ventosa: 130 mm",
+      "Frecuencia de vibración: 0-10 000 rpm",
+      "Capacidad de absorción: 60 kg",
+      "Diámetro de la ventosa: 130 mm"
     ],
     "images": [
       "public/assets/total/p045_img1.jpeg",
@@ -925,23 +908,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p46_TOTAL-P46",
-    "title": "Herramienta TOTAL Pág. 46",
-    "code": "TOTAL-P46",
-    "cod_internal": "",
+    "id": "p46_TBLI2006",
+    "title": "VIBRADOR PARA CONCRETO 20V",
+    "code": "TBLI2006",
+    "cod_internal": "COD. V2VIPC201",
     "category": "Inalámbricas",
     "page": 46,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ3ñññ0ñññ0ñññ/ñññ5ñññ5ñññ0ñññ ñññ°ñññCñññ ñññ",
-      "ñññFñññlñññuñññjñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ/ñññ2ñññ0ñññ0ñññ ñññLñññ/ñññmñññiñññnñññ ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ3ñññ0ñññ0ñññ/ñññ5ñññ5ñññ0ñññ ñññ°ñññCñññ ñññ",
-      "ñññFñññlñññuñññjñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ/ñññ2ñññ0ñññ0ñññ ñññLñññ/ñññmñññiñññnñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ ñññ",
-      "ñññEñññsñññpñññeñññcñññiñññfñññiñññcñññañññcñññiñññoñññnñññeñññsñññ ñññdñññeñññlñññ ñññbñññoñññtñññóñññnñññ:ñññ ñññ3ñññ5ñññ ñññxñññ ñññ1ñññ2ñññ0ñññ0ñññ ñññmñññmñññ ñññ"
+      "Temperatura: 300/550 °C",
+      "Flujo de aire: 100/200 L/min",
+      "Temperatura: 300/550 °C",
+      "Flujo de aire: 100/200 L/min",
+      "Voltaje: 20 V",
+      "Especificaciones del botón: 35 x 1200 mm",
+      "Velocidad sin carga: 2300 rpm"
     ],
     "images": [
       "public/assets/total/p046_img1.jpeg",
@@ -950,23 +932,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p47_TOTAL-P47",
-    "title": "Herramienta TOTAL Pág. 47",
-    "code": "TOTAL-P47",
-    "cod_internal": "",
+    "id": "p47_TBLI2003",
+    "title": "PISTOLA DE CALOR CON PANTALLA 20V",
+    "code": "TBLI2003",
+    "cod_internal": "COD. V2VIPC220",
     "category": "Inalámbricas",
     "page": 47,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ3ñññ0ñññ0ñññ/ñññ5ñññ5ñññ0ñññ ñññ°ñññCñññ ñññ",
-      "ñññFñññlñññuñññjñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ/ñññ2ñññ0ñññ0ñññ ñññLñññ/ñññmñññiñññnñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññpñññuñññlñññvñññeñññrñññiñññzñññañññcñññiñññóñññnñññ:ñññ ñññ0ñññ,ñññ1ñññ-ñññ0ñññ,ñññ2ñññ ñññbñññañññrñññ ñññ",
-      "ñññCñññañññuñññdñññañññlñññ ñññmñññáñññxñññ.ñññ:ñññ ñññ8ñññ0ñññ0ñññ ñññmñññlñññ/ñññmñññiñññnñññ ñññ",
-      "ñññVñññiñññsñññcñññoñññsñññiñññdñññañññdñññ ñññmñññáñññxñññ.ñññ:ñññ ñññ1ñññ2ñññ0ñññ ñññDñññIñññNñññ-ñññsñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññlñññ ñññdñññeñññpñññóñññsñññiñññtñññoñññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ ñññmñññlñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ"
+      "Temperatura: 300/550 °C",
+      "Flujo de aire: 100/200 L/min",
+      "Presión de pulverización: 0,1-0,2 bar",
+      "Caudal máx.: 800 ml/min",
+      "Viscosidad máx.: 120 DIN-s",
+      "Capacidad del depósito: 1000 ml",
+      "Presión de pulverización: 0,1-0,2 bar",
+      "Caudal máx.: 800 ml/min"
     ],
     "images": [
       "public/assets/total/p047_img1.jpeg",
@@ -975,23 +957,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p48_TOTAL-P48",
-    "title": "Herramienta TOTAL Pág. 48",
-    "code": "TOTAL-P48",
-    "cod_internal": "",
+    "id": "p48_TCGLI2001",
+    "title": "APLICADOR DE SILICONA 20V",
+    "code": "TCGLI2001",
+    "cod_internal": "COD. V2VIAS210",
     "category": "Inalámbricas",
     "page": 48,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññEñññmñññpñññuñññjñññeñññ:ñññ ñññ3ñññ7ñññ0ñññ0ñññNñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññlñññ ñññcñññañññrñññtñññuñññcñññhñññoñññ:ñññ ñññ2ñññ5ñññ,ñññ4ñññ ñññcñññmñññ ñññ(ñññ1ñññ0ñññ”ñññ)ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññeñññgñññañññdñññoñññ:ñññ ñññ0ñññ,ñññ5ñññ ñññ-ñññ ñññ4ñññ,ñññ4ñññ ñññmñññmñññ/ñññsñññ",
-      "ñññSñññiñññnñññ ñññcñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ,ñññ3ñññ5ñññAñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ ñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ ñññnñññoñññmñññiñññnñññañññlñññ:ñññ ñññ0ñññ-ñññ3ñññ2ñññ0ñññ ñññ ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññañññbñññrñññañññzñññañññdñññeñññrñññañññ:ñññ ñññ2ñññ0ñññ ñññmñññmñññ,ñññ ñññ"
+      "Empuje: 3700N",
+      "Tamaño del cartucho: 25,4 cm (10”)",
+      "Velocidad de pegado: 0,5 - 4,4 mm/s",
+      "Sin corriente de carga: 0,35A",
+      "Voltaje: 20 V",
+      "Temperatura nominal: 0-320",
+      "Tamaño de la abrazadera: 20 mm,",
+      "Voltaje: 20 V"
     ],
     "images": [
       "public/assets/total/p048_img1.jpeg",
@@ -1000,22 +982,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p49_TOTAL-P49",
-    "title": "Herramienta TOTAL Pág. 49",
-    "code": "TOTAL-P49",
-    "cod_internal": "",
+    "id": "p49_TMXLI2001",
+    "title": "LAMPARA DE TRABAJO 20V 450 LUMENS",
+    "code": "TMXLI2001",
+    "cod_internal": "COD. V2V0EP000",
     "category": "Inalámbricas",
     "page": 49,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ6ñññ5ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññmñññeñññzñññcñññlñññañññdñññoñññrñññañññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññLñññuñññmñññeñññnñññsñññ:ñññ ñññ4ñññ5ñññ0ñññ",
-      "ñññLñññEñññDñññ:ñññ ñññ5ñññ ñññwñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ"
+      "Velocidad variable: 0-650 rpm",
+      "Rosca mezcladora: M14",
+      "Lumens: 450",
+      "LED: 5 w"
     ],
     "images": [
       "public/assets/total/p049_img1.jpeg",
@@ -1024,23 +1003,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p50_TOTAL-P50",
-    "title": "Herramienta TOTAL Pág. 50",
-    "code": "TOTAL-P50",
-    "cod_internal": "",
+    "id": "p50_TWLI043006",
+    "title": "LAMPARA DE TRABAJO 300 LUMENS 4V",
+    "code": "TWLI043006",
+    "cod_internal": "COD. VLT00361M",
     "category": "Inalámbricas",
     "page": 50,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññLñññuñññmñññeñññnñññsñññ ñññMñññañññxñññ:ñññ ñññ3ñññ0ñññ0ñññ ñññ±ñññ1ñññ0ñññ%ñññ",
-      "ñññLñññuñññmñññeñññnñññsñññ ñññMñññiñññnñññ:ñññ ñññ7ñññ5ñññ ñññ±ñññ1ñññ0ñññ%ñññ",
-      "ñññMñññoñññdñññoñññsñññ ñññdñññeñññ ñññiñññlñññuñññmñññañññcñññiñññóñññnñññ:ñññ ñññ3ñññ ñññoñññpñññcñññiñññoñññnñññeñññsñññ ñññdñññiñññsñññpñññoñññ-ñññ",
-      "ñññPñññeñññsñññoñññ ñññnñññeñññtñññoñññ:ñññ ñññ2ñññ2ñññ0ñññgñññ.ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññLñññuñññmñññeñññnñññsñññ:ñññ",
-      "ñññEñññnñññ ñññañññlñññtñññañññ:ñññ ñññ1ñññ8ñññ0ñññ0ñññ",
-      "ñññEñññnñññ ñññbñññañññjñññañññ:ñññ ñññ9ñññ0ñññ0ñññ"
+      "Lumens Max: 300 ±10%",
+      "Lumens Min: 75 ±10%",
+      "Modos de ilumación: 3 opciones dispo-",
+      "Peso neto: 220g.",
+      "Lumens:",
+      "En alta: 1800",
+      "En baja: 900",
+      "LED: 20w"
     ],
     "images": [
       "public/assets/total/p050_img1.jpeg",
@@ -1049,23 +1028,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p51_TOTAL-P51",
-    "title": "Herramienta TOTAL Pág. 51",
-    "code": "TOTAL-P51",
-    "cod_internal": "",
+    "id": "p51_TFALI2007",
+    "title": "LINTERNA LED 20V 2000 LUMENS",
+    "code": "TFALI2007",
+    "cod_internal": "COD. V2V0VE010",
     "category": "Inalámbricas",
     "page": 51,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññAñññjñññuñññsñññtñññeñññ ñññdñññeñññ ñññiñññnñññcñññlñññiñññnñññañññcñññiñññóñññnñññ:ñññ ñññ0ñññ-ñññ3ñññ6ñññ0ñññ°ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññDñññiñññsñññiñññpñññañññcñññiñññóñññnñññ ñññdñññeñññ ñññpñññoñññtñññeñññnñññcñññiñññañññ ñññLñññEñññDñññ:ñññ ñññ2ñññ2ñññ,ñññ5ñññ ñññWñññ.ñññ",
-      "ñññLñññúñññmñññeñññnñññeñññsñññ:ñññ ñññ2ñññ0ñññ0ñññ0ñññ±ñññ1ñññ0ñññ%ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññDñññiñññsñññiñññpñññañññcñññiñññóñññnñññ ñññdñññeñññ ñññpñññoñññtñññeñññnñññcñññiñññañññ ñññLñññEñññDñññ:ñññ ñññ2ñññ2ñññ,ñññ5ñññ ñññWñññ.ñññ",
-      "ñññLñññúñññmñññeñññnñññeñññsñññ:ñññ ñññ2ñññ0ñññ0ñññ0ñññ±ñññ1ñññ0ñññ%ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ"
+      "Ajuste de inclinación: 0-360°",
+      "Disipación de potencia LED: 22,5 W.",
+      "Lúmenes: 2000±10%",
+      "Disipación de potencia LED: 22,5 W.",
+      "Lúmenes: 2000±10%"
     ],
     "images": [
       "public/assets/total/p051_img1.jpeg",
@@ -1075,23 +1051,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p52_TOTAL-P52",
-    "title": "Herramienta TOTAL Pág. 52",
-    "code": "TOTAL-P52",
-    "cod_internal": "",
+    "id": "p52_TVLI201261",
+    "title": "ASPIRADORA DE MANO 20V 9 PA",
+    "code": "TVLI201261",
+    "cod_internal": "COD. V2V0DA900",
     "category": "Inalámbricas",
     "page": 52,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññañññcñññuñññiñññdñññañññdñññ:ñññ ñññ≥ñññ9ñññ.ñññ0ñññKñññPñññañññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññ:ñññ ñññ0ñññ.ñññ5ñññLñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññoñññlñññvñññoñññ:ñññ ñññ0ñññ.ñññ5ñññLñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññvñññañññcñññíñññoñññ:ñññ ñññ>ñññ7ñññkñññpñññañññ",
-      "ñññBñññañññtñññeñññrñññíñññañññ:ñññ ñññ2ñññ0ñññ0ñññ0ñññmñññAñññhñññ",
-      "ñññCñññañññrñññgñññañññdñññoñññrñññ ñññUñññSñññBñññ ñññtñññiñññpñññoñññ-ñññCñññ:ñññ ñññ5ñññVñññ ñññ2ñññAñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ"
+      "Vacuidad: ≥9.0KPa",
+      "Capacidad : 0.5L",
+      "Capacidad de polvo: 0.5L",
+      "Presión de vacío: >7kpa",
+      "Batería: 2000mAh",
+      "Cargador USB tipo-C: 5V 2A",
+      "Velocidad Variable: 0-18000 rpm",
+      "Volumen máx. de soplado: 2.7m3/min"
     ],
     "images": [
       "public/assets/total/p052_img1.jpeg",
@@ -1100,23 +1076,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p53_TOTAL-P53",
-    "title": "Herramienta TOTAL Pág. 53",
-    "code": "TOTAL-P53",
-    "cod_internal": "",
+    "id": "p53_TABLI20781-4",
+    "title": "SOPLADOR 20V 15000RPM",
+    "code": "TABLI20781-4",
+    "cod_internal": "COD. V2V0SA223",
     "category": "Inalámbricas",
     "page": 53,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññVñññoñññlñññuñññmñññeñññnñññ ñññmñññáñññxñññ.ñññ ñññdñññeñññ ñññsñññoñññpñññlñññañññdñññoñññ:ñññ ñññ2ñññ.ñññ7ñññmñññ3ñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññVñññoñññlñññuñññmñññeñññnñññ ñññmñññáñññxñññ.ñññ ñññdñññeñññ ñññsñññoñññpñññlñññañññdñññoñññ:ñññ ñññ2ñññ.ñññ7ñññmñññ3ñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ1ñññ5ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññVñññoñññlñññuñññmñññeñññnñññ ñññmñññáñññxñññ.ñññ ñññdñññeñññ ñññsñññoñññpñññlñññañññdñññoñññ:ñññ ñññ8ñññ.ñññ5ñññmñññ3ñññ/ñññmñññiñññnñññ"
+      "Velocidad Variable: 0-18000 rpm",
+      "Volumen máx. de soplado: 2.7m3/min",
+      "Velocidad Variable: 0-18000 rpm",
+      "Volumen máx. de soplado: 2.7m3/min",
+      "Velocidad Variable: 0-15000 rpm",
+      "Volumen máx. de soplado: 8.5m3/min"
     ],
     "images": [
       "public/assets/total/p053_img1.jpeg",
@@ -1125,23 +1099,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p54_TOTAL-P54",
-    "title": "Herramienta TOTAL Pág. 54",
-    "code": "TOTAL-P54",
-    "cod_internal": "",
+    "id": "p54_TACLI2026",
+    "title": "COMPRESOR 20V 120 PSI",
+    "code": "TACLI2026",
+    "cod_internal": "COD. V2VICM120",
     "category": "Inalámbricas",
     "page": 54,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ ñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ2ñññ0ñññ ñññPñññSñññIñññ/ñññ8ñññ,ñññ2ñññ7ñññ ñññBñññAñññRñññ/ñññ8ñññ2ñññ7ñññ ñññKñññPñññAñññ ñññ",
-      "ñññFñññlñññuñññjñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ4ñññ5ñññ ñññLñññ/ñññmñññiñññnñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ6ñññ5ñññNñññMñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ5ñññ0ñññ ñññRñññPñññMñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññTñññoñññrñññqñññuñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ6ñññ5ñññNñññMñññ"
+      "Voltaje: 20 V",
+      "Presión máxima: 120 PSI/8,27 BAR/827 KPA",
+      "Flujo de aire máximo: 45 L/min",
+      "Torque máximo: 65NM",
+      "Velocidad sin carga: 250 RPM",
+      "Torque máximo: 65NM",
+      "Velocidad sin carga: 250 RPM"
     ],
     "images": [
       "public/assets/total/p054_img1.jpeg",
@@ -1151,23 +1124,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p55_TOTAL-P55",
-    "title": "Herramienta TOTAL Pág. 55",
-    "code": "TOTAL-P55",
-    "cod_internal": "",
+    "id": "p55_TACLI2018",
+    "title": "BOMBA DE AGUA PARA JARDIN 20V",
+    "code": "TACLI2018",
+    "cod_internal": "COD. V2V0CM140",
     "category": "Inalámbricas",
     "page": 55,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ5ñññ0ñññ ñññPñññSñññIñññ/ñññ1ñññ0ñññ ñññBñññañññrñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ6ñññ0ñññ ñññPñññSñññIñññ ñññ/ñññ ñññ1ñññ1ñññ ñññBñññañññrñññ",
-      "ñññFñññlñññuñññjñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ3ñññ5ñññ ñññLñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññnñññoñññmñññiñññnñññañññlñññ:ñññ ñññ1ñññ8ñññ0ñññWñññ ñññ(ñññ0ñññ.ñññ2ñññHñññPñññ)ñññ",
-      "ñññAñññlñññtñññuñññrñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ2ñññ2ñññ ñññmñññeñññtñññrñññoñññsñññ",
-      "ñññCñññañññuñññdñññañññlñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ4ñññ7ñññ ñññLñññiñññtñññrñññoñññsñññ ñññ/ñññmñññiñññnñññ"
+      "Presión máxima: 150 PSI/10 Bar",
+      "Presión máxima: 160 PSI / 11 Bar",
+      "Flujo de aire máximo: 35 L/min",
+      "Potencia nominal: 180W (0.2HP)",
+      "Altura máxima: 22 metros",
+      "Caudal máximo: 47 Litros /min",
+      "Modo de ahorro de energía: Dura-",
+      "Modo normal: Duración de la batería"
     ],
     "images": [
       "public/assets/total/p055_img1.jpeg",
@@ -1176,23 +1149,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p56_TOTAL-P56",
-    "title": "Herramienta TOTAL Pág. 56",
-    "code": "TOTAL-P56",
-    "cod_internal": "",
+    "id": "p56_TPWLI2036",
+    "title": "HIDROLAVADORA 20V 24.8 BAR",
+    "code": "TPWLI2036",
+    "cod_internal": "COD. V2V0HB241",
     "category": "Inalámbricas",
     "page": 56,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññmñññañññxñññ:ñññ ñññ2ñññ4ñññ,ñññ8ñññ ñññBñññañññrñññ",
-      "ñññCñññañññuñññdñññañññlñññ:ñññ ñññ2ñññ,ñññ8ñññ ñññLñññiñññtñññrñññoñññsñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññmñññañññxñññ:ñññ ñññ2ñññ4ñññ,ñññ8ñññ ñññBñññañññrñññ",
-      "ñññCñññañññuñññdñññañññlñññ:ñññ ñññ2ñññ,ñññ8ñññ ñññLñññiñññtñññrñññoñññsñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ:ñññ ñññ5ñññ ñññBñññAñññRñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññEñññ ñññpñññañññrñññañññ ñññeñññlñññ ñññtñññañññnñññqñññuñññeñññ,ñññ ñññlñññoñññsñññ ñññdñññeñññmñññáñññsñññ ñññ"
+      "Presión max: 24,8 Bar",
+      "Caudal: 2,8 Litros/min",
+      "Presión max: 24,8 Bar",
+      "Caudal: 2,8 Litros/min",
+      "Presión: 5 BAR",
+      "Material: PE para el tanque, los demás",
+      "Flujo: 1,35 l/min.",
+      "Salida: 380L"
     ],
     "images": [
       "public/assets/total/p056_img1.jpeg",
@@ -1201,20 +1174,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p57_TOTAL-P57",
-    "title": "Herramienta TOTAL Pág. 57",
-    "code": "TOTAL-P57",
-    "cod_internal": "",
+    "id": "p57_TGSLI2058",
+    "title": "SIERRA PODADORA 20V 5”",
+    "code": "TGSLI2058",
+    "cod_internal": "COD. V2V0LC050",
     "category": "Inalámbricas",
     "page": 57,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññlñññañññ ñññcñññañññdñññeñññnñññañññ:ñññ ñññ5ñññ ñññmñññ/ñññsñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññlñññañññ ñññcñññañññdñññeñññnñññañññ:ñññ ñññ5ñññ ñññmñññ/ñññsñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ"
+      "Velocidad de la cadena: 5 m/s",
+      "Velocidad de la cadena: 5 m/s"
     ],
     "images": [
       "public/assets/total/p057_img1.jpeg",
@@ -1224,23 +1194,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p58_TOTAL-P58",
-    "title": "Herramienta TOTAL Pág. 58",
-    "code": "TOTAL-P58",
-    "cod_internal": "",
+    "id": "p58_TGSLI20662",
+    "title": "SIERRA PODADORA 20V 6”",
+    "code": "TGSLI20662",
+    "cod_internal": "COD. V2VILC061",
     "category": "Inalámbricas",
     "page": 58,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññañññdñññeñññnñññañññ:ñññ ñññ7ñññ.ñññ5ñññmñññ ñññ/ñññ ñññsñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññbñññañññrñññrñññañññ:ñññ ñññ8ñññ“ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññañññdñññeñññnñññañññ:ñññ ñññ7ñññ.ñññ7ñññmñññ ñññ/ñññ ñññsñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññbñññañññrñññrñññañññ:ñññ ñññ1ñññ2ñññ ñññ“ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññ:ñññ ñññ7ñññ2ñññ0ñññ ñññWñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ"
+      "Velocidad de cadena: 7.5m / s",
+      "Longitud de barra: 8“",
+      "Velocidad de cadena: 7.7m / s",
+      "Longitud de barra: 12 “",
+      "Potencia : 720 W"
     ],
     "images": [
       "public/assets/total/p058_img1.jpeg",
@@ -1249,23 +1216,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p59_TOTAL-P59",
-    "title": "Herramienta TOTAL Pág. 59",
-    "code": "TOTAL-P59",
-    "cod_internal": "",
+    "id": "p59_TGSLI40168",
+    "title": "CORTACERCO DE ALTURA 20V",
+    "code": "TGSLI40168",
+    "cod_internal": "COD. V4VILC160",
     "category": "Inalámbricas",
     "page": 59,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ0ñññVñññ ñññ(ñññ2ñññ0ñññVñññ+ñññ2ñññ0ñññVñññ)ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññlñññañññ ñññbñññañññrñññrñññañññ:ñññ ñññ1ñññ6ñññ”ñññ(ñññ4ñññ0ñññcñññmñññ)ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññlñññañññ ñññcñññañññdñññeñññnñññañññ:ñññ ñññ1ñññ4ñññ.ñññ5ñññ ñññmñññ/ñññsñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ2ñññ8ñññ0ñññ0ñññ ñññpñññpñññmñññ ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ:ñññ ñññ4ñññ6ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññmñññáñññxñññiñññmñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ1ñññ8ñññ ñññmñññmñññ ñññ"
+      "Voltaje: 40V (20V+20V)",
+      "Longitud de la barra: 16”(40cm)",
+      "Velocidad de la cadena: 14.5 m/s",
+      "Velocidad máxima: 2800 ppm",
+      "Longitud de corte de la cuchilla: 460 mm",
+      "Diámetro máximo de corte: 18 mm",
+      "Longitud total de la máquina: 2,4 m máx.",
+      "Velocidad : 1400 rpm"
     ],
     "images": [
       "public/assets/total/p059_img1.jpeg",
@@ -1274,23 +1241,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p60_TOTAL-P60",
-    "title": "Herramienta TOTAL Pág. 60",
-    "code": "TOTAL-P60",
-    "cod_internal": "",
+    "id": "p60_THTLI40028",
+    "title": "CORTADORA DE CESPED 40V",
+    "code": "THTLI40028",
+    "cod_internal": "COD. V2VICN260",
     "category": "Inalámbricas",
     "page": 60,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ0ñññVñññ ñññ(ñññ2ñññ0ñññVñññ+ñññ2ñññ0ñññVñññ)ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññlñññañññ ñññbñññañññrñññrñññañññ:ñññ ñññ1ñññ6ñññ”ñññ(ñññ4ñññ0ñññcñññmñññ)ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ3ñññ6ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ:ñññ ñññ6ñññ5ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññSñññeñññpñññañññrñññañññcñññiñññóñññnñññ ñññeñññnñññtñññrñññeñññ ñññcñññuñññcñññhñññiñññlñññlñññañññsñññ:ñññ ñññ2ñññ7ñññ ñññmñññmñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ8ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ4ñññ6ñññ0ñññmñññmñññ"
+      "Voltaje: 40V (20V+20V)",
+      "Longitud de la barra: 16”(40cm)",
+      "Velocidad sin carga: 3600 rpm",
+      "Longitud de corte de la cuchilla: 650 mm",
+      "Separación entre cuchillas: 27 mm",
+      "Velocidad sin carga: 2800rpm",
+      "Diámetro de corte máximo: 460mm",
+      "Capacidad de la bolsa: 60L"
     ],
     "images": [
       "public/assets/total/p060_img1.jpeg",
@@ -1298,23 +1265,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p61_TOTAL-P61",
-    "title": "Herramienta TOTAL Pág. 61",
-    "code": "TOTAL-P61",
-    "cod_internal": "",
+    "id": "p61_TGTLI20018",
+    "title": "BORDEADORA 20V 25-50CM",
+    "code": "TGTLI20018",
+    "cod_internal": "COD. V2V0BO200",
     "category": "Inalámbricas",
     "page": 61,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ8ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ3ñññ0ñññ0ñññmñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññtñññañññnñññzñññañññ:ñññ ñññ1ñññ.ñññ6ñññmñññmñññ",
-      "ñññLñññañññrñññgñññoñññ ñññdñññeñññ ñññtñññañññnñññzñññañññ:ñññ ñññ5ñññmñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ8ñññ2ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ3ñññ0ñññ0ñññmñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññtñññañññnñññzñññañññ:ñññ ñññ1ñññ.ñññ6ñññmñññmñññ",
-      "ñññLñññañññrñññgñññoñññ ñññdñññeñññ ñññtñññañññnñññzñññañññ:ñññ ñññ5ñññmñññ"
+      "Velocidad : 8200 rpm",
+      "Longitud de corte: 300mm",
+      "Diámetro de tanza: 1.6mm",
+      "Largo de tanza: 5m",
+      "Velocidad : 8200 rpm",
+      "Longitud de corte: 300mm",
+      "Diámetro de tanza: 1.6mm",
+      "Largo de tanza: 5m"
     ],
     "images": [
       "public/assets/total/p061_img1.jpeg",
@@ -1322,19 +1289,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p62_TOTAL-P62",
-    "title": "Herramienta TOTAL Pág. 62",
-    "code": "TOTAL-P62",
-    "cod_internal": "",
+    "id": "p62_TFBLI20011",
+    "title": "BATERIA 20V 2.0 AH",
+    "code": "TFBLI20011",
+    "cod_internal": "COD. V2VIBA210",
     "category": "Inalámbricas",
     "page": 62,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p062_img1.jpeg",
       "public/assets/total/p062_img2.jpeg",
@@ -1342,19 +1305,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p63_TOTAL-P63",
-    "title": "Herramienta TOTAL Pág. 63",
-    "code": "TOTAL-P63",
-    "cod_internal": "",
+    "id": "p63_TFBLI2060",
+    "title": "BATERIA 20V 6.0 AH",
+    "code": "TFBLI2060",
+    "cod_internal": "COD. V2VIBA600",
     "category": "Inalámbricas",
     "page": 63,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p063_img1.jpeg",
       "public/assets/total/p063_img2.jpeg",
@@ -1362,18 +1321,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p64_TOTAL-P64",
-    "title": "Herramienta TOTAL Pág. 64",
-    "code": "TOTAL-P64",
-    "cod_internal": "",
+    "id": "p64_TFBLI241110",
+    "title": "MOCHILA BATERIA 20V 60.0",
+    "code": "TFBLI241110",
+    "cod_internal": "COD. V2VIMB060",
     "category": "Inalámbricas",
     "page": 64,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññ ñññVñññ/ñññ2ñññ0ñññ ñññVñññ+ñññ2ñññ0ñññ ñññVñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ:ñññ ñññ6ñññ0ñññ ñññAñññhñññ/ñññ3ñññ0ñññ ñññAñññhñññ ñññ(ñññ1ñññ0ñññ8ñññ0ñññ ñññWñññhñññ)ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ"
+      "Voltaje: 20 V/20 V+20 V",
+      "Capacidad: 60 Ah/30 Ah (1080 Wh)"
     ],
     "images": [
       "public/assets/total/p064_img1.jpeg",
@@ -1381,23 +1339,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p65_TOTAL-P65",
-    "title": "Herramienta TOTAL Pág. 65",
-    "code": "TOTAL-P65",
-    "cod_internal": "",
+    "id": "p65_TFCLI2001-4",
+    "title": "CARGADOR DE BATERIA CONECTABLE A VEHICULOS",
+    "code": "TFCLI2001-4",
+    "cod_internal": "COD. V2VICA200",
     "category": "Inalámbricas",
     "page": 65,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññAñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññVñññ~ñññ5ñññ0ñññ/ñññ6ñññ0ñññHñññzñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ1ñññ2ñññ-ñññ2ñññ4ñññ ñññVñññ ñññCñññCñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ0ñññ ñññVñññ ñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ ñññAñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ4ñññAñññ"
+      "Voltaje: 20V",
+      "Corriente de salida: 2A",
+      "Voltaje: 220-240V~50/60Hz",
+      "Voltaje de entrada: 12-24 V CC",
+      "Voltaje de salida: 20 V",
+      "Corriente de salida: 2 A",
+      "Voltaje: 20V",
+      "Corriente de salida: 4A"
     ],
     "images": [
       "public/assets/total/p065_img1.jpeg",
@@ -1407,23 +1365,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p66_TOTAL-P66",
-    "title": "Herramienta TOTAL Pág. 66",
-    "code": "TOTAL-P66",
-    "cod_internal": "",
+    "id": "p66_TCLI2034-4",
+    "title": "CARGADOR DE BATERIA 6 PUERTOS 20V  4.0 AH",
+    "code": "TCLI2034-4",
+    "cod_internal": "COD. V2VICA420",
     "category": "Inalámbricas",
     "page": 66,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññAñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññVñññ~ñññ5ñññ0ñññ/ñññ6ñññ0ñññHñññzñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ ñññ~ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ0ñññ ñññVñññ ñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ4ñññ ñññAñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ4ñññAñññ ñññ+ñññ ñññ4ñññAñññ"
+      "Voltaje: 20V",
+      "Corriente de salida: 2A",
+      "Voltaje: 220-240V~50/60Hz",
+      "Voltaje de entrada: 220-240 V ~ 50/60",
+      "Voltaje de salida: 20 V",
+      "Corriente de salida: 4 A",
+      "Voltaje: 20V",
+      "Corriente de salida: 4A + 4A"
     ],
     "images": [
       "public/assets/total/p066_img1.jpeg",
@@ -1433,23 +1391,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p67_TOTAL-P67",
-    "title": "Herramienta TOTAL Pág. 67",
-    "code": "TOTAL-P67",
-    "cod_internal": "",
+    "id": "p67_TFBLI20011",
+    "title": "BATERIA 20V 4.0 AH Y CARGADOR 20V 2.0 AH",
+    "code": "TFBLI20011",
+    "cod_internal": "COD. V2VIKB201",
     "category": "Inalámbricas",
     "page": 67,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññAñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ4ñññAñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ0ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ4ñññAñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ"
+      "Voltaje de salida: 20V",
+      "Corriente de salida: 2A",
+      "Voltaje de salida: 20V",
+      "Corriente de salida: 4A",
+      "Voltaje de salida: 20V",
+      "Corriente de salida: 4A"
     ],
     "images": [
       "public/assets/total/p067_img1.jpeg",
@@ -1458,22 +1414,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p68_TOTAL-P68",
-    "title": "Herramienta TOTAL Pág. 68",
-    "code": "TOTAL-P68",
-    "cod_internal": "",
+    "id": "p68_TCLI120502-4",
+    "title": "CARGADOR USB 5V 2.0 AH",
+    "code": "TCLI120502-4",
+    "cod_internal": "COD. V2V0CA050",
     "category": "Inalámbricas",
     "page": 68,
-    "voltage": "",
+    "voltage": "12V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ5ñññVñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññAñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ3ñññAñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ3ñññAñññ"
+      "Voltaje de salida: 5V",
+      "Corriente de salida: 2A",
+      "Corriente máxima: 3A",
+      "Corriente máxima: 3A"
     ],
     "images": [
       "public/assets/total/p068_img1.jpeg",
@@ -1482,17 +1435,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p69_TOTAL-P69",
-    "title": "Herramienta TOTAL Pág. 69",
-    "code": "TOTAL-P69",
-    "cod_internal": "",
+    "id": "p69_TCKLI20592-4",
+    "title": "KIT TALADRO + AMOLADORA + LLAVE DE IMPACTO + ROTOMARTILLO + LÁMPARA",
+    "code": "TCKLI20592-4",
+    "cod_internal": "COD. VTAIKTALR",
     "category": "Inalámbricas",
     "page": 69,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ ñññ~ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ"
+      "Voltaje de carga: 220-240 V ~ 50/60 Hz"
     ],
     "images": [
       "public/assets/total/p069_img1.jpeg",
@@ -1500,23 +1452,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p70_TOTAL-P70",
-    "title": "Herramienta TOTAL Pág. 70",
-    "code": "TOTAL-P70",
-    "cod_internal": "",
+    "id": "p70_TCKLI20273-4",
+    "title": "KIT TALADRO PERCUTOR + AMOLADORA ANGULAR",
+    "code": "TCKLI20273-4",
+    "cod_internal": "COD. VTAIKTPAA",
     "category": "Inalámbricas",
     "page": 70,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññbñññrñññuñññsñññhñññlñññeñññsñññsñññ,ñññ ñññvñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ",
-      "ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ,ñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ.ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ,ñññ ñññtñññoñññrñññqñññuñññeñññ ñññ",
-      "ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ6ñññ6ñññ ñññNñññmñññ,ñññ ñññmñññañññnñññdñññrñññiñññlñññ ñññañññuñññtñññoñññañññjñññuñññsñññtñññañññbñññlñññeñññmñññeñññtñññáñññ-ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ ñññ~ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ ñññ",
-      "ñññtñññoñññ ñññsñññiñññnñññ ñññeñññsñññcñññoñññbñññiñññlñññlñññañññsñññ ñññ(ñññTñññIñññDñññLñññIñññ2ñññ0ñññ6ñññ6ñññ8ñññ1ñññ)ñññ:ñññ ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññeñññnñññ ñññ",
-      "ñññvñññañññcñññíñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ.ñññ ñññ",
-      "ñññPñññañññrñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ6ñññ6ñññ ñññNñññmñññ.ñññ ñññPñññoñññrñññtñññañññbñññrñññoñññcñññañññsñññ ñññmñññeñññtñññáñññlñññiñññcñññoñññ.ñññ ñññ"
+      "brushless, velocidad variable: 0-500/0-",
+      "2000 rpm, impacto: 30.000 gpm, torque",
+      "máximo: 66 Nm, mandril autoajustablemetá-",
+      "Voltaje de carga: 220-240 V ~ 50/60 Hz",
+      "to sin escobillas (TIDLI206681): Velocidad en",
+      "vacío: 0-500/0-2000 rpm",
+      "Frecuencia máxima de impacto: 30 000 rpm.",
+      "Par máximo: 66 Nm. Portabrocas metálico."
     ],
     "images": [
       "public/assets/total/p070_img1.jpeg",
@@ -1524,23 +1476,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p71_TOTAL-P71",
-    "title": "Herramienta TOTAL Pág. 71",
-    "code": "TOTAL-P71",
-    "cod_internal": "",
+    "id": "p71_TSTLI2040386-4",
+    "title": "MULTI HERRAMIENTA DE JARDIN 40V BL 4 FUNCIONES",
+    "code": "TSTLI2040386-4",
+    "cod_internal": "COD. V4VIMHJ40",
     "category": "Inalámbricas",
     "page": 71,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "4V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ0ñññ ñññVñññ ñññ(ñññ2ñññ0ñññ ñññVñññ ñññ+ñññ ñññ2ñññ0ñññ ñññVñññ)ñññ ñññ",
-      "ñññ4ñññ ñññfñññuñññnñññcñññiñññoñññnñññeñññsñññ ñññeñññnñññ ñññ1ñññ:ñññ ñññcñññoñññrñññtñññañññcñññéñññsñññpñññeñññdñññ,ñññ ñññdñññeñññsñññbñññrñññoñññzñññañññdñññoñññrñññañññ,ñññ ñññcñññoñññrñññtñññañññsñññeñññtñññoñññsñññ ñññdñññeñññ ñññañññlñññtñññuñññrñññañññ ñññyñññ ñññmñññoñññtñññoñññsñññiñññeñññrñññrñññañññ ñññdñññeñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ:ñññ ñññ2ñññ5ñññ5ñññ ñññmñññmñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññdñññeñññ ñññlñññañññ ñññmñññoñññtñññoñññsñññiñññeñññrñññrñññañññ:ñññ ñññ3ñññ8ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññhñññiñññlñññoñññ:ñññ ñññ2ñññ,ñññ4ñññ ñññmñññmñññ ñññrñññeñññdñññoñññnñññdñññoñññ ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññlñññ ñññhñññiñññlñññoñññ:ñññ ñññ5ñññ ñññmñññ ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ:ñññ ñññ3ñññ8ñññ ñññcñññmñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ2ñññ3ñññ ñññmñññmñññ ñññ"
+      "Voltaje: 40 V (20 V + 20 V)",
+      "4 funciones en 1: cortacésped, desbrozadora, cortasetos de altura y motosierra de",
+      "Diámetro de corte de la cuchilla: 255 mm",
+      "Diámetro de corte de la motosierra: 380 mm",
+      "Diámetro del hilo: 2,4 mm redondo",
+      "Longitud del hilo: 5 m",
+      "Longitud de corte de la cuchilla: 38 cm",
+      "Diámetro de corte: 23 mm"
     ],
     "images": [
       "public/assets/total/p071_img1.jpeg"
@@ -1561,23 +1513,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p73_TOTAL-P73",
-    "title": "Herramienta TOTAL Pág. 73",
-    "code": "TOTAL-P73",
-    "cod_internal": "",
+    "id": "p73_TIDLI426981-4",
+    "title": "TALADRO PERCUTOR 42V BL 2000RPM 69NM",
+    "code": "TIDLI426981-4",
+    "cod_internal": "COD. V42ITI060",
     "category": "Inalámbricas",
     "page": 73,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "42V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ3ñññ0ñññ ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññPñññañññrñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ6ñññ9ñññ ñññNñññmñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññlñññ ñññpñññoñññrñññtñññañññbñññrñññoñññcñññañññsñññ:ñññ ñññ1ñññ3ñññ ñññmñññmñññ ñññ",
-      "ñññAñññjñññuñññsñññtñññeñññsñññ ñññdñññeñññ ñññpñññañññrñññ:ñññ ñññ2ñññ2ñññ+ñññ1ñññ+ñññ1ñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ/ñññ0ñññ-ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ"
+      "Voltaje: 42 V",
+      "Velocidad sin carga: 0-500/0-2000 rpm",
+      "Frecuencia máxima de impacto: 30 000 rpm",
+      "Par máximo: 69 Nm",
+      "Capacidad del portabrocas: 13 mm",
+      "Ajustes de par: 22+1+1",
+      "Voltaje: 42 V",
+      "Velocidad sin carga: 0-500/0-2000 rpm"
     ],
     "images": [
       "public/assets/total/p073_img1.jpeg",
@@ -1585,23 +1537,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p74_TOTAL-P74",
-    "title": "Herramienta TOTAL Pág. 74",
-    "code": "TOTAL-P74",
-    "cod_internal": "",
+    "id": "p74_TIWLI42461-4",
+    "title": "LLAVE DE IMPACTO 42V BL 460NM",
+    "code": "TIWLI42461-4",
+    "cod_internal": "COD. V42ILI460",
     "category": "Inalámbricas",
     "page": 74,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "42V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ1ñññ6ñññ0ñññ0ñññ/ñññ0ñññ-ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ2ñññ1ñññ0ñññ0ñññ/ñññ0ñññ-ñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ:ñññ ñññ4ñññ6ñññ0ñññ ñññNñññmñññ ñññ",
-      "ñññPñññañññrñññ ñññdñññeñññ ñññañññpñññrñññiñññeñññtñññeñññ ñññdñññeñññ ñññtñññuñññeñññrñññcñññañññsñññ:ñññ ñññ6ñññ0ñññ0ñññ ñññNñññmñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññCñññuñññañññdñññrñññoñññ ñññdñññeñññ ñññmñññañññnñññdñññoñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññ"
+      "Voltaje: 42 V",
+      "Cuadro de mando: 1/2”",
+      "Velocidad sin carga: 0-1600/0-",
+      "Frecuencia de impacto: 0-2100/0-",
+      "Par de apriete: 460 Nm",
+      "Par de apriete de tuercas: 600 Nm",
+      "Voltaje: 42 V",
+      "Cuadro de mando: 1/2”"
     ],
     "images": [
       "public/assets/total/p074_img1.jpeg",
@@ -1609,23 +1561,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p75_TOTAL-P75",
-    "title": "Herramienta TOTAL Pág. 75",
-    "code": "TOTAL-P75",
-    "cod_internal": "",
+    "id": "p75_TRHLI422682-4",
+    "title": "ROTOMARTILLO SDS PLUS 42V BL 26MM",
+    "code": "TRHLI422682-4",
+    "cod_internal": "COD. V42IRM260",
     "category": "Inalámbricas",
     "page": 75,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "42V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ0ñññ-ñññ1ñññ1ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ0ñññ0ñññ0ñññ ñññlñññpñññmñññ ñññ",
-      "ñññEñññnñññeñññrñññgñññíñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ2ñññ,ñññ5ñññ ñññJñññ ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññ ñññpñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññ",
-      "ñññHñññoñññrñññmñññiñññgñññóñññnñññ:ñññ ñññ2ñññ6ñññ ñññmñññmñññ ñññ",
-      "ñññAñññcñññeñññrñññoñññ:ñññ ñññ1ñññ3ñññ ñññmñññmñññ ñññ",
-      "ñññMñññañññdñññeñññrñññañññ:ñññ ñññ3ñññ0ñññ ñññmñññmñññ ñññ"
+      "Voltaje: 42 V",
+      "Velocidad sin carga: 0-1100 rpm",
+      "Frecuencia de impacto: 0-5000 lpm",
+      "Energía de impacto: 2,5 J",
+      "Capacidad máxima de perforación:",
+      "Hormigón: 26 mm",
+      "Acero: 13 mm",
+      "Madera: 30 mm"
     ],
     "images": [
       "public/assets/total/p075_img1.jpeg",
@@ -1633,44 +1585,40 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p76_TOTAL-P76",
-    "title": "Herramienta TOTAL Pág. 76",
-    "code": "TOTAL-P76",
-    "cod_internal": "",
+    "id": "p76_TAGLI4108112-4",
+    "title": "AMOLADORA ANGULAR 42V BL 1080W 115MM",
+    "code": "TAGLI4108112-4",
+    "cod_internal": "COD. V42IAM100",
     "category": "Inalámbricas",
     "page": 76,
-    "voltage": "",
-    "is_brushless": false,
+    "voltage": "42V",
+    "is_brushless": true,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ1ñññ0ñññ8ñññ0ñññ ñññWñññ ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ/ñññ6ñññ0ñññ0ñññ0ñññ/ñññ9ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ1ñññ5ñññ ñññmñññmñññ ñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ"
+      "Voltaje: 42 V",
+      "Potencia máxima de entrada: 1080 W",
+      "Velocidad sin carga: 3000/6000/9000 rpm",
+      "Diámetro del disco: 115 mm",
+      "Rosca del husillo: M14"
     ],
     "images": [
       "public/assets/total/p076_img1.jpeg"
     ]
   },
   {
-    "id": "p77_TOTAL-P77",
-    "title": "Herramienta TOTAL Pág. 77",
-    "code": "TOTAL-P77",
-    "cod_internal": "",
+    "id": "p77_TFBLI42201",
+    "title": "CARGADOR DE BATERIA 42V 2.0 AH",
+    "code": "TFBLI42201",
+    "cod_internal": "COD. V42IBA200",
     "category": "Inalámbricas",
     "page": 77,
-    "voltage": "",
+    "voltage": "42V",
     "is_brushless": false,
     "specs": [
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ ñññ~ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ4ñññ2ñññ ñññVñññ ñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññdñññeñññ ñññsñññañññlñññiñññdñññañññ:ñññ ñññ2ñññ ñññAñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
+      "Voltaje: 42 V",
+      "Voltaje: 42 V",
+      "Voltaje de entrada: 220-240 V ~ 50/60 Hz",
+      "Voltaje de salida: 42 V",
+      "Corriente de salida: 2 A"
     ],
     "images": [
       "public/assets/total/p077_img1.jpeg",
@@ -1693,23 +1641,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p79_TOTAL-P79",
-    "title": "Herramienta TOTAL Pág. 79",
-    "code": "TOTAL-P79",
-    "cod_internal": "",
+    "id": "p79_TG111136-4",
+    "title": "TALADRO PERCUTOR 810W",
+    "code": "TG111136-4",
+    "cod_internal": "COD. VTAI1010M",
     "category": "Inalámbricas",
     "page": 79,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ1ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ2ñññ8ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññIñññmñññpñññañññcñññtñññoñññ:ñññ ñññ0ñññ-ñññ4ñññ8ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññMñññañññnñññdñññrñññiñññlñññ:ñññ ñññ1ñññ3ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ8ñññ1ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ0ñññ-ñññ3ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ ñññ"
+      "Potencia: 1100W",
+      "Velocidad Variable: 0-2800 rpm",
+      "Impacto: 0-48000 gpm",
+      "Mandril: 13 mm",
+      "Potencia: 810W",
+      "Velocidad Variable: 0-3000 rpm",
+      "Impacto: 0-48000 gpm",
+      "Mandril: 13mm"
     ],
     "images": [
       "public/assets/total/p079_img1.jpeg",
@@ -1718,23 +1666,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p80_TOTAL-P80",
-    "title": "Herramienta TOTAL Pág. 80",
-    "code": "TOTAL-P80",
-    "cod_internal": "",
+    "id": "p80_TD61106-4",
+    "title": "TALADRO MEZCLADOR DE PINTURA 1100W",
+    "code": "TD61106-4",
+    "cod_internal": "COD. VEPI1100M",
     "category": "Inalámbricas",
     "page": 80,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ1ñññ0ñññ0ñññwñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ6ñññ8ñññ0ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ5ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ2ñññ9ñññ5ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññpñññiñññeñññdñññrñññañññ:ñññ ñññ1ñññ5ñññ0ñññmñññmñññ ñññ(ñññ6ñññ”ñññ)ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ"
+      "Potencia: 1100w",
+      "Velocidad: 0-680rpm",
+      "Potencia: 150W",
+      "Velocidad: 2950 rpm",
+      "Tamaño de la piedra: 150mm (6”)",
+      "Potencia: 1050W",
+      "Velocidad Variable: 0-1200rpm/0-3000 rpm",
+      "Impacto: 0-17600/0-48000 gpm"
     ],
     "images": [
       "public/assets/total/p080_img1.jpeg",
@@ -1743,23 +1691,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p81_TOTAL-P81",
-    "title": "Herramienta TOTAL Pág. 81",
-    "code": "TOTAL-P81",
-    "cod_internal": "",
+    "id": "p81_TG109125565-4",
+    "title": "COD. VAMI0910M",
+    "code": "TG109125565-4",
+    "cod_internal": "COD. VAMI0910M",
     "category": "Inalámbricas",
     "page": 81,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ9ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ5ñññ0ñññ0ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ2ñññ5ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ9ñññ6ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññ0ñññrñññpñññmñññ"
+      "Potencia: 900W",
+      "Velocidad Variable: 5000-12000rpm",
+      "Diámetro de disco: 125mm",
+      "Rosca del husillo: M14",
+      "Potencia: 960W",
+      "Velocidad: 12000rpm",
+      "Diámetro del disco: 115mm",
+      "Rosca del husillo: M14"
     ],
     "images": [
       "public/assets/total/p081_img1.jpeg",
@@ -1768,23 +1716,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p82_TOTAL-P82",
-    "title": "Herramienta TOTAL Pág. 82",
-    "code": "TOTAL-P82",
-    "cod_internal": "",
+    "id": "p82_TG12018026-4",
+    "title": "AMOLADORA ANGULAR 2000W/180MM",
+    "code": "TG12018026-4",
+    "cod_internal": "COD. VAMI2000M",
     "category": "Inalámbricas",
     "page": 82,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ2ñññ0ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ8ñññ4ñññ5ñññ0ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ8ñññ0ñññmñññmñññ",
-      "ñññRñññoñññsñññcñññañññ ñññdñññeñññlñññ ñññhñññuñññsñññiñññlñññlñññoñññ:ñññ ñññMñññ1ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ1ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ5ñññ0ñññ0ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Potencia: 2000W",
+      "Velocidad: 8450rpm",
+      "Diámetro del disco: 180mm",
+      "Rosca del husillo: M14",
+      "Potencia: 1100W",
+      "Velocidad variable: 5000-12000 rpm",
+      "Diámetro del disco: 125 mm",
+      "Rosca del husillo: M14"
     ],
     "images": [
       "public/assets/total/p082_img1.jpeg",
@@ -1793,23 +1741,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p83_TOTAL-P83",
-    "title": "Herramienta TOTAL Pág. 83",
-    "code": "TOTAL-P83",
-    "cod_internal": "",
+    "id": "p83_TH306236-4",
+    "title": "MANDRIL INTERCAMBIABLE",
+    "code": "TH306236-4",
+    "cod_internal": "COD. VMR00650M",
     "category": "Inalámbricas",
     "page": 83,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ6ñññ5ñññ0ñññ ñññWñññ",
-      "ñññEñññnñññeñññrñññgñññíñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ1ñññ.ñññ7ñññJñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ1ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññGñññoñññlñññpñññeñññsñññ ñññpñññoñññrñññ ñññmñññiñññnñññuñññtñññoñññ:ñññ ñññ0ñññ-ñññ5ñññ4ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ2ñññKñññgñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññCñññoñññnñññcñññrñññeñññtñññoñññ:ñññ ñññ2ñññ2ñññmñññmñññ,ñññ",
-      "ñññAñññcñññeñññrñññoñññ:ñññ ñññ1ñññ0ñññmñññmñññ,ñññ ñññMñññañññdñññeñññrñññañññ:ñññ ñññ2ñññ5ñññmñññmñññ"
+      "Potencia: 650 W",
+      "Energía de impacto: 1.7J",
+      "Velocidad: 0-1500 rpm",
+      "Golpes por minuto: 0-5400 gpm",
+      "Peso: 2Kg",
+      "Capacidad de perforación: Concreto: 22mm,",
+      "Acero: 10mm, Madera: 25mm",
+      "Encastre: SDS plus"
     ],
     "images": [
       "public/assets/total/p083_img1.jpeg",
@@ -1818,23 +1766,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p84_TOTAL-P84",
-    "title": "Herramienta TOTAL Pág. 84",
-    "code": "TOTAL-P84",
-    "cod_internal": "",
+    "id": "p84_TH110266-4",
+    "title": "ROTOMARTILLO SDS PLUS 1050W",
+    "code": "TH110266-4",
+    "cod_internal": "COD. VMRI1051M",
     "category": "Inalámbricas",
     "page": 84,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ0ñññ5ñññ0ñññ ñññWñññ",
-      "ñññEñññnñññeñññrñññgñññíñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ5ñññJñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ0ñññ-ñññ9ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññGñññoñññlñññpñññeñññsñññ ñññpñññoñññrñññ ñññmñññiñññnñññuñññtñññoñññ:ñññ ñññ0ñññ-ñññ4ñññ0ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ:ñññ ñññCñññoñññnñññcñññrñññeñññtñññoñññ:ñññ ñññ2ñññ6ñññmñññmñññ,ñññ",
-      "ñññAñññcñññeñññrñññoñññ:ñññ ñññ1ñññ3ñññmñññmñññ,ñññ ñññMñññañññdñññeñññrñññañññ:ñññ ñññ4ñññ0ñññmñññmñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ5ñññKñññgñññ"
+      "Potencia: 1050 W",
+      "Energía de impacto: 5J",
+      "Velocidad: 0-900 rpm",
+      "Golpes por minuto: 0-4000 gpm",
+      "Capacidad de perforación: Concreto: 26mm,",
+      "Acero: 13mm, Madera: 40mm",
+      "Peso: 5Kg",
+      "Encastre: SDS plus"
     ],
     "images": [
       "public/assets/total/p084_img1.jpeg",
@@ -1843,23 +1791,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p85_TOTAL-P85",
-    "title": "Herramienta TOTAL Pág. 85",
-    "code": "TOTAL-P85",
-    "cod_internal": "",
+    "id": "p85_TH118366-4",
+    "title": "MARTILLO DEMOLEDOR 1300W",
+    "code": "TH118366-4",
+    "cod_internal": "COD. VMRI1800M",
     "category": "Inalámbricas",
     "page": 85,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ8ñññ0ñññ0ñññ ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ8ñññ5ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññÍñññnñññdñññiñññcñññeñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ4ñññ2ñññ0ñññ0ñññ ñññgñññpñññmñññ",
-      "ñññTñññañññsñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ7ñññ.ñññ0ñññJñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññeñññrñññfñññoñññrñññañññcñññiñññóñññnñññ ñññmñññáñññxñññ,ñññ ñññ:ñññHñññoñññrñññmñññiñññgñññóñññnñññ:ñññ ñññ3ñññ6ñññ ñññmñññmñññ,ñññ ñññ",
-      "ñññAñññcñññeñññrñññoñññ:ñññ ñññ1ñññ3ñññmñññmñññ,ñññ ñññMñññañññdñññeñññrñññañññ:ñññ ñññ4ñññ2ñññmñññmñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ5ñññKñññgñññ"
+      "Potencia: 1800 W",
+      "Velocidad: 850 rpm",
+      "Índice de impacto: 4200 gpm",
+      "Tasa de impacto: 7.0J",
+      "Capacidad de perforación máx, :Hormigón: 36 mm,",
+      "Acero: 13mm, Madera: 42mm",
+      "Peso: 5Kg",
+      "Potencia: 1300 W"
     ],
     "images": [
       "public/assets/total/p085_img1.jpeg",
@@ -1868,23 +1816,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p86_TOTAL-P86",
-    "title": "Herramienta TOTAL Pág. 86",
-    "code": "TOTAL-P86",
-    "cod_internal": "",
+    "id": "p86_TH215456-4",
+    "title": "COD. VMDI1700M",
+    "code": "TH215456-4",
+    "cod_internal": "COD. VMDI1700M",
     "category": "Inalámbricas",
     "page": 86,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ7ñññ0ñññ0ñññ ñññWñññ",
-      "ñññGñññoñññlñññpñññeñññsñññ ñññpñññoñññrñññ ñññmñññiñññnñññuñññtñññoñññ:ñññ ñññ1ñññ9ñññ0ñññ0ñññgñññpñññmñññ",
-      "ñññFñññuñññeñññrñññzñññañññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ:ñññ ñññ5ñññ0ñññJñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ6ñññkñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ4ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ8ñññ0ñññ0ñññ-ñññ3ñññ0ñññ0ñññ0ñññrñññpñññmñññ"
+      "Potencia: 1700 W",
+      "Golpes por minuto: 1900gpm",
+      "Fuerza de impacto: 50J",
+      "Peso: 16kg",
+      "Potencia: 400W",
+      "Velocidad Variable: 800-3000rpm",
+      "Capacidad de corte: Madera: 55mm, Acero: 3mm",
+      "Potencia: 2200 W"
     ],
     "images": [
       "public/assets/total/p086_img1.jpeg",
@@ -1893,23 +1841,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p87_TOTAL-P87",
-    "title": "Herramienta TOTAL Pág. 87",
-    "code": "TOTAL-P87",
-    "cod_internal": "",
+    "id": "p87_TS11218576-4",
+    "title": "SIERRA CIRCULAR  2200W",
+    "code": "TS11218576-4",
+    "cod_internal": "COD. VSII1200M",
     "category": "Inalámbricas",
     "page": 87,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ5ñññ0ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ9ñññ0ñññ°ñññ=ñññ6ñññ5ñññmñññmñññ/ñññ4ñññ5ñññ°ñññ=ñññ4ñññ5ñññmñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññdñññiñññsñññcñññoñññ:ñññ ñññ1ñññ8ñññ5ñññmñññmñññ ñññ(ñññ7ñññ ñññ1ñññ/ñññ4ñññ”ñññ)ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ2ñññ2ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ4ñññ3ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Potencia: 1200W",
+      "Velocidad: 5000rpm",
+      "Capacidad de corte: 90°=65mm/45°=45mm",
+      "Diámetro de disco: 185mm (7 1/4”)",
+      "Potencia: 2200W",
+      "Velocidad sin carga: 4300 rpm",
+      "Capacidad de corte: 45 grados: 65 mm,",
+      "90 grados: 80 mm"
     ],
     "images": [
       "public/assets/total/p087_img1.jpeg",
@@ -1918,23 +1866,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p88_TOTAL-P88",
-    "title": "Herramienta TOTAL Pág. 88",
-    "code": "TOTAL-P88",
-    "cod_internal": "",
+    "id": "p88_TS421825517-4",
+    "title": "SIERRA INGLETADORA TELESCOPICA 1800W",
+    "code": "TS421825517-4",
+    "cod_internal": "COD. VSGI180TM",
     "category": "Inalámbricas",
     "page": 88,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ8ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññ:ñññ ñññ5ñññ3ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ2ñññ5ñññ5ñññ ñññmñññmñññ ñññ(ñññ1ñññ0ñññ“ñññ)ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññmñññáñññxñññ.ñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ8ñññ9ñññxñññ3ñññ2ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññoñññrñññtñññeñññ:ñññ ñññ0ñññ-ñññ4ñññ5ñññ ñññ°ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ2ñññ2ñññ0ñññ0ñññWñññ"
+      "Potencia: 1800W",
+      "Velocidad : 5300 rpm",
+      "Tamaño de la hoja: 255 mm (10“)",
+      "Capacidad máx. de corte: 89x320 mm",
+      "Corte: 0-45 °",
+      "Potencia: 2200W",
+      "Velocidad: 3700rpm",
+      "Tamaño de hoja: 355x25.4x3mm"
     ],
     "images": [
       "public/assets/total/p088_img1.jpeg",
@@ -1943,23 +1891,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p89_TOTAL-P89",
-    "title": "Herramienta TOTAL Pág. 89",
-    "code": "TOTAL-P89",
-    "cod_internal": "",
+    "id": "p89_TS100756-4",
+    "title": "CEPILLO ELECTRICO 550W",
+    "code": "TS100756-4",
+    "cod_internal": "COD. VSS00751M",
     "category": "Inalámbricas",
     "page": 89,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ7ñññ5ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ9ñññ0ñññ0ñññ-ñññ3ñññ3ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññMñññañññxñññ.ñññ ñññpñññrñññoñññfñññuñññnñññdñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññMñññañññdñññeñññrñññañññ:ñññ ñññ1ñññ1ñññ5ñññmñññmñññ,ñññ",
-      "ñññAñññcñññeñññrñññoñññ:ñññ ñññ8ñññmñññmñññ,ñññ ñññAñññlñññuñññmñññiñññnñññiñññoñññ:ñññ ñññ1ñññ2ñññmñññmñññ.ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ5ñññ5ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ6ñññ0ñññ0ñññ0ñññrñññpñññmñññ"
+      "Potencia: 750W",
+      "Velocidad Variable: 900-3300 rpm",
+      "Max. profundidad de corte: Madera: 115mm,",
+      "Acero: 8mm, Aluminio: 12mm.",
+      "Potencia: 550W",
+      "Velocidad: 16000rpm",
+      "Ancho y profundidad : 82x1mm",
+      "Potencia: 1500W"
     ],
     "images": [
       "public/assets/total/p089_img1.jpeg",
@@ -1968,23 +1916,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p90_TOTAL-P90",
-    "title": "Herramienta TOTAL Pág. 90",
-    "code": "TOTAL-P90",
-    "cod_internal": "",
+    "id": "p90_TF1301836-4",
+    "title": "LIJADORA ROTO ORBITAL 320W",
+    "code": "TF1301836-4",
+    "cod_internal": "COD. VLJIO319M",
     "category": "Inalámbricas",
     "page": 90,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ3ñññ2ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ4ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññBñññañññsñññeñññ ñññdñññeñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ:ñññ ñññ1ñññ8ñññ0ñññxñññ9ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ3ñññ2ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ8ñññ0ñññ0ñññ0ñññ-ñññ1ñññ3ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
+      "Potencia: 320W",
+      "Velocidad: 14000 rpm",
+      "Base de aluminio: 180x90 mm",
+      "Potencia: 320W",
+      "Velocidad variable: 8000-13000 rpm",
+      "Voltaje: 220-240 V~50/60 Hz",
+      "Potencia de entrada: 1400 W",
+      "Velocidad sin carga: 13000 rpm"
     ],
     "images": [
       "public/assets/total/p090_img1.jpeg",
@@ -1993,23 +1941,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p91_TOTAL-P91",
-    "title": "Herramienta TOTAL Pág. 91",
-    "code": "TOTAL-P91",
-    "cod_internal": "",
+    "id": "p91_TF2241108-4",
+    "title": "LIJADORA ORBITAL DE PALMA 240W",
+    "code": "TF2241108-4",
+    "cod_internal": "COD. VLJIO241M",
     "category": "Inalámbricas",
     "page": 91,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ2ñññ4ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ1ñññ4ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññBñññañññsñññeñññ:ñññ ñññ1ñññ1ñññ0ñññ ñññmñññmñññ ñññxñññ ñññ1ñññ0ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ~ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ4ñññ5ñññ0ñññ ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ6ñññ0ñññ0ñññ0ñññ-ñññ1ñññ2ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ"
+      "Potencia: 240W",
+      "Velocidad: 14000 rpm",
+      "Base: 110 mm x 100 mm",
+      "Voltaje: 220-240 V~50/60 Hz",
+      "Potencia de entrada: 450 W",
+      "Velocidad sin carga: 6000-12000 rpm",
+      "Diámetro de la almohadilla de lijado: 150 mm",
+      "Voltaje: 220-240 V~50/60 Hz"
     ],
     "images": [
       "public/assets/total/p091_img1.jpeg",
@@ -2019,23 +1967,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p92_TOTAL-P92",
-    "title": "Herramienta TOTAL Pág. 92",
-    "code": "TOTAL-P92",
-    "cod_internal": "",
+    "id": "p92_TDWS105016-4",
+    "title": "LIJADORA DE PARED 1050W",
+    "code": "TDWS105016-4",
+    "cod_internal": "COD. VLJIP106M",
     "category": "Inalámbricas",
     "page": 92,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ0ñññ5ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññvñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ6ñññ0ñññ0ñññ-ñññ2ñññ6ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññañññlñññmñññoñññhñññañññdñññiñññlñññlñññañññ:ñññ ñññ8ñññ-ñññ1ñññ/ñññ2ñññ’ñññ’ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññpñññañññpñññeñññlñññ ñññdñññeñññ ñññlñññiñññjñññañññ:ñññ ñññ8ñññ-ñññ7ñññ/ñññ8ñññ’ñññ’ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññtñññuñññbñññoñññ:ñññ ñññ1ñññ-ñññ1ñññ/ñññ4ñññ’ñññ’ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññmñññañññnñññgñññuñññeñññrñññañññ ñññdñññeñññ ñññpñññoñññlñññvñññoñññ:ñññ ñññ1ñññ-ñññ1ñññ/ñññ2ñññ’ñññ’ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
+      "Potencia: 1050W",
+      "Velocidad variable: 600-2600rpm",
+      "Diámetro de la almohadilla: 8-1/2’’",
+      "Diámetro del papel de lija: 8-7/8’’",
+      "Diámetro del tubo: 1-1/4’’",
+      "Diámetro de la manguera de polvo: 1-1/2’’",
+      "Potencia: 1400W",
+      "Velocidad variable: 600-3200rpm"
     ],
     "images": [
       "public/assets/total/p092_img1.jpeg",
@@ -2044,23 +1992,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p93_TOTAL-P93",
-    "title": "Herramienta TOTAL Pág. 93",
-    "code": "TOTAL-P93",
-    "cod_internal": "",
+    "id": "p93_TLT6001-4",
+    "title": "COD. VREI0600M",
+    "code": "TLT6001-4",
+    "cod_internal": "COD. VREI0600M",
     "category": "Inalámbricas",
     "page": 93,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ6ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ:ñññ ñññ3ñññ4ñññ5ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññcñññoñññlñññlñññeñññtñññ:ñññ ñññ6ñññmñññmñññ,ñññ ñññ1ñññ/ñññ4ñññ”ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ3ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññVñññañññrñññiñññañññbñññlñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ0ñññ-ñññ3ñññ5ñññ0ñññ0ñññ0ñññrñññpñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññcñññuñññeñññlñññlñññoñññ:ñññ ñññ3ñññ.ñññ2ñññmñññmñññ"
+      "Potencia: 600W",
+      "Velocidad: 34500 rpm",
+      "Tamaño de collet: 6mm, 1/4”",
+      "Potencia: 130W",
+      "Velocidad Variable: 10000-35000rpm",
+      "Tamaño de cuello: 3.2mm",
+      "Capacidad de encolado: 13-18g / min.",
+      "Diámetro barra de pegamento: 11,2 mm"
     ],
     "images": [
       "public/assets/total/p093_img1.jpeg",
@@ -2069,23 +2017,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p94_TOTAL-P94",
-    "title": "Herramienta TOTAL Pág. 94",
-    "code": "TOTAL-P94",
-    "cod_internal": "",
+    "id": "p94_TT3506-4",
+    "title": "EQUIPO PARA PINTAR 450W",
+    "code": "TT3506-4",
+    "cod_internal": "COD. VEPI0350M",
     "category": "Inalámbricas",
     "page": 94,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ4ñññ5ñññ0ñññWñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññpñññuñññlñññvñññeñññrñññiñññzñññañññcñññiñññóñññnñññ:ñññ ñññ0ñññ.ñññ1ñññ-ñññ0ñññ.ñññ2ñññbñññañññrñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññbñññoñññqñññuñññiñññlñññlñññañññ:ñññ ñññ2ñññ.ñññ5ñññmñññmñññ",
-      "ñññVñññiñññsñññcñññoñññsñññiñññdñññañññdñññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ5ñññ0ñññ ñññDñññIñññNñññ/ñññsñññeñññgñññ",
-      "ñññCñññañññuñññdñññañññlñññ ñññmñññáñññxñññiñññmñññoñññ:ñññ ñññ3ñññ8ñññ0ñññ ñññmñññlñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññlñññ ñññcñññoñññnñññtñññeñññnñññeñññdñññoñññrñññ:ñññ ñññ8ñññ0ñññ0ñññ ñññmñññlñññ.ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ,ñññ4ñññkñññgñññ"
+      "Potencia: 450W",
+      "Presión de pulverización: 0.1-0.2bar",
+      "Diámetro de la boquilla: 2.5mm",
+      "Viscosidad máxima: 50 DIN/seg",
+      "Caudal máximo: 380 ml/min",
+      "Capacidad del contenedor: 800 ml.",
+      "Peso: 1,4kg",
+      "Potencia: 550W"
     ],
     "images": [
       "public/assets/total/p094_img1.jpeg",
@@ -2094,23 +2042,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p95_TOTAL-P95",
-    "title": "Herramienta TOTAL Pág. 95",
-    "code": "TOTAL-P95",
-    "cod_internal": "",
+    "id": "p95_TB20078-4",
+    "title": "SOPLADOR ASPIRADOR 800W",
+    "code": "TB20078-4",
+    "cod_internal": "COD. VEOI2002M",
     "category": "Eléctricas",
     "page": 95,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ2ñññ0ñññ0ñññ0ñññWñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ4ñññ8ñññ0ñññ°ñññCñññ/ñññ5ñññ6ñññ0ñññ°ñññCñññ",
-      "ñññFñññlñññuñññjñññoñññ:ñññ ñññ2ñññ5ñññ0ñññ/ñññ3ñññ8ñññ0ñññ ñññlñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ ñññ~ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ2ñññ0ñññ0ñññ0ñññ ñññWñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ5ñññ0ñññ ñññ°ñññCñññ/ñññ5ñññ0ñññ-ñññ4ñññ5ñññ0ñññ ñññ°ñññCñññ/ñññ5ñññ0ñññ-ñññ5ñññ5ñññ0ñññ ñññ°ñññCñññ"
+      "Potencia: 2000W",
+      "Temperatura: 480°C/560°C",
+      "Flujo: 250/380 l/min",
+      "Voltaje: 220-240 V ~ 50/60 Hz",
+      "Potencia de entrada: 2000 W",
+      "Temperatura: 50 °C/50-450 °C/50-550 °C",
+      "Flujo de aire: 450/300/450 L/min",
+      "Longitud del cable: 2 m"
     ],
     "images": [
       "public/assets/total/p095_img1.jpeg",
@@ -2120,23 +2068,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p96_TOTAL-P96",
-    "title": "Herramienta TOTAL Pág. 96",
-    "code": "TOTAL-P96",
-    "cod_internal": "",
+    "id": "p96_TGT612131-4",
+    "title": "CARGADOR DE BATERIAS 12/24V",
+    "code": "TGT612131-4",
+    "cod_internal": "COD. WCP01200M",
     "category": "Eléctricas",
     "page": 96,
-    "voltage": "",
+    "voltage": "4V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ2ñññ0ñññ0ñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ3ñññ3ñññ0ñññ0ñññ ñññmñññiñññnñññ-ñññ1ñññ.ñññ",
-      "ñññAñññnñññcñññhñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ3ñññ2ñññ0ñññ ñññmñññmñññ",
-      "ñññAñññlñññtñññuñññrñññañññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ2ñññ8ñññ/ñññ4ñññ8ñññ/ñññ6ñññ8ñññ ñññmñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññcñññañññjñññañññ ñññdñññeñññ ñññcñññéñññsñññpñññeñññdñññ:ñññ ñññ2ñññ8ñññLñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññ(ñññVñññ)ñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ"
+      "Potencia: 1200W",
+      "Velocidad sin carga: 3300 min-1.",
+      "Ancho de corte: 320 mm",
+      "Altura de corte: 28/48/68 mm",
+      "Tamaño de la caja de césped: 28L",
+      "Voltaje (V): 220-240",
+      "Frecuencia HZ: 50/60",
+      "Voltaje de carga (V): 12/24"
     ],
     "images": [
       "public/assets/total/p096_img1.jpeg",
@@ -2145,41 +2093,38 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p97_TOTAL-P97",
-    "title": "Herramienta TOTAL Pág. 97",
-    "code": "TOTAL-P97",
-    "cod_internal": "",
+    "id": "p97_TTAC1406",
+    "title": "COD. VCM001400",
+    "code": "TTAC1406",
+    "cod_internal": "COD. VCM001400",
     "category": "Eléctricas",
     "page": 97,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p097_img1.jpeg",
       "public/assets/total/p097_img2.jpeg"
     ]
   },
   {
-    "id": "p98_TOTAL-P98",
-    "title": "Herramienta TOTAL Pág. 98",
-    "code": "TOTAL-P98",
-    "cod_internal": "",
+    "id": "p98_TCS1110242-4",
+    "title": "COMPRESOR 100L SIN ACEITE",
+    "code": "TCS1110242-4",
+    "cod_internal": "COD. WCMI0026M",
     "category": "Eléctricas",
     "page": 98,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ,ñññ5ñññHñññPñññ",
-      "ñññRñññuñññiñññdñññoñññ:ñññ ñññ6ñññ7ñññdñññbñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññsñññiñññnñññ ñññcñññañññrñññgñññañññ:ñññ ñññ3ñññ4ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ8ñññ ñññbñññañññrñññ ñññmñññáñññxñññ.ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ1ñññ,ñññ6ñññHñññPñññ",
-      "ñññRñññuñññiñññdñññoñññ:ñññ ñññ7ñññ5ñññdñññbñññ"
+      "Potencia: 1,5HP",
+      "Ruido: 67db",
+      "Velocidad sin carga: 3400 rpm",
+      "Presión de funcionamiento: 8 bar máx.",
+      "Potencia: 1,6HP",
+      "Ruido: 75db",
+      "Velocidad sin carga: 2850 rpm",
+      "Presión de funcionamiento: 8 bar máx."
     ],
     "images": [
       "public/assets/total/p098_img1.jpeg",
@@ -2188,23 +2133,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p99_TOTAL-P99",
-    "title": "Herramienta TOTAL Pág. 99",
-    "code": "TOTAL-P99",
-    "cod_internal": "",
+    "id": "p99_TET01610-4",
+    "title": "SOLDADOR DE ESTAÑO 120W",
+    "code": "TET01610-4",
+    "cod_internal": "COD. VSE00120M",
     "category": "Eléctricas",
     "page": 99,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ~ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ1ñññ2ñññ0ñññ ñññWñññ",
-      "ñññTñññiñññeñññmñññpñññoñññ ñññdñññeñññ ñññpñññrñññeñññcñññañññlñññeñññnñññtñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ1ñññ-ñññ2ñññ ñññmñññiñññnñññuñññtñññoñññsñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ~ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññdñññeñññ ñññeñññnñññtñññrñññañññdñññañññ:ñññ ñññ7ñññ0ñññ ñññWñññ",
-      "ñññTñññiñññeñññmñññpñññoñññ ñññdñññeñññ ñññpñññrñññeñññcñññañññlñññeñññnñññtñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ1ñññ-ñññ2ñññ ñññmñññiñññnñññuñññtñññoñññsñññ"
+      "Voltaje: 220-240 V~50/60 Hz",
+      "Potencia de entrada: 120 W",
+      "Tiempo de precalentamiento: 1-2 minutos",
+      "Voltaje: 220-240 V~50/60 Hz",
+      "Potencia de entrada: 70 W",
+      "Tiempo de precalentamiento: 1-2 minutos"
     ],
     "images": [
       "public/assets/total/p099_img1.jpeg",
@@ -2227,23 +2170,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p101_TOTAL-P101",
-    "title": "Herramienta TOTAL Pág. 101",
-    "code": "TOTAL-P101",
-    "cod_internal": "",
+    "id": "p101_TAT81501",
+    "title": "CLAVADORA ENGRAMPADORA NEUMATICA",
+    "code": "TAT81501",
+    "cod_internal": "COD. VENI1501N",
     "category": "Neumáticas",
     "page": 101,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ",
-      "ñññMñññeñññdñññiñññdñññañññ ñññgñññrñññañññpñññañññ:ñññ ñññ1ñññ6ñññ-ñññ4ñññ0ñññ ñññmñññmñññ",
-      "ñññAñññnñññcñññhñññoñññ ñññdñññeñññ ñññgñññrñññañññpñññañññ:ñññ ñññ5ñññ.ñññ7ñññ ñññmñññmñññ",
-      "ñññMñññeñññdñññiñññdñññañññ ñññcñññlñññañññvñññoñññ:ñññ ñññ1ñññ5ñññ-ñññ5ñññ0ñññ ñññMñññMñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññoñññpñññeñññrñññañññcñññiñññóñññnñññ:ñññ ñññ4ñññ-ñññ8ñññbñññañññrñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ:ñññ ñññ8ñññmñññmñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññbñññoñññqñññuñññiñññlñññlñññañññ:ñññ ñññ1ñññ6ñññmñññmñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññmñññáñññxñññiñññmñññañññ ñññdñññeñññ ñññtñññrñññañññbñññañññjñññoñññ:ñññ ñññ4ñññ3ñññ.ñññ5ñññ-ñññ5ñññ8ñññpñññsñññiñññ"
+      "Medida grapa: 16-40 mm",
+      "Ancho de grapa: 5.7 mm",
+      "Medida clavo: 15-50 MM",
+      "Presión de operación: 4-8bar",
+      "Diámetro: 8mm",
+      "Longitud de boquilla: 16mm",
+      "Presión máxima de trabajo: 43.5-58psi",
+      "Ancho de trabajo: 180 - 250mm"
     ],
     "images": [
       "public/assets/total/p101_img1.jpeg",
@@ -2252,23 +2195,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p102_TOTAL-P102",
-    "title": "Herramienta TOTAL Pág. 102",
-    "code": "TOTAL-P102",
-    "cod_internal": "",
+    "id": "p102_TAT11601",
+    "title": "INFLADOR MEDIDOR DE NEUMÁTICOS",
+    "code": "TAT11601",
+    "cod_internal": "COD. VNA0PA00N",
     "category": "Neumáticas",
     "page": 102,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ2ñññ,ñññ6ñññ ñññ-ñññ3ñññ ñññbñññañññrñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ0ñññ,ñññ1ñññ2ñññkñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññMñññáñññxñññiñññmñññañññ:ñññ ñññ8ñññ,ñññ5ñññBñññañññrñññ ñññ(ñññ1ñññ2ñññ0ñññPñññSñññIñññ)ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ0ñññ,ñññ5ñññKñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ:ñññ ñññ7ñññ5ñññ0ñññcñññcñññ",
-      "ñññCñññoñññnñññsñññuñññmñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ:ñññ ñññ1ñññ8ñññ0ñññlñññ ñññ/ñññ ñññmñññiñññnñññ ñññ(ñññ6ñññ.ñññ3ñññcñññfñññmñññ)ñññ"
+      "Presión de funcionamiento: 2,6 -3 bar",
+      "Peso: 0,12kg",
+      "Presión Máxima: 8,5Bar (120PSI)",
+      "Peso: 0,5Kg",
+      "Capacidad: 750cc",
+      "Consumo de aire: 180l / min (6.3cfm)",
+      "Capacidad del tanque: 750cc",
+      "Longitud del pico: 215 mm (8-1 / 2 “)"
     ],
     "images": [
       "public/assets/total/p102_img1.jpeg",
@@ -2277,23 +2220,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p103_TOTAL-P103",
-    "title": "Herramienta TOTAL Pág. 103",
-    "code": "TOTAL-P103",
-    "cod_internal": "",
+    "id": "p103_TAT10401",
+    "title": "PISTOLA DE PINTAR NEUMÁTICA 1000CC",
+    "code": "TAT10401",
+    "cod_internal": "COD. VNA0PP04N",
     "category": "Neumáticas",
     "page": 103,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññAñññnñññcñññhñññoñññ ñññdñññeñññlñññ ñññpñññañññtñññrñññóñññnñññ:ñññ ñññ1ñññ8ñññ0ñññ-ñññ2ñññ5ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññiñññnñññtñññuñññrñññañññ:ñññ ñññ4ñññ0ñññ0ñññcñññcñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ3ñññ-ñññ4ñññ ñññbñññañññrñññ",
-      "ñññCñññoñññnñññsñññuñññmñññoñññ ñññdñññeñññ ñññañññiñññrñññeñññ:ñññ ñññ1ñññ1ñññ9ñññ-ñññ2ñññ0ñññ0ñññ ñññLñññ/ñññmñññiñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññAñññnñññcñññhñññoñññ ñññdñññeñññlñññ ñññpñññañññtñññrñññóñññnñññ:ñññ ñññ1ñññ4ñññ0ñññ-ñññ1ñññ8ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññpñññiñññnñññtñññuñññrñññañññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññcñññcñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ3ñññ-ñññ4ñññ ñññbñññañññrñññ"
+      "Ancho del patrón: 180-250 mm",
+      "Capacidad de pintura: 400cc",
+      "Presión de funcionamiento: 3-4 bar",
+      "Consumo de aire: 119-200 L/min",
+      "Ancho del patrón: 140-180 mm",
+      "Capacidad de pintura: 1000cc",
+      "Presión de funcionamiento: 3-4 bar",
+      "Consumo de aire: 119-200 L/min"
     ],
     "images": [
       "public/assets/total/p103_img1.jpeg",
@@ -2318,23 +2261,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p105_TOTAL-P105",
-    "title": "Herramienta TOTAL Pág. 105",
-    "code": "TOTAL-P105",
-    "cod_internal": "",
+    "id": "p105_TGT250105",
+    "title": "CORTADORA DE CESPED A EXPLOSIÓN",
+    "code": "TGT250105",
+    "cod_internal": "COD. WHNI0060M",
     "category": "Nafteras",
     "page": 105,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ6ñññHñññPñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññbñññoñññmñññbñññañññ:ñññ ñññbñññoñññmñññbñññañññ ñññdñññeñññ ñññlñññeñññvñññañññ ñññañññxñññiñññañññlñññ ñññdñññeñññ",
-      "ñññSñññañññlñññiñññdñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ6ñññ ñññHñññPñññ",
-      "ñññMñññañññxñññ.ñññ ñññPñññrñññeñññsñññiñññóñññnñññ:ñññ ñññ2ñññ1ñññ4ñññBñññañññrñññ ñññ(ñññ3ñññ1ñññ0ñññ0ñññPñññSñññIñññ)ñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññ ñññfñññlñññuñññjñññoñññ:ñññ ñññ8ñññ.ñññ7ñññ ñññLñññ ñññ/ñññmñññiñññnñññ ñññ(ñññ2ñññ.ñññ3ñññGñññPñññMñññ)ñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññmñññoñññtñññoñññrñññ:ñññ ñññOñññHñññVñññ ñññ4ñññ ñññtñññiñññeñññmñññpñññoñññsñññ",
-      "ñññDñññeñññsñññpñññlñññañññzñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ2ñññ0ñññ8ñññ ñññCñññCñññ"
+      "Potencia: 6HP",
+      "Tipo de bomba: bomba de leva axial de",
+      "Salida máxima: 6 HP",
+      "Max. Presión: 214Bar (3100PSI)",
+      "Velocidad de flujo: 8.7 L /min (2.3GPM)",
+      "Tipo de motor: OHV 4 tiempos",
+      "Desplazamiento: 208 CC",
+      "Sistema de arranque: Manual"
     ],
     "images": [
       "public/assets/total/p105_img1.jpeg",
@@ -2342,23 +2285,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p106_TOTAL-P106",
-    "title": "Herramienta TOTAL Pág. 106",
-    "code": "TOTAL-P106",
-    "cod_internal": "",
+    "id": "p106_TGC5001",
+    "title": "ASERRADORA DE JUNTAS 13 HP",
+    "code": "TGC5001",
+    "cod_internal": "COD. WMCI0065M",
     "category": "Nafteras",
     "page": 106,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ6ñññ,ñññ5ñññHñññPñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññdñññeñññlñññ ñññmñññoñññtñññoñññrñññ:ñññ ñññ4ñññ.ñññ8ñññkñññWñññ ñññ(ñññ6ñññ.ñññ5ñññHñññPñññ)ñññ",
-      "ñññAñññlñññcñññañññnñññcñññeñññ ñññdñññeñññ ñññlñññañññbñññrñññañññnñññzñññañññ:ñññ ñññ9ñññ0ñññ0ñññ ñññmñññmñññ",
-      "ñññPñññrñññoñññfñññuñññnñññdñññiñññdñññañññdñññ ñññdñññeñññ ñññlñññañññbñññrñññañññnñññzñññañññ ñññ:ñññ ñññ1ñññ5ñññ0ñññ-ñññ3ñññ0ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññmñññbñññiñññoñññ ñññdñññeñññ ñññmñññañññrñññcñññhñññañññ:ñññ ñññ-ñññ1ñññ,ñññ2ñññ,ñññ0ñññ,ñññ1ñññ",
-      "ñññMñññoñññdñññeñññlñññoñññ ñññdñññeñññ ñññcñññoñññnñññdñññuñññcñññcñññiñññóñññnñññ:ñññ ñññcñññiñññnñññtñññuñññrñññóñññnñññ"
+      "Potencia: 6,5HP",
+      "Potencia del motor: 4.8kW (6.5HP)",
+      "Alcance de labranza: 900 mm",
+      "Profundidad de labranza : 150-300 mm",
+      "Cambio de marcha: -1,2,0,1",
+      "Modelo de conducción: cinturón",
+      "Max. par (N.m / rpm): 11/2500",
+      "Cap. aceite de transmisión:0.95 lts"
     ],
     "images": [
       "public/assets/total/p106_img1.jpeg",
@@ -2366,23 +2309,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p107_TOTAL-P107",
-    "title": "Herramienta TOTAL Pág. 107",
-    "code": "TOTAL-P107",
-    "cod_internal": "",
+    "id": "p107_TP9361-1",
+    "title": "PISON A EXPLOSIÓN 5,5 HP",
+    "code": "TP9361-1",
+    "cod_internal": "COD. WFRI0055M",
     "category": "Nafteras",
     "page": 107,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ5ñññ,ñññ5ñññHñññPñññ ñññ/ñññ ñññ4ñññKñññwñññ",
-      "ñññMñññoñññtñññoñññrñññ:ñññ ñññHñññoñññnñññdñññañññ ñññGñññXñññ1ñññ6ñññ0ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ7ñññ8ñññKñññgñññsñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññrñññoñññtñññañññcñññiñññóñññnñññ:ñññ ñññ9ñññ1ñññ ñññcñññmñññ ñññ(ñññ3ñññ6ñññ ñññ“ñññ)ñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ:ñññ ñññ5ñññ,ñññ5ñññHñññPñññ ñññ/ñññ ñññ4ñññKñññwñññ",
-      "ñññMñññoñññtñññoñññrñññ:ñññ ñññHñññoñññnñññdñññañññ ñññGñññXñññ1ñññ6ñññ0ñññ"
+      "Potencia: 5,5HP / 4Kw",
+      "Motor: Honda GX160",
+      "Peso: 78Kgs",
+      "Diámetro de rotación: 91 cm (36 “)",
+      "Potencia: 5,5HP / 4Kw",
+      "Motor: Honda GX160",
+      "Peso: 79Kgs",
+      "Fuerza de impacto: 10 kN"
     ],
     "images": [
       "public/assets/total/p107_img1.jpeg",
@@ -2390,23 +2333,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p108_TOTAL-P108",
-    "title": "Herramienta TOTAL Pág. 108",
-    "code": "TOTAL-P108",
-    "cod_internal": "",
+    "id": "p108_TP18001-4",
+    "title": "GRUPO ELECTRÓGENO 1200W",
+    "code": "TP18001-4",
+    "cod_internal": "COD. WGN00800M",
     "category": "Nafteras",
     "page": 108,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññTñññeñññnñññsñññiñññóñññnñññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ5ñññ0ñññ ñññHñññzñññ",
-      "ñññSñññañññlñññiñññdñññañññ ñññmñññáñññxñññiñññmñññañññ ñññ:ñññ ñññ0ñññ.ñññ8ñññ ñññkñññWñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ0ñññ.ñññ6ñññ5ñññ ñññkñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññMñññoñññtñññoñññrñññ:ñññ ñññ2ñññ ñññtñññiñññeñññmñññpñññoñññsñññ"
+      "Tensión nominal : 220-240 V",
+      "Frecuencia nominal : 50 Hz",
+      "Salida máxima : 0.8 kW",
+      "Potencia nominal : 0.65 kW",
+      "Velocidad nominal : 3000 rpm",
+      "Motor: 2 tiempos",
+      "Desplazamiento: 63 ml",
+      "Sistema de arranque: manual"
     ],
     "images": [
       "public/assets/total/p108_img1.jpeg",
@@ -2414,23 +2357,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p109_TOTAL-P109",
-    "title": "Herramienta TOTAL Pág. 109",
-    "code": "TOTAL-P109",
-    "cod_internal": "",
+    "id": "p109_TP130005-4",
+    "title": "GRUPO ELECTRÓGENO 3000W",
+    "code": "TP130005-4",
+    "cod_internal": "COD. WGN03000M",
     "category": "Nafteras",
     "page": 109,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññTñññeñññnñññsñññiñññóñññnñññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ2ñññ2ñññ0ñññ-ñññ2ñññ4ñññ0ñññ ñññVñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ5ñññ0ñññ ñññHñññzñññ",
-      "ñññSñññañññlñññiñññdñññañññ ñññmñññáñññxñññ.ñññ ñññ:ñññ ñññ3ñññ.ñññ0ñññ ñññKñññWñññ",
-      "ñññPñññoñññtñññeñññnñññcñññiñññañññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ2ñññ.ñññ8ñññ ñññKñññWñññ",
-      "ñññVñññeñññlñññoñññcñññiñññdñññañññdñññ ñññnñññoñññmñññiñññnñññañññlñññ ñññ:ñññ ñññ3ñññ0ñññ0ñññ0ñññ ñññrñññpñññmñññ",
-      "ñññMñññoñññtñññoñññrñññ:ñññ ñññ4ñññ ñññtñññiñññeñññmñññpñññoñññsñññ,ñññ ñññOñññHñññVñññ"
+      "Tensión nominal : 220-240 V",
+      "Frecuencia nominal : 50 Hz",
+      "Salida máx. : 3.0 KW",
+      "Potencia nominal : 2.8 KW",
+      "Velocidad nominal : 3000 rpm",
+      "Motor: 4 tiempos, OHV",
+      "Desplazamiento : 210 ml",
+      "Sistema de encendido: T.C.I"
     ],
     "images": [
       "public/assets/total/p109_img1.jpeg",
@@ -2452,40 +2395,37 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p111_TOTAL-P111",
-    "title": "Herramienta TOTAL Pág. 111",
-    "code": "TOTAL-P111",
-    "cod_internal": "",
+    "id": "p111_TAKTMT2301",
+    "title": "SET DE 23 ACCESORIOS PARA MULTIHERRAMIENTAS",
+    "code": "TAKTMT2301",
+    "cod_internal": "COD. ZMH0S023M",
     "category": "Accesorios",
     "page": 111,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ1ñññ ñññañññlñññmñññoñññhñññañññdñññiñññlñññlñññañññ ñññdñññeñññ ñññlñññiñññjñññañññdñññoñññ ñññDñññeñññlñññtñññañññ,ñññ ñññtñññañññmñññañññññññoñññ:ñññ ñññ3ñññ.ñññ1ñññ5ñññ0ñññ ñññiñññnñññ.ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ"
+      "1 almohadilla de lijado Delta, tamaño: 3.150 in."
     ],
     "images": [
       "public/assets/total/p111_img1.jpeg"
     ]
   },
   {
-    "id": "p112_TOTAL-P112",
-    "title": "Herramienta TOTAL Pág. 112",
-    "code": "TOTAL-P112",
-    "cod_internal": "",
+    "id": "p112_TBA1011",
+    "title": "SET DE 10 ACCESORIOS PARA PISTOLA DE CALOR",
+    "code": "TBA1011",
+    "cod_internal": "COD. ZPC001000",
     "category": "Accesorios",
     "page": 112,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ6ñññ,ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññMñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññlñññlñññañññvñññeñññ:ñññ ñññ3ñññ/ñññ4ñññ”ñññ ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññoñññsñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññpñññrñññoñññfñññuñññnñññdñññoñññsñññ:ñññ ñññ2ñññ6ñññ,ñññ ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ9ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññMñññoñññ ñññ"
+      "Tamaños: 10, 11, 12, 13, 14, 15, 16,",
+      "Material: Cr-Mo",
+      "Tamaño de la llave: 3/4”",
+      "Tamaño de los vasos de impacto profundos: 26,",
+      "Longitud: 90 mm",
+      "Material: Cr-Mo"
     ],
     "images": [
       "public/assets/total/p112_img1.jpeg",
@@ -2494,21 +2434,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p113_TOTAL-P113",
-    "title": "Herramienta TOTAL Pág. 113",
-    "code": "TOTAL-P113",
-    "cod_internal": "",
+    "id": "p113_THTISD38104",
+    "title": "SET DE 31 ACCESORIOS PARA ATORNILLADOR DE IMPACTO",
+    "code": "THTISD38104",
+    "cod_internal": "COD. ZLC001000",
     "category": "Accesorios",
     "page": 113,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññ2ñññ9ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññ2ñññ5ñññ ñññmñññmñññ:ñññ ñññPñññHñññ1ñññ/ñññPñññHñññ2ñññ/ñññPñññHñññ2ñññ/ñññPñññHñññ3ñññ/ñññPñññZñññ1ñññ/ñññ",
-      "ñññ1ñññ7ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññ5ñññ0ñññ ñññmñññmñññ:ñññ ñññPñññHñññ1ñññ/ñññPñññHñññ2ñññ/ñññPñññHñññ2ñññ/ñññPñññHñññ3ñññ/ñññPñññZñññ1ñññ/ñññ",
-      "ñññ3ñññ ñññtñññuñññeñññrñññcñññañññsñññ ñññmñññañññgñññnñññéñññtñññiñññcñññañññsñññ ñññdñññeñññ ñññ4ñññ8ñññ ñññmñññmñññ:ñññ ñññ6ñññ,ñññ ñññ8ñññ ñññyñññ ñññ1ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ"
+      "29 puntas de 25 mm: PH1/PH2/PH2/PH3/PZ1/",
+      "17 puntas de 50 mm: PH1/PH2/PH2/PH3/PZ1/",
+      "3 tuercas magnéticas de 48 mm: 6, 8 y 10 mm"
     ],
     "images": [
       "public/assets/total/p113_img1.jpeg",
@@ -2517,22 +2454,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p114_TOTAL-P114",
-    "title": "Herramienta TOTAL Pág. 114",
-    "code": "TOTAL-P114",
-    "cod_internal": "",
+    "id": "p114_TACSD18306",
+    "title": "SL3/SL4/SL5/SL6/H3/H4/H5/H6/S1/S2/S3/T10/",
+    "code": "TACSD18306",
+    "cod_internal": "COD. ZTPI03000",
     "category": "Accesorios",
     "page": 114,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññ2ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññdñññeñññ ñññcñññrñññoñññmñññoñññ-ñññmñññoñññlñññiñññbñññdñññeñññnñññoñññ:ñññ ñññ1ñññ2ñññ/ñññ1ñññ4ñññ ñññmñññmñññ ñññ",
-      "ñññ1ñññ8ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññdñññeñññ ñññ2ñññ5ñññ ñññmñññmñññ:ñññ ñññ",
-      "ñññ8ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññdñññeñññ ñññ5ñññ0ñññ ñññmñññmñññ:ñññ ñññ",
-      "ñññ3ñññ ñññtñññuñññeñññrñññcñññañññsñññ ñññmñññañññgñññnñññéñññtñññiñññcñññañññsñññ ñññdñññeñññ ñññ4ñññ8ñññ ñññmñññmñññ:ñññ ñññ6ñññ,ñññ ñññ8ñññ ñññyñññ ñññ1ñññ0ñññ ñññmñññmñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ"
+      "2 vasos de impacto de cromo-molibdeno: 12/14 mm",
+      "18 puntas de destornillador de impacto de 25 mm:",
+      "8 puntas de destornillador de impacto de 50 mm:",
+      "3 tuercas magnéticas de 48 mm: 6, 8 y 10 mm"
     ],
     "images": [
       "public/assets/total/p114_img1.jpeg",
@@ -2541,19 +2475,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p115_TOTAL-P115",
-    "title": "Herramienta TOTAL Pág. 115",
-    "code": "TOTAL-P115",
-    "cod_internal": "",
+    "id": "p115_TACSR0121",
+    "title": "SET DE 12 ACCESORIOS PARA ROUTER 6MM",
+    "code": "TACSR0121",
+    "cod_internal": "COD. ZRE012600",
     "category": "Accesorios",
     "page": 115,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p115_img1.jpeg",
       "public/assets/total/p115_img2.jpeg",
@@ -2561,21 +2491,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p116_TOTAL-P116",
-    "title": "Herramienta TOTAL Pág. 116",
-    "code": "TOTAL-P116",
-    "cod_internal": "",
+    "id": "p116_TAKMG4208",
+    "title": "SET DE 5 PIEDRAS PARA AMOLADORA RECTA",
+    "code": "TAKMG4208",
+    "cod_internal": "COD. ZMT042000",
     "category": "Accesorios",
     "page": 116,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññañññrñññbñññuñññrñññoñññ ñññdñññeñññ ñññtñññuñññnñññgñññsñññtñññeñññnñññoñññ ñññ",
-      "ñññVñññáñññsñññtñññañññgñññoñññ:ñññ ñññ6ñññ ñññmñññmñññ ñññ",
-      "ñññTñññiñññpñññoñññ:ñññ ñññFñññoñññrñññmñññañññ ñññcñññiñññlñññíñññnñññdñññrñññiñññcñññañññ,ñññ ñññfñññoñññrñññmñññañññ ñññdñññeñññ ñññáñññrñññbñññoñññlñññ,ñññ ñññfñññoñññrñññmñññañññ ñññdñññeñññ ñññbñññoñññlñññañññ,ñññ ñññ"
+      "Material: Carburo de tungsteno",
+      "Vástago: 6 mm",
+      "Tipo: Forma cilíndrica, forma de árbol, forma de bola,"
     ],
     "images": [
       "public/assets/total/p116_img1.jpeg",
@@ -2584,19 +2511,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p117_TOTAL-P117",
-    "title": "Herramienta TOTAL Pág. 117",
-    "code": "TOTAL-P117",
-    "cod_internal": "",
+    "id": "p117_TAKB1012",
+    "title": "SET 25 DISCOS ABRASIVOS DE CORTE 125X1.0MM",
+    "code": "TAKB1012",
+    "cod_internal": "COD. ZMT001000",
     "category": "Accesorios",
     "page": 117,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p117_img1.jpeg",
       "public/assets/total/p117_img2.jpeg",
@@ -2604,17 +2527,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p118_TOTAL-P118",
-    "title": "Herramienta TOTAL Pág. 118",
-    "code": "TOTAL-P118",
-    "cod_internal": "",
+    "id": "p118_TAC11011525",
+    "title": "SET 10 DISCOS ABRASIVOS DE CORTE 115X1.2MM",
+    "code": "TAC11011525",
+    "cod_internal": "COD. ZDA0K115M",
     "category": "Accesorios",
     "page": 118,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p118_img1.jpeg",
       "public/assets/total/p118_img2.jpeg",
@@ -2622,19 +2543,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p119_TOTAL-P119",
-    "title": "Herramienta TOTAL Pág. 119",
-    "code": "TOTAL-P119",
-    "cod_internal": "",
+    "id": "p119_TAC641151",
+    "title": "DISCO DIAMANTADO TURBO 115X22.2MM",
+    "code": "TAC641151",
+    "cod_internal": "COD. ZDF04115Z",
     "category": "Accesorios",
     "page": 119,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññbñññrñññañññsñññiñññvñññoñññ ñññdñññeñññ ñññóñññxñññiñññdñññoñññ ñññdñññeñññ ñññzñññiñññrñññcñññoñññnñññiñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññUñññsñññoñññ ñññuñññnñññiñññvñññeñññrñññsñññañññlñññ:ñññ ñññcñññeñññrñññáñññmñññiñññcñññañññ,ñññ ñññbñññañññlñññdñññoñññsñññañññsñññ,ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ"
+      "Material: Abrasivo de óxido de zirconio",
+      "Uso universal: cerámica, baldosas,"
     ],
     "images": [
       "public/assets/total/p119_img1.jpeg",
@@ -2643,18 +2562,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p120_TOTAL-P120",
-    "title": "Herramienta TOTAL Pág. 120",
-    "code": "TOTAL-P120",
-    "cod_internal": "",
+    "id": "p120_TAC2132303",
+    "title": "DISCO DIAMANTADO SEGMENTADO 110X20MM",
+    "code": "TAC2132303",
+    "cod_internal": "COD. ZDD0T2300",
     "category": "Accesorios",
     "page": 120,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p120_img1.jpeg",
       "public/assets/total/p120_img2.jpeg",
@@ -2662,9 +2578,9 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p121_TOTAL-P121",
-    "title": "Herramienta TOTAL Pág. 121",
-    "code": "TOTAL-P121",
+    "id": "p121_TAC21111512",
+    "title": "DISCO DIAMANTADO SEGMENTADO 22MM",
+    "code": "TAC21111512",
     "cod_internal": "",
     "category": "Accesorios",
     "page": 121,
@@ -2677,23 +2593,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p122_TOTAL-P122",
-    "title": "Herramienta TOTAL Pág. 122",
-    "code": "TOTAL-P122",
-    "cod_internal": "",
+    "id": "p122_TAC2231151",
+    "title": "DISCO ABRASIVO DE DESBASTE PARA METAL 115X6MM",
+    "code": "TAC2231151",
+    "cod_internal": "COD. ZDA0D115M",
     "category": "Accesorios",
     "page": 122,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ:ñññ ñññØñññ2ñññ2ñññxñññØñññ6ñññxñññ2ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ:ñññ ñññØñññ2ñññ2ñññxñññØñññ6ñññxñññ2ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ4ñññ0ñññmñññmñññ ñññ(ñññ5ñññ-ñññ ñññ1ñññ/ñññ2ñññ”ñññ)ñññ"
+      "Tamaño de la cuchilla: Ø22xØ6x2mm",
+      "Tamaño de la cuchilla: Ø22xØ6x2mm",
+      "Tamaño: 140mm (5- 1/2”)",
+      "Número de dientes: 24T",
+      "Eje: 25.4mm",
+      "Anillo reductor: 16mm",
+      "Grosor de la matriz: 1.0mm",
+      "Tamaño: 140mm (5- 1/2”)"
     ],
     "images": [
       "public/assets/total/p122_img1.jpeg",
@@ -2705,23 +2621,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p123_TOTAL-P123",
-    "title": "Herramienta TOTAL Pág. 123",
-    "code": "TOTAL-P123",
-    "cod_internal": "",
+    "id": "p123_TRSB611D",
+    "title": "SIERRAS PARA SIERRA SABLE (MADERA)",
+    "code": "TRSB611D",
+    "cod_internal": "COD. ZSI0SS02M",
     "category": "Accesorios",
     "page": 123,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññMñññañññtñññeñññrñññiñññañññlñññeñññsñññ:ñññ ñññHñññCñññSñññ",
-      "ñññDñññiñññeñññnñññtñññeñññsñññ ñññañññfñññiñññlñññañññdñññoñññsñññ:ñññ ñññRñññeñññcñññtñññiñññfñññiñññcñññañññdñññoñññsñññ ñññyñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññeñññsñññ:ñññ ñññBñññIñññmñññeñññtñññáñññlñññiñññcñññoñññ ñññ(ñññMñññ4ñññ2ñññ+ñññDñññ6ñññAñññ)ñññ",
-      "ñññDñññiñññeñññnñññtñññeñññsñññ ñññañññfñññiñññlñññañññdñññoñññsñññ:ñññ ñññFñññrñññeñññsñññañññdñññoñññsñññ ñññ_ñññ_ñññyñññ ñññdñññeñññnñññtñññañññdñññoñññsñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ"
+      "Materiales: HCS",
+      "Dientes afilados: Rectificados y",
+      "Materiales: BImetálico (M42+D6A)",
+      "Dientes afilados: Fresados __y dentados",
+      "Tamaño: 140mm (5- 1/2”)",
+      "Número de dientes: 24T",
+      "Eje: 25.4mm",
+      "Anillo reductor: 16mm"
     ],
     "images": [
       "public/assets/total/p123_img1.jpeg",
@@ -2734,23 +2650,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p124_TOTAL-P124",
-    "title": "Herramienta TOTAL Pág. 124",
-    "code": "TOTAL-P124",
-    "cod_internal": "",
+    "id": "p124_TJSBT111C",
+    "title": "SIERRAS PARA SIERRA CALADORA (MADERA-CORTE RAPIDO)",
+    "code": "TJSBT111C",
+    "cod_internal": "COD. ZSI0SC22M",
     "category": "Accesorios",
     "page": 124,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ0ñññ",
-      "ñññEñññsñññpñññañññcñññiñññoñññ ñññdñññeñññnñññtñññañññlñññ:ñññ ñññ4ñññ-ñññ5ñññ.ñññ2ñññ ñññmñññmñññ.ñññ",
-      "ñññUñññsñññoñññ:ñññ ñññpñññañññrñññañññ ñññmñññañññdñññeñññrñññañññ ñññbñññlñññañññnñññdñññañññ,ñññ ñññañññgñññlñññoñññmñññeñññrñññañññdñññoñññsñññ,ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ1ñññ0ñññmñññmñññ ñññ(ñññ8ñññ-ñññ1ñññ/ñññ4ñññ”ñññ)ñññ",
-      "ñññCñññañññnñññtñññiñññdñññañññdñññ ñññdñññeñññ ñññdñññiñññeñññnñññtñññeñññsñññ:ñññ ñññ4ñññ0ñññTñññ"
+      "Espacio dental: 4-5.2 mm.",
+      "Uso: para madera blanda, aglomerados,",
+      "Tamaño: 210mm (8-1/4”)",
+      "Cantidad de dientes: 40T",
+      "Eje: 25.4mm",
+      "Anillo reductor: 16mm",
+      "Grosor de la matriz: 1.2mm",
+      "Tamaño: 210mm (8-1/4”)"
     ],
     "images": [
       "public/assets/total/p124_img1.jpeg",
@@ -2765,23 +2681,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p125_TOTAL-P125",
-    "title": "Herramienta TOTAL Pág. 125",
-    "code": "TOTAL-P125",
-    "cod_internal": "",
+    "id": "p125_TAC2001",
+    "title": "SET DE 20 HOJAS PARA SIERRA CALADORA",
+    "code": "TAC2001",
+    "cod_internal": "COD. ZSI0SS02M",
     "category": "Accesorios",
     "page": 125,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññMñññ4ñññ2ñññ+ñññDñññ6ñññAñññ",
-      "ñññNñññúñññmñññeñññrñññoñññ ñññdñññeñññ ñññdñññiñññeñññnñññtñññeñññsñññ:ñññ ñññ2ñññ4ñññ ñññdñññiñññeñññnñññtñññeñññsñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ0ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ2ñññ”ñññ)ñññ",
-      "ñññCñññoñññmñññpñññañññtñññiñññbñññlñññeñññ ñññcñññoñññnñññ:ñññ ñññSñññiñññeñññrñññrñññañññ ñññdñññeñññ ñññAñññrñññcñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ4ñññ0ñññmñññmñññ ñññ(ñññ5ñññ-ñññ ñññ1ñññ/ñññ2ñññ”ñññ)ñññ"
+      "Material: M42+D6A",
+      "Número de dientes: 24 dientes",
+      "Tamaño: 300 mm (12”)",
+      "Compatible con: Sierra de Arco",
+      "Tamaño: 140mm (5- 1/2”)",
+      "Número de dientes: 24T",
+      "Eje: 25.4mm",
+      "Anillo reductor: 16mm"
     ],
     "images": [
       "public/assets/total/p125_img1.jpeg",
@@ -2796,23 +2712,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p126_TOTAL-P126",
-    "title": "Herramienta TOTAL Pág. 126",
-    "code": "TOTAL-P126",
-    "cod_internal": "",
+    "id": "p126_TAC2331653",
+    "title": "SIERRAS PARA SIERRA CALADORA (MADERA-BASICA)",
+    "code": "TAC2331653",
+    "cod_internal": "COD. ZDSI01650",
     "category": "Accesorios",
     "page": 126,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ6ñññ5ñññmñññmñññ(ñññ6ñññ-ñññ1ñññ/ñññ2ñññ”ñññ)ñññ",
-      "ñññCñññañññnñññtñññiñññdñññañññdñññ ñññdñññeñññ ñññdñññiñññeñññnñññtñññeñññsñññ:ñññ ñññ2ñññ4ñññTñññ",
-      "ñññEñññjñññeñññ:ñññ ñññ2ñññ0ñññmñññmñññ",
-      "ñññAñññnñññiñññlñññlñññoñññ ñññdñññeñññ ñññrñññeñññdñññuñññcñññcñññiñññóñññnñññ:ñññ ñññ1ñññ6ñññmñññmñññ",
-      "ñññEñññsñññpñññeñññsñññoñññrñññ ñññdñññeñññ ñññlñññañññ ñññmñññañññtñññrñññiñññzñññ:ñññ ñññ1ñññ.ñññ0ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ6ñññ5ñññmñññmñññ(ñññ6ñññ-ñññ1ñññ/ñññ2ñññ”ñññ)ñññ"
+      "Tamaño: 165mm(6-1/2”)",
+      "Cantidad de dientes: 24T",
+      "Eje: 20mm",
+      "Anillo de reducción: 16mm",
+      "Espesor de la matriz: 1.0mm",
+      "Tamaño: 165mm(6-1/2”)",
+      "Número de dientes: 24T, 30T, 40T",
+      "Eje: 20mm"
     ],
     "images": [
       "public/assets/total/p126_img1.jpeg",
@@ -2827,23 +2743,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p127_TOTAL-P127",
-    "title": "Herramienta TOTAL Pág. 127",
-    "code": "TOTAL-P127",
-    "cod_internal": "",
+    "id": "p127_TAC2332103",
+    "title": "SIERRAS PARA SIERRA CALADORA (MADERA-CORTE RAPIDO)",
+    "code": "TAC2332103",
+    "cod_internal": "COD. ZDSI02140",
     "category": "Accesorios",
     "page": 127,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ1ñññ0ñññmñññmñññ ñññ(ñññ8ñññ-ñññ1ñññ/ñññ4ñññ”ñññ)ñññ",
-      "ñññCñññañññnñññtñññiñññdñññañññdñññ ñññdñññeñññ ñññdñññiñññeñññnñññtñññeñññsñññ:ñññ ñññ4ñññ0ñññTñññ",
-      "ñññEñññjñññeñññ:ñññ ñññ2ñññ5ñññ.ñññ4ñññmñññmñññ",
-      "ñññAñññnñññiñññlñññlñññoñññ ñññrñññeñññdñññuñññcñññtñññoñññrñññ:ñññ ñññ1ñññ6ñññmñññmñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ ñññdñññeñññ ñññlñññañññ ñññmñññañññtñññrñññiñññzñññ:ñññ ñññ1ñññ.ñññ2ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ1ñññ0ñññmñññmñññ ñññ(ñññ8ñññ-ñññ1ñññ/ñññ4ñññ”ñññ)ñññ"
+      "Tamaño: 210mm (8-1/4”)",
+      "Cantidad de dientes: 40T",
+      "Eje: 25.4mm",
+      "Anillo reductor: 16mm",
+      "Grosor de la matriz: 1.2mm",
+      "Tamaño: 210mm (8-1/4”)",
+      "Cantidad de dientes: 60T",
+      "Eje: 25.4mm"
     ],
     "images": [
       "public/assets/total/p127_img1.jpeg",
@@ -2859,23 +2775,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p128_TOTAL-P128",
-    "title": "Herramienta TOTAL Pág. 128",
-    "code": "TOTAL-P128",
-    "cod_internal": "",
+    "id": "p128_THT519001",
+    "title": "SET DE 5 HOJAS PARA SIERRA CALADORA",
+    "code": "THT519001",
+    "cod_internal": "COD. ZDSI01430",
     "category": "Accesorios",
     "page": 128,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ3ñññ5ñññmñññmñññ ñññ(ñññ9ñññ-ñññ1ñññ/ñññ4ñññ”ñññ)ñññ",
-      "ñññCñññañññnñññtñññiñññdñññañññdñññ ñññdñññeñññ ñññdñññiñññeñññnñññtñññeñññsñññ:ñññ ñññ6ñññ0ñññTñññ",
-      "ñññEñññjñññeñññ:ñññ ñññ2ñññ2ñññ.ñññ2ñññmñññmñññ",
-      "ñññAñññnñññiñññlñññlñññoñññ ñññrñññeñññdñññuñññcñññtñññoñññrñññ:ñññ ñññ1ñññ6ñññmñññmñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ ñññdñññeñññ ñññlñññañññ ñññmñññañññtñññrñññiñññzñññ:ñññ ñññ2ñññ5ñññ.ñññ4ñññmñññmñññ"
+      "Tamaño: 235mm (9-1/4”)",
+      "Cantidad de dientes: 60T",
+      "Eje: 22.2mm",
+      "Anillo reductor: 16mm",
+      "Grosor de la matriz: 25.4mm",
+      "Tamaño: 254mm (10”)",
+      "Cantidad de dientes: 60T",
+      "Eje: 30mm"
     ],
     "images": [
       "public/assets/total/p128_img1.jpeg",
@@ -2890,22 +2806,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p129_TOTAL-P129",
-    "title": "Herramienta TOTAL Pág. 129",
-    "code": "TOTAL-P129",
-    "cod_internal": "",
+    "id": "p129_TL5508216",
+    "title": "SET 10 PUNTAS PH2 (50MM) PARA ATORNILLADOR DE IMPACTO",
+    "code": "TL5508216",
+    "cod_internal": "COD. ZDSI02100",
     "category": "Accesorios",
     "page": 129,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ8ñññ2ñññ ñññxñññ ñññ2ñññ9ñññ ñññxñññ ñññ3ñññ,ñññ0ñññ ñññmñññmñññ,ñññ ñññHñññSñññSñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ0ñññ",
-      "ñññLñññañññrñññgñññoñññ:ñññ ñññ5ñññ0ñññmñññmñññ",
-      "ñññLñññañññrñññgñññoñññ:ñññ ñññ5ñññ0ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ0ñññ"
+      "Tamaño: 82 x 29 x 3,0 mm, HSS",
+      "Largo: 50mm",
+      "Largo: 50mm"
     ],
     "images": [
       "public/assets/total/p129_img1.jpeg",
@@ -2915,20 +2827,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p130_TOTAL-P130",
-    "title": "Herramienta TOTAL Pág. 130",
-    "code": "TOTAL-P130",
-    "cod_internal": "",
+    "id": "p130_TACIM72PH265",
+    "title": "SET 2 PUNTAS DOBLES PH2 (65MM) PARA ATORNILLADOR DE IMPACTO",
+    "code": "TACIM72PH265",
+    "cod_internal": "COD. ZPDI26512",
     "category": "Accesorios",
     "page": 130,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p130_img1.jpeg",
       "public/assets/total/p130_img2.jpeg",
@@ -2938,20 +2845,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p131_TOTAL-P131",
-    "title": "Herramienta TOTAL Pág. 131",
-    "code": "TOTAL-P131",
-    "cod_internal": "",
+    "id": "p131_TAC1511141",
+    "title": "CINCEL PLANO 14X250X20MM SDS PLUS",
+    "code": "TAC1511141",
+    "cod_internal": "COD. ZCI0CP250",
     "category": "Accesorios",
     "page": 131,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p131_img1.jpeg",
       "public/assets/total/p131_img2.jpeg",
@@ -2960,20 +2862,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p132_TOTAL-P132",
-    "title": "Herramienta TOTAL Pág. 132",
-    "code": "TOTAL-P132",
-    "cod_internal": "",
+    "id": "p132_TACSH0132",
+    "title": "CEPILLO COPA DE BRONCE RIZADO 100MM PARA AMOLADORA",
+    "code": "TACSH0132",
+    "cod_internal": "COD. ZMC0S013M",
     "category": "Accesorios",
     "page": 132,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññMñññeñññdñññiñññdñññañññsñññ:ñññ ñññ2ñññ0ñññ ñññmñññmñññ,ñññ ñññ2ñññ2ñññ ñññmñññmñññ,ñññ ñññ2ñññ5ñññ ñññmñññmñññ,ñññ ñññ2ñññ9ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ"
+      "Medidas: 20 mm, 22 mm, 25 mm, 29"
     ],
     "images": [
       "public/assets/total/p132_img1.jpeg",
@@ -2983,21 +2881,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p133_TOTAL-P133",
-    "title": "Herramienta TOTAL Pág. 133",
-    "code": "TOTAL-P133",
-    "cod_internal": "",
+    "id": "p133_TAC32041",
+    "title": "CEPILLO COPA DE BRONCE RIZADO 25MM PARA TALADRO",
+    "code": "TAC32041",
+    "cod_internal": "COD. ZCC0A100A",
     "category": "Accesorios",
     "page": 133,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññAñññpñññlñññiñññcñññañññcñññiñññóñññnñññ:ñññ ñññcñññeñññpñññiñññlñññlñññañññdñññoñññ,ñññ ñññdñññeñññcñññañññpñññañññdñññoñññ/ñññdñññeñññcñññañññpñññañññdñññoñññ ñññ",
-      "ñññAñññpñññtñññoñññ ñññpñññañññrñññañññ:ñññ ñññañññcñññeñññrñññoñññ,ñññ ñññañññcñññeñññrñññoñññ ñññfñññuñññnñññdñññiñññdñññoñññ,ñññ ñññmñññañññdñññeñññrñññañññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ"
+      "Aplicación: cepillado, decapado/decapado",
+      "Apto para: acero, acero fundido, madera"
     ],
     "images": [
       "public/assets/total/p133_img1.jpeg",
@@ -3008,20 +2902,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p134_TOTAL-P134",
-    "title": "Herramienta TOTAL Pág. 134",
-    "code": "TOTAL-P134",
-    "cod_internal": "",
+    "id": "p134_TAC33031",
+    "title": "CEPILLO PLANO DE BRONCE RIZADO 75MM PARA TALADRO",
+    "code": "TAC33031",
+    "cod_internal": "COD. ZCC0T075B",
     "category": "Accesorios",
     "page": 134,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ6ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p134_img1.jpeg",
       "public/assets/total/p134_img2.jpeg",
@@ -3031,20 +2920,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p135_TOTAL-P135",
-    "title": "Herramienta TOTAL Pág. 135",
-    "code": "TOTAL-P135",
-    "cod_internal": "",
+    "id": "p135_TAC749141121",
+    "title": "SET DE 11 ACCESORIOS DE LIMPIEZA PARA TALADRO",
+    "code": "TAC749141121",
+    "cod_internal": "COD. ZLJ001450",
     "category": "Accesorios",
     "page": 135,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ6ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p135_img1.jpeg",
       "public/assets/total/p135_img2.jpeg",
@@ -3053,20 +2937,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p136_TOTAL-P136",
-    "title": "Herramienta TOTAL Pág. 136",
-    "code": "TOTAL-P136",
-    "cod_internal": "",
+    "id": "p136_TAC7312511",
+    "title": "LIJAS CIRCULARES AZULES 125MM (50 U)",
+    "code": "TAC7312511",
+    "cod_internal": "COD. ZLJ001251",
     "category": "Accesorios",
     "page": 136,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p136_img1.jpeg",
       "public/assets/total/p136_img2.jpeg",
@@ -3075,20 +2954,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p137_TOTAL-P137",
-    "title": "Herramienta TOTAL Pág. 137",
-    "code": "TOTAL-P137",
-    "cod_internal": "",
+    "id": "p137_THT3981",
+    "title": "LIJA CIRCULAR 125MM (50 U)",
+    "code": "THT3981",
+    "cod_internal": "COD. ZLJID9800",
     "category": "Accesorios",
     "page": 137,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p137_img1.jpeg",
       "public/assets/total/p137_img2.jpeg",
@@ -3097,19 +2971,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p138_TOTAL-P138",
-    "title": "Herramienta TOTAL Pág. 138",
-    "code": "TOTAL-P138",
-    "cod_internal": "",
+    "id": "p138_TAC918403",
+    "title": "GRAPAS PARA ATADORA ENGRAMPADORA 7X4X0.55MM",
+    "code": "TAC918403",
+    "cod_internal": "COD. ZGR04057O",
     "category": "Accesorios",
     "page": 138,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p138_img1.jpeg",
       "public/assets/total/p138_img2.jpeg",
@@ -3118,23 +2988,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p139_TOTAL-P139",
-    "title": "Herramienta TOTAL Pág. 139",
-    "code": "TOTAL-P139",
-    "cod_internal": "",
+    "id": "p139_TAC12018",
+    "title": "CARRETEL CON TANZA 5 MT X 1.6MM (PACK DE 4)",
+    "code": "TAC12018",
+    "cod_internal": "COD. ZCC01822O",
     "category": "Accesorios",
     "page": 139,
-    "voltage": "",
+    "voltage": "20V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ2ñññ7ñññ ñññmñññmñññ ñññ",
-      "ñññCñññañññnñññtñññiñññdñññañññdñññ ñññpñññoñññrñññ ñññcñññañññjñññañññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ ñññuñññnñññiñññdñññañññdñññeñññsñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ:ñññ ñññ2ñññ,ñññ9ñññ ñññmñññmñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññnñññ.ñññ°ñññ ñññ6ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ"
+      "Longitud: 27 mm",
+      "Cantidad por caja: 1000 unidades",
+      "Diámetro: 2,9 mm",
+      "Material: Acero n.° 60"
     ],
     "images": [
       "public/assets/total/p139_img1.jpeg",
@@ -3144,20 +3010,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p140_TOTAL-P140",
-    "title": "Herramienta TOTAL Pág. 140",
-    "code": "TOTAL-P140",
-    "cod_internal": "",
+    "id": "p140_TALS2001",
+    "title": "CADENA PARA MOTOSIERRA ESPADA",
+    "code": "TALS2001",
+    "cod_internal": "COD. ZLB0C01LB",
     "category": "Accesorios",
     "page": 140,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññLñññbñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ:ñññ ñññ2ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ5ñññ"
+      "Peso: 1Lb",
+      "Diámetro: 2mm"
     ],
     "images": [
       "public/assets/total/p140_img1.jpeg",
@@ -3166,23 +3029,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p141_TOTAL-P141",
-    "title": "Herramienta TOTAL Pág. 141",
-    "code": "TOTAL-P141",
-    "cod_internal": "",
+    "id": "p141_THRB8702",
+    "title": "CEPILLO ROTATORIO PARA HIDROLAVADORA",
+    "code": "THRB8702",
+    "cod_internal": "COD. ZHE0CE010",
     "category": "Accesorios",
     "page": 141,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññMñññeñññdñññiñññdñññañññ ñññcñññeñññpñññiñññlñññlñññoñññ:ñññ ñññ1ñññ1ñññ0ñññmñññmñññ",
-      "ñññLñññañññrñññgñññoñññ:ñññ ñññ3ñññ9ñññ0ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññPñññ ñññAñññBñññSñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññPñññañññrñññañññ ñññmñññoñññdñññeñññlñññoñññsñññ:ñññ ñññTñññGñññTñññ1ñññ1ñññ3ñññ1ñññ6ñññ,ñññ ñññTñññGñññTñññ1ñññ1ñññ3ñññ5ñññ6ñññ,ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ:ñññ ñññ4ñññ0ñññ0ñññmñññlñññ",
-      "ñññMñññeñññdñññiñññdñññañññsñññ:ñññ ñññ1ñññ2ñññ5ñññxñññ8ñññ5ñññxñññ1ñññ9ñññ6ñññmñññmñññ"
+      "Medida cepillo: 110mm",
+      "Largo: 390mm",
+      "Material: PP ABS",
+      "Para modelos: TGT11316, TGT11356,",
+      "Capacidad: 400ml",
+      "Medidas: 125x85x196mm",
+      "Para modelos: TGT11316, TGT11356,"
     ],
     "images": [
       "public/assets/total/p141_img1.jpeg",
@@ -3192,20 +3054,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p142_TOTAL-P142",
-    "title": "Herramienta TOTAL Pág. 142",
-    "code": "TOTAL-P142",
-    "cod_internal": "",
+    "id": "p142_TVCAIHP02",
+    "title": "BARRA SILICONA 11.2MM. (6 UNIDADES)",
+    "code": "TVCAIHP02",
+    "cod_internal": "COD. ZFA012300",
     "category": "Accesorios",
     "page": 142,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ2ñññ5ñññ ñññmñññ/ñññrñññoñññlñññlñññoñññ ñññ",
-      "ñññAñññnñññcñññhñññoñññ:ñññ ñññ1ñññ1ñññ ñññmñññmñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ"
+      "Longitud: 25 m/rollo",
+      "Ancho: 11 mm"
     ],
     "images": [
       "public/assets/total/p142_img1.jpeg",
@@ -3215,7 +3074,7 @@ window.TOTAL_PRODUCTS = [
   },
   {
     "id": "p143_TOTAL-P143",
-    "title": "Herramienta TOTAL Pág. 143",
+    "title": "NOTAS",
     "code": "TOTAL-P143",
     "cod_internal": "",
     "category": "Accesorios",
@@ -3240,20 +3099,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p145_TOTAL-P145",
-    "title": "Herramienta TOTAL Pág. 145",
-    "code": "TOTAL-P145",
-    "cod_internal": "",
+    "id": "p145_TSDPH0075",
+    "title": "DESTORNILLADOR PHILLIPS 5 MM X 100MM",
+    "code": "TSDPH0075",
+    "cod_internal": "COD. XDE030751",
     "category": "Manuales",
     "page": 145,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p145_img1.jpeg",
       "public/assets/total/p145_img2.jpeg",
@@ -3262,23 +3116,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p146_TOTAL-P146",
-    "title": "Herramienta TOTAL Pág. 146",
-    "code": "TOTAL-P146",
-    "cod_internal": "",
+    "id": "p146_TSDPH2150",
+    "title": "DESTORNILLADOR PHILLIPS DE GOLPE PH2 X 150MM",
+    "code": "TSDPH2150",
+    "cod_internal": "COD. XDEI61501",
     "category": "Manuales",
     "page": 146,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññSñññ2ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññSñññ2ñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññpñññuñññnñññtñññañññ:ñññ ñññPñññhñññiñññlñññlñññiñññpñññsñññ ñññPñññHñññ2ñññ ñññ(ñññmñññañññgñññnñññéñññtñññiñññcñññañññ)ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ"
+      "Material de la hoja: S2",
+      "Material de la hoja: S2",
+      "Tipo de punta: Phillips PH2 (magnética)",
+      "Longitud de la hoja: 150 mm",
+      "Vástago de la hoja: 6 mm"
     ],
     "images": [
       "public/assets/total/p146_img1.jpeg",
@@ -3288,23 +3139,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p147_TOTAL-P147",
-    "title": "Herramienta TOTAL Pág. 147",
-    "code": "TOTAL-P147",
-    "cod_internal": "",
+    "id": "p147_TSDSL6150",
+    "title": "DESTORNILLADOR PLANO SL6.5 X 150MM",
+    "code": "TSDSL6150",
+    "cod_internal": "COD. XDPI61500",
     "category": "Manuales",
     "page": 147,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññSñññ2ñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññpñññuñññnñññtñññañññ:ñññ ñññpñññlñññañññnñññañññ ñññSñññLñññ6ñññ.ñññ5ñññ ñññ(ñññmñññañññgñññnñññéñññtñññiñññcñññañññ)ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññpñññuñññnñññtñññañññ:ñññ ñññ6ñññ,ñññ5ñññ ñññmñññmñññ,ñññ ñññLñññoñññnñññgñññiñññtñññuñññdñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ3ñññ8ñññ ñññmñññmñññ,ñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ6ñññ,ñññ0ñññ ñññmñññmñññ"
+      "Material de la hoja: S2",
+      "Tipo de punta: plana SL6.5 (magnética)",
+      "Tamaño de la punta: 6,5 mm, Longitud de la hoja: 38 mm,",
+      "Diámetro de la hoja: 6,0 mm",
+      "Material del mango: ergonómico tricolor"
     ],
     "images": [
       "public/assets/total/p147_img1.jpeg",
@@ -3314,20 +3162,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p148_TOTAL-P148",
-    "title": "Herramienta TOTAL Pág. 148",
-    "code": "TOTAL-P148",
-    "cod_internal": "",
+    "id": "p148_THTISPZ2100",
+    "title": "SL4, SL5, SL6, SL7, PH0, PH1, PH2, PH3, PZ0, PZ1,",
+    "code": "THTISPZ2100",
+    "cod_internal": "COD. XDZIA2100",
     "category": "Manuales",
     "page": 148,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ4ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p148_img1.jpeg",
       "public/assets/total/p148_img2.jpeg",
@@ -3336,20 +3179,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p149_TOTAL-P149",
-    "title": "Herramienta TOTAL Pág. 149",
-    "code": "TOTAL-P149",
-    "cod_internal": "",
+    "id": "p149_TKSDS0226",
+    "title": "SL5, SL6, SL7, PH1, PH2, PH3, T10, T15, T20, T25",
+    "code": "TKSDS0226",
+    "cod_internal": "COD. XDKI00201",
     "category": "Manuales",
     "page": 149,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p149_img1.jpeg",
       "public/assets/total/p149_img2.jpeg",
@@ -3358,20 +3196,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p150_TOTAL-P150",
-    "title": "Herramienta TOTAL Pág. 150",
-    "code": "TOTAL-P150",
-    "cod_internal": "",
+    "id": "p150_THT250606",
+    "title": "SL3.0*3*75  / PH2*6*125 / SL5.5*5*100 •PH2*6*38 /",
+    "code": "THT250606",
+    "cod_internal": "COD. XDK000600",
     "category": "Manuales",
     "page": 150,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññPñññLñññ:ñññ ñññ3ñññxñññ7ñññ5ñññ ñññ ñññ/ñññ ñññ4ñññxñññ1ñññ0ñññ0ñññ ñññ/ñññ ñññ6ñññ.ñññ5ñññxñññ1ñññ5ñññ0ñññ"
+      "PL: 3x75  / 4x100 / 6.5x150"
     ],
     "images": [
       "public/assets/total/p150_img1.jpeg",
@@ -3385,20 +3219,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p151_TOTAL-P151",
-    "title": "Herramienta TOTAL Pág. 151",
-    "code": "TOTAL-P151",
-    "cod_internal": "",
+    "id": "p151_THT250618",
+    "title": "SL3.0*3*75 / SL4.0*4*100 / SL5.5*5*125 / SL6.5*6*150",
+    "code": "THT250618",
+    "cod_internal": "COD. XDKI01800",
     "category": "Manuales",
     "page": 151,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p151_img1.jpeg",
       "public/assets/total/p151_img2.jpeg",
@@ -3407,21 +3236,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p152_TOTAL-P152",
-    "title": "Herramienta TOTAL Pág. 152",
-    "code": "TOTAL-P152",
-    "cod_internal": "",
+    "id": "p152_TACSD30316",
+    "title": "PH0, PH1, T6, T7, T8, T9, T10, T15, T20, H1.5, H2.0,",
+    "code": "TACSD30316",
+    "cod_internal": "COD. XDK001810",
     "category": "Manuales",
     "page": 152,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññMñññañññnñññgñññoñññ ñññcñññrñññiñññqñññuñññeñññ,ñññ ñññ2ñññ1ñññ ñññpñññuñññnñññtñññañññsñññ ñññ6ñññ.ñññ3ñññ5ñññXñññ2ñññ5ñññmñññmñññ:ñññ ñññSñññLñññ4ñññ,ñññ ñññSñññLñññ5ñññ,ñññ ñññ",
-      "ñññpñññrñññeñññcñññiñññsñññiñññóñññnñññ:ñññ ñññSñññLñññ1ñññ.ñññ5ñññ,ñññ ñññSñññLñññ2ñññ,ñññ ñññSñññLñññ2ñññ.ñññ5ñññ,ñññ ñññSñññLñññ3ñññ,ñññ ñññPñññHñññ0ñññ0ñññ0ñññ,ñññ ñññPñññHñññ0ñññ0ñññ,ñññ ñññ",
-      "ñññHñññ2ñññ.ñññ5ñññ,ñññ ñññHñññ3ñññ.ñññ0ñññ,ñññ ñññHñññ4ñññ.ñññ0ñññ,ñññ ñññ9ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññ1ñññ/ñññ4ñññ”ñññXñññ2ñññ0ñññ.ñññ5ñññmñññmñññ:ñññ ñññ4ñññ,ñññ ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ"
+      "Mango crique, 21 puntas 6.35X25mm: SL4, SL5,",
+      "precisión: SL1.5, SL2, SL2.5, SL3, PH000, PH00,",
+      "H2.5, H3.0, H4.0, 9 bocallaves 1/4”X20.5mm: 4, 5, 6,"
     ],
     "images": [
       "public/assets/total/p152_img1.jpeg",
@@ -3430,23 +3256,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p153_TOTAL-P153",
-    "title": "Herramienta TOTAL Pág. 153",
-    "code": "TOTAL-P153",
-    "cod_internal": "",
+    "id": "p153_TACSD30376",
+    "title": "T4, T5, T6, T7, T8, T9, T10, T15, T20, H0.9, H1. 3,",
+    "code": "TACSD30376",
+    "cod_internal": "COD. XDKI00370",
     "category": "Manuales",
     "page": 153,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ",
-      "ñññ4ñññXñññ6ñññ0ñññmñññmñññ,ñññ ñññ3ñññ0ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññ4ñññXñññ2ñññ8ñññmñññmñññ:ñññ ñññSñññLñññ1ñññ.ñññ5ñññ,ñññ ñññSñññLñññ2ñññ,ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññBñññañññsñññeñññ:ñññ ñññ8ñññ1ñññ5ñññxñññ1ñññ9ñññ5ñññ ñññmñññmñññ",
-      "ñññDñññeñññsñññlñññiñññzñññañññdñññoñññrñññ:ñññ ñññ1ñññ6ñññ ñññmñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññBñññañññrñññrñññañññ:ñññ ñññ1ñññ9ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññRñññ-ñññVñññ"
+      "4X60mm, 30 puntas de 4X28mm: SL1.5, SL2,",
+      "Base: 815x195 mm",
+      "Deslizador: 16 mm",
+      "Diámetro de Barra: 19 mm",
+      "Material: CR-V"
     ],
     "images": [
       "public/assets/total/p153_img1.jpeg",
@@ -3455,23 +3278,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p154_TOTAL-P154",
-    "title": "Herramienta TOTAL Pág. 154",
-    "code": "TOTAL-P154",
-    "cod_internal": "",
+    "id": "p154_THT578001",
+    "title": "CORTA CERÁMICA 800MM (14MM)",
+    "code": "THT578001",
+    "cod_internal": "COD. XCEI08005",
     "category": "Manuales",
     "page": 154,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññEñññsñññpñññeñññsñññoñññrñññ ñññmñññáñññxñññiñññmñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ1ñññ6ñññ ñññmñññmñññ ñññ",
-      "ñññMñññañññnñññgñññoñññ:ñññ ñññdñññeñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ ñññfñññuñññnñññdñññiñññdñññoñññ ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ2ñññ2ñññ×ñññ6ñññ×ñññ2ñññ ñññmñññmñññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññlñññañññ ñññbñññañññrñññrñññañññ ñññdñññeñññsñññlñññiñññzñññañññnñññtñññeñññ:ñññ ñññ2ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññMñññañññxñññ.ñññ ñññEñññsñññpñññeñññsñññoñññrñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ1ñññ4ñññ ñññmñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ2ñññ2ñññxñññ6ñññxñññ2ñññmñññmñññ"
+      "Espesor máximo de corte: 16 mm",
+      "Mango: de aluminio fundido",
+      "Tamaño de la hoja: 22×6×2 mm",
+      "Diámetro de la barra deslizante: 20 mm",
+      "Max. Espesor de corte: 14 mm",
+      "Tamaño de la hoja: 22x6x2mm",
+      "Peso neto: 11 kg",
+      "Tamaño de la base de acero: 1000X200 mm"
     ],
     "images": [
       "public/assets/total/p154_img1.jpeg",
@@ -3479,18 +3302,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p155_TOTAL-P155",
-    "title": "Herramienta TOTAL Pág. 155",
-    "code": "TOTAL-P155",
-    "cod_internal": "",
+    "id": "p155_THKTHP90097",
+    "title": "ESTUCHE DE HERRAMIENTAS DE 9 PCS",
+    "code": "THKTHP90097",
+    "cod_internal": "COD. XCH000900",
     "category": "Manuales",
     "page": 155,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññ1ñññ ñññlñññáñññpñññiñññzñññ ñññdñññeñññ ñññpñññrñññuñññeñññbñññañññ ñññ(ñññvñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññpñññrñññuñññeñññbñññañññ:ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ"
+      "1 lápiz de prueba (voltaje de prueba:"
     ],
     "images": [
       "public/assets/total/p155_img1.jpeg",
@@ -3498,85 +3319,83 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p156_TOTAL-P156",
-    "title": "Herramienta TOTAL Pág. 156",
-    "code": "TOTAL-P156",
-    "cod_internal": "",
+    "id": "p156_THKITH1601",
+    "title": "CAJA DE HERRAMIENTAS AISLADAS DE 16 PCS",
+    "code": "THKITH1601",
+    "cod_internal": "COD. XCHIA1600",
     "category": "Manuales",
     "page": 156,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p156_img1.jpeg"
     ]
   },
   {
-    "id": "p157_TOTAL-P157",
-    "title": "Herramienta TOTAL Pág. 157",
-    "code": "TOTAL-P157",
-    "cod_internal": "",
+    "id": "p157_THTCS121081",
+    "title": "PH0, PH1, PH2, PH3, PZ0, PZ1, PZ2, PZ3, T10, T15,",
+    "code": "THTCS121081",
+    "cod_internal": "COD. XCHI10800",
     "category": "Manuales",
     "page": 157,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ1ñññ3ñññ ñññBñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ-ñññ4ñññ.ñññ5ñññ-ñññ5ñññ-ñññ5ñññ.ñññ5ñññ-ñññ6ñññ-ñññ7ñññ-ñññ8ñññ-ñññ9ñññ-ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ",
-      "ñññ1ñññ3ñññ-ñññ1ñññ4ñññ ñññmñññmñññ ñññ/ñññ ñññ1ñññ8ñññ ñññBñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ-ñññ1ñññ5ñññ-ñññ1ñññ6ñññ-ñññ",
-      "ñññ2ñññ ñññBñññañññrñññrñññañññsñññ ñññdñññeñññ ñññeñññxñññtñññeñññnñññsñññiñññóñññnñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññxñññ ñññ5ñññ0ñññ ñññmñññmñññ,ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññxñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ",
-      "ñññ1ñññ ñññMñññañññnñññgñññoñññ ñññgñññiñññrñññañññtñññoñññrñññiñññoñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññxñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ",
-      "ñññ1ñññ ñññPñññoñññrñññtñññañññpñññuñññnñññtñññañññsñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññxñññ ñññ6ñññ.ñññ3ñññ5ñññ ñññmñññmñññ",
-      "ñññ2ñññ0ñññ ñññPñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ:ñññ ñññSñññLñññ3ñññ,ñññ ñññSñññLñññ4ñññ,ñññ ñññSñññLñññ5ñññ,ñññ ñññSñññLñññ6ñññ,ñññ ñññ",
-      "ñññ2ñññ ñññBñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññpñññañññrñññañññ ñññbñññuñññjñññíñññañññsñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññxñññ ñññ1ñññ6ñññ ñññmñññmñññ,ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññxñññ ñññ2ñññ1ñññ ñññmñññmñññ",
-      "ñññ2ñññ ñññBñññañññrñññrñññañññsñññ ñññdñññeñññ ñññeñññxñññtñññeñññnñññsñññiñññóñññnñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññxñññ ñññ1ñññ2ñññ5ñññ ñññmñññmñññ,ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññxñññ ñññ2ñññ5ñññ0ñññ ñññmñññmñññ"
+      "13 Bocallaves de 1/4”: 4-4.5-5-5.5-6-7-8-9-10-11-12-",
+      "13-14 mm / 18 Bocallaves de 1/2”: 10-11-12-13-14-15-16-",
+      "2 Barras de extensión: 1/4” x 50 mm, 1/4” x 150 mm",
+      "1 Mango giratorio: 1/4” x 150 mm",
+      "1 Portapuntas: 1/4” x 6.35 mm",
+      "20 Puntas de destornillador: SL3, SL4, SL5, SL6,",
+      "2 Bocallaves para bujías: 1/2” x 16 mm, 1/2” x 21 mm",
+      "2 Barras de extensión: 1/2” x 125 mm, 1/2” x 250 mm"
     ],
     "images": [
       "public/assets/total/p157_img1.jpeg"
     ]
   },
   {
-    "id": "p158_TOTAL-P158",
-    "title": "Herramienta TOTAL Pág. 158",
-    "code": "TOTAL-P158",
-    "cod_internal": "",
+    "id": "p158_THPTCS71321",
+    "title": "CAJA DE HERRAMIENTAS DE 132 PCS",
+    "code": "THPTCS71321",
+    "cod_internal": "COD. XCHI13200",
     "category": "Manuales",
     "page": 158,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ1ñññ3ñññ ñññPñññcñññsñññ ñññBñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ,ñññ ñññ4ñññ.ñññ5ñññ,ñññ ñññ5ñññ,ñññ ñññ5ñññ.ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ,ñññ ñññ9ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ",
-      "ñññ2ñññ5ñññ ñññPñññuñññnñññtñññañññsñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññHñññeñññxñññ:ñññ ñññ3ñññ,ñññ ñññ4ñññ,ñññ ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññmñññmñññ ñññ/ñññ ñññTñññoñññrñññxñññ:ñññ ñññ",
-      "ñññTñññ8ñññ,ñññ ñññTñññ1ñññ0ñññ,ñññ ñññTñññ1ñññ5ñññ,ñññ ñññTñññ2ñññ0ñññ,ñññ ñññTñññ2ñññ5ñññ,ñññ ñññTñññ2ñññ7ñññ,ñññ ñññTñññ3ñññ0ñññ,ñññ ñññTñññ4ñññ0ñññ ñññ/ñññ ñññPñññlñññañññnñññoñññ:ñññ ñññ",
-      "ñññSñññLñññ4ñññ,ñññ ñññSñññLñññ5ñññ.ñññ5ñññ,ñññ ñññSñññLñññ6ñññ.ñññ5ñññ,ñññ ñññSñññLñññ8ñññ ñññ/ñññ ñññPñññhñññiñññlñññlñññiñññpñññsñññ:ñññ ñññPñññHñññ1ñññ,ñññ ñññPñññHñññ2ñññ,ñññ ñññPñññHñññ3ñññ ñññ/ñññ ñññ",
-      "ñññPñññoñññzñññiñññdñññrñññiñññvñññ:ñññ ñññPñññZñññ1ñññ,ñññ ñññPñññZñññ2ñññ,ñññ ñññPñññZñññ3ñññ",
-      "ñññ3ñññ ñññTñññuñññbñññoñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññmñññmñññ",
-      "ñññ2ñññ ñññEñññxñññtñññeñññnñññsñññiñññoñññnñññeñññsñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññ5ñññ0ñññ ñññyñññ ñññ1ñññ0ñññ0ñññmñññmñññ",
-      "ñññ1ñññ8ñññ ñññBñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ6ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ8ñññ,ñññ ñññ1ñññ9ñññ,ñññ ñññ"
+      "13 Pcs Bocallaves 1/4”: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11,",
+      "25 Puntas 1/4”: Hex: 3, 4, 5, 6, 7, 8, 10mm / Torx:",
+      "T8, T10, T15, T20, T25, T27, T30, T40 / Plano:",
+      "SL4, SL5.5, SL6.5, SL8 / Phillips: PH1, PH2, PH3 /",
+      "Pozidriv: PZ1, PZ2, PZ3",
+      "3 Tubo bocallave 1/4”: 8, 10, 12mm",
+      "2 Extensiones: 1/4” 50 y 100mm",
+      "18 Bocallaves 1/2”: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,"
     ],
     "images": [
       "public/assets/total/p158_img1.jpeg"
     ]
   },
   {
-    "id": "p159_TOTAL-P159",
-    "title": "Herramienta TOTAL Pág. 159",
-    "code": "TOTAL-P159",
-    "cod_internal": "",
+    "id": "p159_THKTHP21376",
+    "title": "SL6, PH0, PH1, PH2, PH3, PZ0, PZ1, PZ2, PZ3, T10,",
+    "code": "THKTHP21376",
+    "cod_internal": "COD. XCHI13700",
     "category": "Manuales",
     "page": 159,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ1ñññ3ñññ ñññyñññ ñññ1ñññ4ñññ)ñññ,ñññ ñññ1ñññ8ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññDñññRñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ",
-      "ñññ2ñññ4ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññxñññ ñññ3ñññ2ñññ ñññ(ñññLñññ)ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ:ñññ ñññ3ñññ-ñññ4ñññ-ñññ5ñññ-ñññ6ñññ-ñññ7ñññ-ñññ8ñññ-ñññ1ñññ0ñññ ñññ",
-      "ñññmñññmñññ ñññEñññsñññtñññrñññeñññlñññlñññañññ:ñññ ñññTñññ8ñññ-ñññTñññ1ñññ0ñññ-ñññTñññ1ñññ5ñññ-ñññTñññ2ñññ0ñññ-ñññTñññ2ñññ5ñññ-ñññTñññ2ñññ7ñññ-ñññTñññ3ñññ0ñññ-ñññTñññ4ñññ0ñññ ñññSñññLñññ:ñññ ñññ",
-      "ñññ6ñññ ñññTñññuñññbñññoñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññDñññRñññ ñññ5ñññ0ñññ ñññmñññmñññ ñññ(ñññLñññ)ñññ:ñññ ñññ4ñññ,ñññ ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ ñññyñññ ñññ",
-      "ñññ9ñññ ñññmñññmñññ,ñññ ñññ6ñññ ñññTñññuñññbñññoñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññDñññRñññ ñññ7ñññ7ñññ ñññmñññmñññ ñññ(ñññLñññ)ñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ",
-      "ñññ1ñññ ñññbñññañññrñññrñññañññ ñññdñññeñññ ñññeñññxñññtñññeñññnñññsñññiñññóñññnñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññDñññRñññ ñññxñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ",
-      "ñññ1ñññ ñññbñññañññrñññrñññañññ ñññdñññeñññ ñññeñññxñññtñññeñññnñññsñññiñññóñññnñññ:ñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññDñññrñññ.ñññ ñññxñññ ñññ2ñññ5ñññ0ñññ ñññmñññmñññ",
-      "ñññ1ñññ ñññmñññañññnñññgñññoñññ ñññgñññiñññrñññañññtñññoñññrñññiñññoñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ ñññxñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ"
+      "13 y 14), 18 bocallaves de 1/2” DR: 10, 11, 12, 13, 14, 15,",
+      "24 puntas de 1/4” x 32 (L) bocallaves: 3-4-5-6-7-8-10",
+      "mm Estrella: T8-T10-T15-T20-T25-T27-T30-T40 SL:",
+      "6 Tubo bocallave de 1/4” DR 50 mm (L): 4, 5, 6, 7, 8 y",
+      "9 mm, 6 Tubo bocallave de 1/2” DR 77 mm (L): 10, 12,",
+      "1 barra de extensión: 1/4” DR x 150 mm",
+      "1 barra de extensión: 1/2” Dr. x 250 mm",
+      "1 mango giratorio: 1/4” x 150 mm"
     ],
     "images": [
       "public/assets/total/p159_img1.jpeg",
@@ -3584,62 +3403,60 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p160_TOTAL-P160",
-    "title": "Herramienta TOTAL Pág. 160",
-    "code": "TOTAL-P160",
-    "cod_internal": "",
+    "id": "p160_THKTHP21396",
+    "title": "PH1, PH2, PH3, H6, H7, H8, H10, H12, SL5.5, SL6.5, T20,",
+    "code": "THKTHP21396",
+    "cod_internal": "COD. XCHI13900",
     "category": "Manuales",
     "page": 160,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ3ñññ ñññlñññlñññañññvñññeñññsñññ ñññcñññrñññiñññqñññuñññeñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ,ñññ ñññ3ñññ/ñññ8ñññ”ñññ ñññyñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññ8ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ,ñññ ñññ9ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ ñññyñññ ñññ1ñññ3ñññ ñññmñññmñññ",
-      "ñññ9ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ6ñññ,ñññ ñññ1ñññ7ñññ ñññyñññ ñññ1ñññ8ñññ ñññmñññmñññ",
-      "ñññ1ñññ3ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ6ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ8ñññ,ñññ ñññ1ñññ9ñññ,ñññ ñññ2ñññ0ñññ,ñññ ñññ2ñññ1ñññ,ñññ ñññ2ñññ2ñññ,ñññ ñññ",
-      "ñññ4ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ9ñññ,ñññ ñññ2ñññ1ñññ ñññyñññ ñññ2ñññ2ñññ ñññmñññmñññ",
-      "ñññ6ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññEñññ8ñññ,ñññ ñññEñññ1ñññ0ñññ,ñññ ñññEñññ1ñññ1ñññ,ñññ ñññEñññ1ñññ2ñññ,ñññ ñññEñññ1ñññ4ñññ ñññyñññ ñññ",
-      "ñññ6ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññpñññrñññoñññfñññuñññnñññdñññoñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ ñññ",
-      "ñññyñññ ñññ1ñññ3ñññ ñññmñññmñññ,ñññ ñññ6ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññpñññrñññoñññfñññuñññnñññdñññoñññsñññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññ8ñññ,ñññ ñññ"
+      "3 llaves crique: 1/4”, 3/8” y 1/2”",
+      "8 bocallaves de 1/4”: 6, 7, 8, 9, 10, 11, 12 y 13 mm",
+      "9 bocallaves de 3/8”: 10, 11, 12, 13, 14, 15, 16, 17 y 18 mm",
+      "13 bocallaves de 1/2”: 14, 15, 16, 17, 18, 19, 20, 21, 22,",
+      "4 vasos de impacto de 1/2”: 17, 19, 21 y 22 mm",
+      "6 vasos de estrella de 3/8”: E8, E10, E11, E12, E14 y",
+      "6 vasos hexagonales profundos de 1/4”: 6, 7, 8, 10, 12",
+      "y 13 mm, 6 vasos hexagonales profundos de 3/8”: 8,"
     ],
     "images": [
       "public/assets/total/p160_img1.jpeg"
     ]
   },
   {
-    "id": "p161_TOTAL-P161",
-    "title": "Herramienta TOTAL Pág. 161",
-    "code": "TOTAL-P161",
-    "cod_internal": "",
+    "id": "p161_THKTHP21426",
+    "title": "CAJA DE HERRAMIENTAS DE 142 PCS",
+    "code": "THKTHP21426",
+    "cod_internal": "COD. XCHI14200",
     "category": "Manuales",
     "page": 161,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p161_img1.jpeg"
     ]
   },
   {
-    "id": "p162_TOTAL-P162",
-    "title": "Herramienta TOTAL Pág. 162",
-    "code": "TOTAL-P162",
-    "cod_internal": "",
+    "id": "p162_THKTHP21476",
+    "title": "SL6 / PH0 / PH1 / PH2 / PH3 / PZ0 / PZ1",
+    "code": "THKTHP21476",
+    "cod_internal": "COD. XCHI14700",
     "category": "Manuales",
     "page": 162,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññbñññiñññcñññoñññlñññoñññrñññ)ñññ:ñññ ñññSñññLñññ8ñññ*ñññ1ñññ5ñññ0ñññ ñññ/ñññ ñññSñññLñññ6ñññ*ñññ1ñññ2ñññ5ñññ ñññ/ñññ ñññSñññLñññ5ñññ*ñññ1ñññ0ñññ0ñññ ñññ/ñññ ñññ",
-      "ñññ3ñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññeñññsñññ ñññPñññhñññiñññlñññlñññiñññpñññsñññ ñññSñññ2ñññ ñññ(ñññmñññañññnñññgñññoñññ ñññbñññiñññcñññoñññlñññoñññrñññ)ñññ:ñññ ñññ",
-      "ñññ1ñññ ñññjñññuñññeñññgñññoñññ ñññdñññeñññ ñññ9ñññ ñññlñññlñññañññvñññeñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññ(ñññtñññañññmñññañññññññoñññsñññ:ñññ ñññ1ñññ,ñññ5ñññ ñññ/ñññ ñññ2ñññ ñññ",
-      "ñññ9ñññ ñññlñññlñññañññvñññeñññsñññ ñññcñññoñññmñññbñññiñññnñññañññdñññañññsñññ:ñññ ñññ6ñññ ñññ/ñññ ñññ8ñññ ñññ/ñññ ñññ1ñññ0ñññ ñññ/ñññ ñññ1ñññ2ñññ ñññ/ñññ ñññ1ñññ4ñññ ñññ/ñññ ñññ1ñññ5ñññ ñññ/ñññ ñññ1ñññ7ñññ ñññ/ñññ ñññ",
-      "ñññ2ñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññeñññsñññ ñññañññiñññsñññlñññañññdñññoñññsñññ:ñññ ñññSñññLñññ5ñññ ñññxñññ ñññ1ñññ2ñññ5ñññ ñññ/ñññ ñññPñññHñññ2ñññ ñññxñññ ñññ",
-      "ñññ2ñññ ñññbñññañññrñññrñññañññsñññ ñññdñññeñññ ñññeñññxñññtñññeñññnñññsñññiñññóñññnñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ ñññ(ñññ5ñññ”ñññ)ñññ ñññyñññ ñññ2ñññ5ñññ0ñññ ñññ",
-      "ñññ2ñññ ñññbñññañññrñññrñññañññsñññ ñññdñññeñññ ñññeñññxñññtñññeñññnñññsñññiñññóñññnñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ5ñññ0ñññ ñññmñññmñññ ñññ(ñññ2ñññ”ñññ)ñññ ñññyñññ ñññ1ñññ0ñññ0ñññ ñññ",
-      "ñññ1ñññ8ñññ ñññdñññañññdñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ"
+      "bicolor): SL8*150 / SL6*125 / SL5*100 /",
+      "3 destornilladores Phillips S2 (mango bicolor):",
+      "1 juego de 9 llaves hexagonales (tamaños: 1,5 / 2",
+      "9 llaves combinadas: 6 / 8 / 10 / 12 / 14 / 15 / 17 /",
+      "2 destornilladores aislados: SL5 x 125 / PH2 x",
+      "2 barras de extensión de 1/2”: 150 mm (5”) y 250",
+      "2 barras de extensión de 1/4”: 50 mm (2”) y 100",
+      "18 dados hexagonales de 1/2”: 10, 11, 12, 13, 14, 15,"
     ],
     "images": [
       "public/assets/total/p162_img1.jpeg",
@@ -3647,109 +3464,105 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p163_TOTAL-P163",
-    "title": "Herramienta TOTAL Pág. 163",
-    "code": "TOTAL-P163",
-    "cod_internal": "",
+    "id": "p163_THKTHP21566",
+    "title": "PH0, PH1, PH2, PH3, PZ0, PZ1, PZ2, PZ3, T10, T15, T20,",
+    "code": "THKTHP21566",
+    "cod_internal": "COD. XCHI15600",
     "category": "Manuales",
     "page": 163,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ3ñññ ñññlñññlñññañññvñññeñññsñññ ñññcñññrñññiñññqñññuñññeñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ,ñññ ñññ3ñññ/ñññ8ñññ”ñññ ñññyñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññ1ñññ2ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ,ñññ ñññ4ñññ,ñññ5ñññ,ñññ ñññ5ñññ,ñññ ñññ5ñññ,ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ,ñññ ñññ9ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ ñññ",
-      "ñññyñññ ñññ1ñññ3ñññ ñññmñññmñññ,ñññ ñññ1ñññ2ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññ8ñññ,ñññ ñññ9ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ",
-      "ñññ1ñññ5ñññ,ñññ ñññ1ñññ6ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ8ñññ ñññyñññ ñññ1ñññ9ñññ ñññmñññmñññ,ñññ ñññ1ñññ0ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ8ñññ,ñññ ñññ1ñññ9ñññ,ñññ ñññ",
-      "ñññ4ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññiñññmñññpñññañññcñññtñññoñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ9ñññ,ñññ ñññ2ñññ1ñññ ñññyñññ ñññ2ñññ2ñññ ñññmñññmñññ",
-      "ñññ8ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññEñññ8ñññ,ñññ ñññEñññ1ñññ0ñññ,ñññ ñññEñññ1ñññ1ñññ,ñññ ñññEñññ1ñññ2ñññ,ñññ ñññEñññ1ñññ4ñññ,ñññ ñññ",
-      "ñññ9ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññpñññrñññoñññfñññuñññnñññdñññoñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ,ñññ ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ",
-      "ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññ8ñññ,ñññ ñññ9ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ9ñññ ñññmñññmñññ,ñññ ñññ9ñññ ñññvñññañññsñññoñññsñññ ñññ"
+      "3 llaves crique: 1/4”, 3/8” y 1/2”",
+      "12 bocallaves de 1/4”: 4, 4,5, 5, 5,5, 6, 7, 8, 9, 10, 11, 12",
+      "y 13 mm, 12 bocallaves de 3/8”: 8, 9, 10, 11, 12, 13, 14,",
+      "15, 16, 17, 18 y 19 mm, 10 bocallaves de 1/2”: 17, 18, 19,",
+      "4 vasos de impacto de 1/2”: 17, 19, 21 y 22 mm",
+      "8 vasos de estrella de 3/8”: E8, E10, E11, E12, E14,",
+      "9 vasos hexagonales profundos de 1/4”: 4, 5, 6, 7,",
+      "de 3/8”: 8, 9, 10, 11, 12, 13, 14, 15, 17, 19 mm, 9 vasos"
     ],
     "images": [
       "public/assets/total/p163_img1.jpeg"
     ]
   },
   {
-    "id": "p164_TOTAL-P164",
-    "title": "Herramienta TOTAL Pág. 164",
-    "code": "TOTAL-P164",
-    "cod_internal": "",
+    "id": "p164_THKTHP21686-4",
+    "title": "SL4-SL5-SL5.5-SL6-SL6.5-SL7-SL7-H2-H3-",
+    "code": "THKTHP21686-4",
+    "cod_internal": "COD. XCHI168M0",
     "category": "Manuales",
     "page": 164,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ2ñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññeñññsñññ ñññcñññoñññrñññtñññoñññsñññ:ñññ ñññPñññHñññ2ñññ*ñññ3ñññ8ñññ ñññSñññLñññ6ñññ.ñññ5ñññ*ñññ3ñññ8ñññ",
-      "ñññ1ñññ ñññbñññuñññsñññcñññañññpñññoñññlñññoñññ ñññ(ñññvñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññpñññrñññuñññeñññbñññañññ:ñññ ñññ1ñññ0ñññ0ñññ-ñññ5ñññ0ñññ0ñññVñññ ñññ",
-      "ñññ8ñññ ñññlñññlñññañññvñññeñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññ:ñññ ñññ1ñññ.ñññ5ñññ/ñññ2ñññ/ñññ2ñññ.ñññ5ñññ/ñññ3ñññ/ñññ4ñññ/ñññ5ñññ/ñññ5ñññ.ñññ5ñññ/ñññ6ñññmñññmñññ",
-      "ñññ4ñññ0ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ:ñññ ñññTñññ5ñññ-ñññTñññ6ñññ-ñññTñññ7ñññ-ñññTñññ8ñññ-ñññTñññ9ñññ-ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
+      "2 destornilladores cortos: PH2*38 SL6.5*38",
+      "1 buscapolo (voltaje de prueba: 100-500V",
+      "8 llaves hexagonal: 1.5/2/2.5/3/4/5/5.5/6mm",
+      "40 puntas de destornillador: T5-T6-T7-T8-T9-"
     ],
     "images": [
       "public/assets/total/p164_img1.jpeg"
     ]
   },
   {
-    "id": "p165_TOTAL-P165",
-    "title": "Herramienta TOTAL Pág. 165",
-    "code": "TOTAL-P165",
-    "cod_internal": "",
+    "id": "p165_THTS082016",
+    "title": "T8-T9-T10-T15-T20-T25-T27-T30-T8H-T9H-T10H-T15H-",
+    "code": "THTS082016",
+    "cod_internal": "COD. XCHI20100",
     "category": "Manuales",
     "page": 165,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ3ñññ ñññmñññañññnñññgñññoñññsñññ ñññdñññeñññ ñññtñññrñññiñññnñññqñññuñññeñññtñññeñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ,ñññ ñññ3ñññ/ñññ8ñññ”ñññ ñññyñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññ1ñññ3ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ-ñññ4ñññ,ñññ5ñññ-ñññ5ñññ-ñññ5ñññ,ñññ5ñññ-ñññ6ñññ-ñññ7ñññ-ñññ8ñññ-ñññ9ñññ-ñññ",
-      "ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ ñññmñññmñññ,ñññ ñññ1ñññ0ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññ1ñññ0ñññ-ñññ",
-      "ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ-ñññ1ñññ5ñññ-ñññ1ñññ6ñññ-ñññ1ñññ7ñññ-ñññ1ñññ8ñññ-ñññ1ñññ9ñññ-ñññ2ñññ0ñññ-ñññ2ñññ1ñññ-ñññ2ñññ2ñññ-ñññ2ñññ3ñññ-ñññ2ñññ4ñññ-ñññ",
-      "ñññ5ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññEñññ4ñññ-ñññEñññ5ñññ-ñññEñññ6ñññ-ñññEñññ7ñññ-ñññEñññ8ñññ,ñññ ñññ6ñññ ñññ",
-      "ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ ñññVñññañññsñññoñññ:ñññ ñññEñññ1ñññ0ñññ-ñññEñññ1ñññ1ñññ-ñññEñññ1ñññ2ñññ-ñññEñññ1ñññ4ñññ-ñññ",
-      "ñññEñññ1ñññ6ñññ-ñññEñññ1ñññ8ñññ,ñññ ñññ5ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññEñññ1ñññ6ñññ-ñññEñññ1ñññ8ñññ-ñññEñññ2ñññ0ñññ-ñññ",
-      "ñññ7ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññpñññrñññoñññfñññuñññnñññdñññoñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ-ñññ5ñññ-ñññ6ñññ-ñññ7ñññ-ñññ8ñññ-ñññ9ñññ-ñññ"
+      "3 mangos de trinquete: 1/4”, 3/8” y 1/2”",
+      "13 vasos hexagonales de 1/4”: 4-4,5-5-5,5-6-7-8-9-",
+      "10-11-12-13-14 mm, 10 vasos hexagonales de 3/8”: 10-",
+      "de 1/2”: 10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-",
+      "5 vasos de estrella de 1/4”: E4-E5-E6-E7-E8, 6",
+      "vasos de estrella de 3/8” Vaso: E10-E11-E12-E14-",
+      "E16-E18, 5 vasos de estrella de 1/2”: E16-E18-E20-",
+      "7 vasos hexagonales profundos de 1/4”: 4-5-6-7-8-9-"
     ],
     "images": [
       "public/assets/total/p165_img1.jpeg"
     ]
   },
   {
-    "id": "p166_TOTAL-P166",
-    "title": "Herramienta TOTAL Pág. 166",
-    "code": "TOTAL-P166",
-    "cod_internal": "",
+    "id": "p166_THKTHP22166",
+    "title": "SL6.5-SL8-T8-T9-T10-T15-T20-T25-T27-T30-T8H-",
+    "code": "THKTHP22166",
+    "cod_internal": "COD. XCHI21600",
     "category": "Manuales",
     "page": 166,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññ3ñññ ñññlñññlñññañññvñññeñññsñññ ñññcñññrñññiñññqñññuñññeñññ:ñññ ñññ1ñññ/ñññ4ñññ”ñññ,ñññ ñññ3ñññ/ñññ8ñññ”ñññ ñññyñññ ñññ1ñññ/ñññ2ñññ”ñññ",
-      "ñññ1ñññ3ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ-ñññ4ñññ,ñññ5ñññ-ñññ5ñññ-ñññ5ñññ,ñññ5ñññ-ñññ6ñññ-ñññ7ñññ-ñññ8ñññ-ñññ9ñññ-ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ",
-      "ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ ñññmñññmñññ,ñññ ñññ1ñññ0ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ-ñññ",
-      "ñññ1ñññ5ñññ-ñññ1ñññ6ñññ-ñññ1ñññ7ñññ-ñññ1ñññ8ñññ-ñññ1ñññ9ñññ ñññmñññmñññ,ñññ ñññ1ñññ4ñññ ñññbñññpñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ",
-      "ñññ5ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññEñññ4ñññ-ñññEñññ5ñññ-ñññEñññ6ñññ-ñññEñññ7ñññ-ñññEñññ8ñññ,ñññ",
-      "ñññ6ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññeñññsñññtñññrñññeñññlñññlñññañññ ñññdñññeñññ ñññ3ñññ/ñññ8ñññ”ñññ:ñññ ñññEñññ1ñññ0ñññ-ñññEñññ1ñññ1ñññ-ñññEñññ1ñññ2ñññ-ñññEñññ1ñññ4ñññ-ñññ",
-      "ñññvñññañññsñññoñññ:ñññ ñññEñññ2ñññ0ñññ-ñññEñññ2ñññ2ñññ-ñññEñññ2ñññ4ñññ",
-      "ñññ7ñññ ñññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññvñññañññsñññoñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññpñññrñññoñññfñññuñññnñññdñññañññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ"
+      "3 llaves crique: 1/4”, 3/8” y 1/2”",
+      "13 bocallaves de 1/4”: 4-4,5-5-5,5-6-7-8-9-10-11-",
+      "12-13-14 mm, 10 bocallaves de 3/8”: 10-11-12-13-14-",
+      "15-16-17-18-19 mm, 14 bpcallaves de 1/2”: 10-11-12-",
+      "5 vasos de estrella de 1/4”: E4-E5-E6-E7-E8,",
+      "6 vasos de estrella de 3/8”: E10-E11-E12-E14-",
+      "vaso: E20-E22-E24",
+      "7 llaves de vaso hexagonales profundas de 1/4”:"
     ],
     "images": [
       "public/assets/total/p166_img1.jpeg"
     ]
   },
   {
-    "id": "p167_TOTAL-P167",
-    "title": "Herramienta TOTAL Pág. 167",
-    "code": "TOTAL-P167",
-    "cod_internal": "",
+    "id": "p167_TPBX1121",
+    "title": "CAJA METALICA PARA HERRAMIENTAS 3 PISOS",
+    "code": "TPBX1121",
+    "cod_internal": "COD. XCP00012M",
     "category": "Manuales",
     "page": 167,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññPñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññPñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ"
+      "Material: PP",
+      "Material: PP"
     ],
     "images": [
       "public/assets/total/p167_img1.jpeg",
@@ -3758,19 +3571,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p168_TOTAL-P168",
-    "title": "Herramienta TOTAL Pág. 168",
-    "code": "TOTAL-P168",
+    "id": "p168_TPBX0141",
+    "title": "CAJA PLASTICA PARA HERRAMIENTAS 14”",
+    "code": "TPBX0141",
     "cod_internal": "",
     "category": "Manuales",
     "page": 168,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ7ñññ4ñññ0ñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ4ñññ3ñññ0ñññgñññ"
+      "Peso: 740g",
+      "Peso: 1430g"
     ],
     "images": [
       "public/assets/total/p168_img1.jpeg",
@@ -3779,22 +3590,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p169_TOTAL-P169",
-    "title": "Herramienta TOTAL Pág. 169",
-    "code": "TOTAL-P169",
-    "cod_internal": "",
+    "id": "p169_TPBX0201",
+    "title": "CAJA PLASTICA PARA HERRAMIENTAS APILABLE 16”",
+    "code": "TPBX0201",
+    "cod_internal": "COD. XCP0A1600",
     "category": "Manuales",
     "page": 169,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ2ñññ1ñññ9ñññ0ñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ4ñññ1ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ6ñññ”ñññ)ñññ ñññxñññ ñññ3ñññ2ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ2ñññ,ñññ5ñññ”ñññ)ñññ ñññxñññ ñññ1ñññ4ñññ8ñññ ñññmñññmñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññlñññáñññsñññtñññiñññcñññoñññ ñññPñññPñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ2ñññ9ñññ0ñññ ñññgñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ5ñññ ñññkñññgñññ"
+      "Peso: 2190g",
+      "Tamaño: 410 mm (16”) x 320 mm (12,5”) x 148 mm",
+      "Material: Plástico PP",
+      "Peso: 1290 g",
+      "Carga máxima: 15 kg"
     ],
     "images": [
       "public/assets/total/p169_img1.jpeg",
@@ -3803,23 +3612,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p170_TOTAL-P170",
-    "title": "Herramienta TOTAL Pág. 170",
-    "code": "TOTAL-P170",
-    "cod_internal": "",
+    "id": "p170_TPBXS102",
+    "title": "CAJA PLASTICA PARA HERRAMIENTAS APILABLE 19” PROFUNDA",
+    "code": "TPBXS102",
+    "cod_internal": "COD. XCP0A1900",
     "category": "Manuales",
     "page": 170,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ4ñññ8ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ9ñññ”ñññ)ñññ ñññxñññ ñññ3ñññ2ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ2ñññ,ñññ5ñññ”ñññ)ñññ ñññxñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññlñññáñññsñññtñññiñññcñññoñññ ñññPñññPñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ3ñññ9ñññ0ñññ ñññgñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ5ñññ ñññkñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ:ñññ ñññ4ñññ8ñññ0ñññ ñññmñññmñññ ñññ(ñññ4ñññ8ñññ ñññcñññmñññ)ñññ ñññxñññ ñññ3ñññ2ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ2ñññ,ñññ5ñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññlñññáñññsñññtñññiñññcñññoñññ ñññPñññPñññ"
+      "Tamaño: 480 mm (19”) x 320 mm (12,5”) x",
+      "Material: Plástico PP",
+      "Peso: 1390 g",
+      "Carga máxima: 15 kg",
+      "Dimensiones: 480 mm (48 cm) x 320 mm (12,5",
+      "Material: Plástico PP",
+      "Peso: 2200 g",
+      "Carga máxima: 25 kg"
     ],
     "images": [
       "public/assets/total/p170_img1.jpeg",
@@ -3829,23 +3638,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p171_TOTAL-P171",
-    "title": "Herramienta TOTAL Pág. 171",
-    "code": "TOTAL-P171",
-    "cod_internal": "",
+    "id": "p171_THT16P10125",
+    "title": "SET DE 3 CAJAS PLASTICAS PARA HERRAMIENTAS (14”, 17”, Y 20”)",
+    "code": "THT16P10125",
+    "cod_internal": "COD. XPH020320",
     "category": "Manuales",
     "page": 171,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ1ñññ3ñññ”ñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ1ñññ2ñññkñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ5ñññ ñññcñññmñññ ñññxñññ ñññ3ñññ2ñññ ñññcñññmñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ0ñññ ñññkñññgñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññpñññoñññlñññiñññéñññsñññtñññeñññrñññ ñññ1ñññ6ñññ8ñññ0ñññDñññ"
+      "Tamaño:13”",
+      "Carga máxima:12kg",
+      "Tamaño: 35 cm x 32 cm",
+      "Carga máxima: 10 kg",
+      "Material: poliéster 1680D"
     ],
     "images": [
       "public/assets/total/p171_img1.jpeg",
@@ -3854,23 +3660,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p172_TOTAL-P172",
-    "title": "Herramienta TOTAL Pág. 172",
-    "code": "TOTAL-P172",
-    "cod_internal": "",
+    "id": "p172_THT261625",
+    "title": "BOLSO DE TELA PARA HERRAMIENTAS 16” REFORZARDO",
+    "code": "THT261625",
+    "cod_internal": "COD. XBT000160",
     "category": "Manuales",
     "page": 172,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ1ñññ6ñññ’ñññ’ñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ5ñññ_ñññkñññgñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ4ñññ8ñññ ñññcñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññpñññoñññlñññiñññéñññsñññtñññeñññrñññ ñññ1ñññ6ñññ8ñññ0ñññDñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ8ñññ ñññkñññgñññ"
+      "Tamaño:16’’",
+      "Carga máxima: 15_kg",
+      "Tamaño: 48 cm",
+      "Material: poliéster 1680D",
+      "Carga máxima: 18 kg",
+      "Largo x Ancho x Alto: 48 x 21 x 29 cm",
+      "Tamaño: 40,6 cm",
+      "Material: poliéster 1680D"
     ],
     "images": [
       "public/assets/total/p172_img1.jpeg",
@@ -3880,23 +3686,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p173_TOTAL-P173",
-    "title": "Herramienta TOTAL Pág. 173",
-    "code": "TOTAL-P173",
-    "cod_internal": "",
+    "id": "p173_THT561625",
+    "title": "BOLSO DE TELA PARA HERRAMIENTAS 16” MANGO DE ACERO",
+    "code": "THT561625",
+    "cod_internal": "COD. XBTIBO160",
     "category": "Manuales",
     "page": 173,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ4ñññ0ñññ,ñññ6ñññ ñññcñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññpñññoñññlñññiñññéñññsñññtñññeñññrñññ ñññ1ñññ6ñññ8ñññ0ñññDñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ1ñññ5ñññ ñññkñññgñññ",
-      "ñññLñññañññrñññgñññoñññ ñññxñññ ñññAñññnñññcñññhñññoñññ ñññxñññ ñññAñññlñññtñññoñññ:ñññ ñññ4ñññ1ñññ ñññxñññ ñññ2ñññ3ñññ ñññxñññ ñññ2ñññ2ñññ ñññcñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ5ñññ0ñññ ñññcñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññoñññlñññiñññéñññsñññtñññeñññrñññ ñññ6ñññ0ñññ0ñññDñññ ñññyñññ ñññ1ñññ6ñññ8ñññ0ñññDñññ ñññcñññoñññnñññ ñññlñññañññtñññeñññrñññañññlñññeñññsñññ ñññ"
+      "Tamaño: 40,6 cm",
+      "Material: poliéster 1680D",
+      "Carga máxima: 15 kg",
+      "Largo x Ancho x Alto: 41 x 23 x 22 cm",
+      "Tamaño: 50 cm",
+      "Material: Poliéster 600D y 1680D con laterales",
+      "Carga máxima: 20 kg",
+      "Largo x Ancho x Alto: 45 x 28 x 36 cm"
     ],
     "images": [
       "public/assets/total/p173_img1.jpeg",
@@ -3905,23 +3711,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p174_TOTAL-P174",
-    "title": "Herramienta TOTAL Pág. 174",
-    "code": "TOTAL-P174",
-    "cod_internal": "",
+    "id": "p174_THBP02025",
+    "title": "MOCHILA PARA HERRAMIENTAS 38X17X46CM",
+    "code": "THBP02025",
+    "cod_internal": "COD. XMHI00300",
     "category": "Manuales",
     "page": 174,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ8ñññcñññmñññxñññ1ñññ7ñññcñññmñññHñññ4ñññ6ñññcñññmñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ8ñññkñññgñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññpñññoñññlñññiñññéñññsñññtñññeñññrñññ ñññoñññxñññfñññoñññrñññdñññ ñññ1ñññ6ñññ8ñññ0ñññDñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññMñññeñññdñññiñññdñññañññ:ñññ ñññ2ñññ4ñññxñññ1ñññ8ñññxñññ3ñññ0ñññ0ñññmñññmñññ"
+      "Tamaño: 38cmx17cmH46cm",
+      "Carga máxima: 8kg",
+      "Material: poliéster oxford 1680D",
+      "Medida: 24x18x300mm",
+      "Medida: 4x18x300mm",
+      "Apertura: 3,5mm"
     ],
     "images": [
       "public/assets/total/p174_img1.jpeg",
@@ -3931,9 +3735,9 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p175_TOTAL-P175",
-    "title": "Herramienta TOTAL Pág. 175",
-    "code": "TOTAL-P175",
+    "id": "p175_THT113126",
+    "title": "LARGO TOTAL",
+    "code": "THT113126",
     "cod_internal": "",
     "category": "Manuales",
     "page": 175,
@@ -3946,20 +3750,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p176_TOTAL-P176",
-    "title": "Herramienta TOTAL Pág. 176",
-    "code": "TOTAL-P176",
-    "cod_internal": "",
+    "id": "p176_THT53321",
+    "title": "CORTA TUBOS 3-32MM",
+    "code": "THT53321",
+    "cod_internal": "COD. XTAIT3320",
     "category": "Manuales",
     "page": 176,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ",
-      "ñññDñññiñññáñññmñññ.ñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ3ñññ ñññ-ñññ ñññ3ñññ2ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ"
+      "Diám. de corte: 3 - 32 mm"
     ],
     "images": [
       "public/assets/total/p176_img1.jpeg",
@@ -3969,23 +3769,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p177_TOTAL-P177",
-    "title": "Herramienta TOTAL Pág. 177",
-    "code": "TOTAL-P177",
-    "cod_internal": "",
+    "id": "p177_THT51882",
+    "title": "NAVAJA PELA CABLES 200MM",
+    "code": "THT51882",
+    "cod_internal": "COD. XCP000200",
     "category": "Manuales",
     "page": 177,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ0ñññ0ñññ ñññmñññmñññ",
-      "ñññHñññoñññjñññañññ ñññcñññuñññrñññvñññañññ,ñññ ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññiñññnñññoñññxñññiñññdñññañññbñññlñññeñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ9ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ1ñññ8ñññmñññmñññxñññ1ñññ0ñññ0ñññmñññmñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ1ñññ7ñññ9ñññmñññmñññ"
+      "Tamaño: 200 mm",
+      "Hoja curva, Material: Acero inoxidable",
+      "Tamaño de la hoja: 18mmx100mm",
+      "Longitud: 179mm"
     ],
     "images": [
       "public/assets/total/p177_img1.jpeg",
@@ -3995,16 +3791,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p178_TOTAL-P178",
-    "title": "Herramienta TOTAL Pág. 178",
-    "code": "TOTAL-P178",
+    "id": "p178_THT190703",
+    "title": "ALICATE CORTA CABLES",
+    "code": "THT190703",
     "cod_internal": "",
     "category": "Manuales",
     "page": 178,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññDñññuñññrñññeñññzñññañññ:ñññ ñññ4ñññ5ñññ-ñññ6ñññ0ñññ ñññHñññRñññCñññ"
+      "Dureza: 45-60 HRC"
     ],
     "images": [
       "public/assets/total/p178_img1.jpeg",
@@ -4013,23 +3809,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p179_TOTAL-P179",
-    "title": "Herramienta TOTAL Pág. 179",
-    "code": "TOTAL-P179",
-    "cod_internal": "",
+    "id": "p179_THT115102",
+    "title": "ALICATE DE CORTE FRONTAL HEAVY 215MM",
+    "code": "THT115102",
+    "cod_internal": "COD. XPCIH0250",
     "category": "Manuales",
     "page": 179,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ5ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ0ñññ”ñññ)ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ6ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ6ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ8ñññ.ñññ5ñññ”ñññ/ñññ2ñññ1ñññ5ñññ ñññmñññmñññ"
+      "Tamaño: 250 mm (10”)",
+      "Tamaño: 160 mm",
+      "Tamaño: 160 mm",
+      "Tamaño: 8.5”/215 mm",
+      "Material: Cr-V",
+      "Tratamiento superficial: revestimiento de teflón"
     ],
     "images": [
       "public/assets/total/p179_img1.jpeg",
@@ -4039,23 +3833,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p180_TOTAL-P180",
-    "title": "Herramienta TOTAL Pág. 180",
-    "code": "TOTAL-P180",
+    "id": "p180_THT130606P",
+    "title": "PINZA ALICATE PUNTA CURVA",
+    "code": "THT130606P",
     "cod_internal": "",
     "category": "Manuales",
     "page": 180,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññañññlñññ ñññcñññañññrñññbñññoñññnñññoñññ ñññnñññ.ñññ°ñññ ñññ5ñññ5ñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññlñññañññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññeñññ:ñññ ñññPñññuñññlñññiñññdñññoñññ ñññyñññ ñññañññcñññeñññiñññtñññeñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññañññlñññ:ñññ ñññañññcñññañññbñññañññdñññoñññ ñññnñññeñññgñññrñññoñññ ñññyñññ ñññpñññuñññlñññiñññdñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ"
+      "Material: Acero al carbono n.° 55",
+      "Tratamiento de la superficie: Pulido y aceite",
+      "Material: Cr-V",
+      "Tratamiento superficial: acabado negro y pulido",
+      "Material: Cr-V",
+      "Tratamiento superficial: acabado negro y pulido"
     ],
     "images": [
       "public/assets/total/p180_img1.jpeg",
@@ -4064,23 +3856,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p181_TOTAL-P181",
-    "title": "Herramienta TOTAL Pág. 181",
-    "code": "TOTAL-P181",
-    "cod_internal": "",
+    "id": "p181_THT27716S",
+    "title": "PINZA ALICATE MULTIFUNCION 200MM 6 EN 1",
+    "code": "THT27716S",
+    "cod_internal": "COD. XPAIH1810",
     "category": "Manuales",
     "page": 181,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ8ñññ0ñññ ñññmñññmñññ/ñññ7ñññ”ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññlñññañññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññeñññ:ñññ ñññAñññcñññañññbñññañññdñññoñññ ñññnñññeñññgñññrñññoñññ ñññyñññ ñññpñññuñññlñññiñññdñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ0ñññ0ñññ ñññmñññmñññ/ñññ8ñññ”ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññañññlñññ:ñññ ñññrñññeñññvñññeñññsñññtñññiñññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññtñññeñññfñññlñññóñññnñññ"
+      "Tamaño: 180 mm/7”",
+      "Material: Cr-V",
+      "Tratamiento de la superficie: Acabado negro y pulido",
+      "Tamaño: 200 mm/8”",
+      "Material: Cr-V",
+      "Tratamiento superficial: revestimiento de teflón",
+      "Tamaño: 200 mm",
+      "Material: Cr-V"
     ],
     "images": [
       "public/assets/total/p181_img1.jpeg",
@@ -4089,20 +3881,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p182_TOTAL-P182",
-    "title": "Herramienta TOTAL Pág. 182",
-    "code": "TOTAL-P182",
-    "cod_internal": "",
+    "id": "p182_THT110606P",
+    "title": "PINZA MULTIFUNCIÓN 200MM 8 EN 1",
+    "code": "THT110606P",
+    "cod_internal": "COD. XPIIM0200",
     "category": "Manuales",
     "page": 182,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññañññlñññ ñññcñññañññrñññbñññoñññnñññoñññ ñññnñññ.ñññ°ñññ ñññ5ñññ5ñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññañññlñññ:ñññ ñññPñññuñññlñññiñññdñññoñññ ñññyñññ ñññañññcñññeñññiñññtñññeñññ ñññañññnñññtñññiñññoñññxñññiñññdñññañññnñññtñññeñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ"
+      "Material: Acero al carbono n.° 55",
+      "Tratamiento superficial: Pulido y aceite antioxidante"
     ],
     "images": [
       "public/assets/total/p182_img1.jpeg",
@@ -4111,23 +3900,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p183_TOTAL-P183",
-    "title": "Herramienta TOTAL Pág. 183",
-    "code": "TOTAL-P183",
-    "cod_internal": "",
+    "id": "p183_THT120606P",
+    "title": "PINZA UNIVERSAL HEAVY",
+    "code": "THT120606P",
+    "cod_internal": "COD. XPP001600",
     "category": "Manuales",
     "page": 183,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ6ñññ0ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññañññlñññ ñññcñññañññrñññbñññoñññnñññoñññ ñññnñññ.ñññ°ñññ ñññ5ñññ5ñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññlñññañññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññeñññ:ñññ ñññPñññuñññlñññiñññdñññoñññ ñññyñññ ñññañññcñññeñññiñññtñññeñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññlñññañññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññeñññ:ñññ ñññañññcñññañññbñññañññdñññoñññ ñññnñññeñññgñññrñññoñññ ñññyñññ ñññpñññuñññlñññiñññdñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ"
+      "Tamaño: 160 mm",
+      "Material: Acero al carbono n.° 55",
+      "Tratamiento de la superficie: Pulido y aceite",
+      "Material: Cr-V",
+      "Tratamiento de la superficie: acabado negro y pulido",
+      "Material: Cr-V",
+      "Tratamiento superficial: revestimiento de teflón"
     ],
     "images": [
       "public/assets/total/p183_img1.jpeg",
@@ -4136,23 +3924,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p184_TOTAL-P184",
-    "title": "Herramienta TOTAL Pág. 184",
-    "code": "TOTAL-P184",
-    "cod_internal": "",
+    "id": "p184_THTMF286",
+    "title": "PINZA DE PUNTA MULTIFUNCIÓN 200MM 6 EN 1",
+    "code": "THTMF286",
+    "cod_internal": "COD. XPPIM0200",
     "category": "Manuales",
     "page": 184,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ0ñññ0ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññlñññañññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññeñññ:ñññ ñññAñññcñññañññbñññañññdñññoñññ ñññnñññeñññgñññrñññoñññ ñññyñññ ñññpñññuñññlñññiñññdñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññcñññrñññiñññmñññpñññañññdñññoñññ:ñññ ñññ0ñññ,ñññ2ñññ5ñññ-ñññ1ñññ0ñññ ñññmñññmñññ,ñññ ñññAñññWñññGñññ:ñññ ñññ2ñññ3ñññ-ñññ7ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ6ñññ”ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ"
+      "Tamaño: 200 mm",
+      "Material: Cr-V",
+      "Tratamiento de la superficie: Acabado negro y pulido",
+      "Rango de crimpado: 0,25-10 mm, AWG: 23-7",
+      "Longitud: 6”",
+      "Tamaño: 8.5”/215 mm",
+      "Material: Cr-V",
+      "Tratamiento superficial: revestimiento de teflón"
     ],
     "images": [
       "public/assets/total/p184_img1.jpeg",
@@ -4162,23 +3950,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p185_TOTAL-P185",
-    "title": "Herramienta TOTAL Pág. 185",
-    "code": "TOTAL-P185",
-    "cod_internal": "",
+    "id": "p185_THT15606",
+    "title": "PINZA MULTIFUNCIÓN 15 FUNCIONES",
+    "code": "THT15606",
+    "cod_internal": "COD. XPBI01750",
     "category": "Manuales",
     "page": 185,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññMñññeñññdñññiñññdñññañññ ñññdñññeñññ ñññpñññeñññlñññañññdñññoñññ:ñññ ñññ0ñññ,ñññ5ñññ-ñññ6ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññtñññoñññtñññañññlñññ:ñññ ñññ1ñññ5ñññ5ñññ ñññmñññmñññ,ñññ ñññtñññañññmñññañññññññoñññ ñññcñññeñññrñññrñññañññdñññoñññ:ñññ ñññ1ñññ0ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññoñññnñññ ñññ1ñññ5ñññ ñññfñññuñññnñññcñññiñññoñññnñññeñññsñññ:ñññ ñññAñññlñññiñññcñññañññtñññeñññsñññ ñññdñññeñññ ñññpñññuñññnñññtñññañññ ñññpñññlñññañññnñññañññ,ñññ ñññAñññlñññiñññcñññañññtñññeñññsñññ ñññeñññsñññtñññáñññnñññdñññañññrñññ,ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññpñññeñññlñññañññdñññoñññ ñññdñññeñññ ñññcñññañññbñññlñññeñññsñññ:ñññ ñññ1ñññ0ñññ ñññAñññWñññGñññ ñññ-ñññ ñññ2ñññ4ñññ ñññAñññWñññGñññ ñññ(ñññ0ñññ,ñññ2ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ"
+      "Medida de pelado: 0,5-6mm",
+      "Tamaño total: 155 mm, tamaño cerrado: 100 mm",
+      "Con 15 funciones: Alicates de punta plana, Alicates estándar,",
+      "Rango de pelado de cables: 10 AWG - 24 AWG (0,2"
     ],
     "images": [
       "public/assets/total/p185_img1.jpeg",
@@ -4188,20 +3972,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p186_TOTAL-P186",
-    "title": "Herramienta TOTAL Pág. 186",
-    "code": "TOTAL-P186",
-    "cod_internal": "",
+    "id": "p186_THT1K0301",
+    "title": "KIT DE 3 PINZAS (8” Y 6”)",
+    "code": "THT1K0301",
+    "cod_internal": "COD. XPK000310",
     "category": "Manuales",
     "page": 186,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññañññlñññ ñññcñññañññrñññbñññoñññnñññoñññ ñññnñññ.ñññ°ñññ ñññ5ñññ5ñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññañññlñññ:ñññ ñññPñññuñññlñññiñññdñññoñññ ñññyñññ ñññañññcñññeñññiñññtñññeñññ ñññañññnñññtñññiñññoñññxñññiñññdñññañññnñññtñññeñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ"
+      "Material: Acero al carbono n.° 55",
+      "Tratamiento superficial: Pulido y aceite antioxidante"
     ],
     "images": [
       "public/assets/total/p186_img1.jpeg",
@@ -4210,20 +3991,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p187_TOTAL-P187",
-    "title": "Herramienta TOTAL Pág. 187",
-    "code": "TOTAL-P187",
-    "cod_internal": "",
+    "id": "p187_THT2CK241S",
+    "title": "KIT DE 3 PINZAS ALTA TENSIÓN",
+    "code": "THT2CK241S",
+    "cod_internal": "COD. XPKIAC400",
     "category": "Manuales",
     "page": 187,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ",
-      "ñññTñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññsñññuñññpñññeñññrñññfñññiñññcñññiñññañññlñññ:ñññ ñññrñññeñññcñññuñññbñññrñññiñññmñññiñññeñññnñññtñññoñññ ñññdñññeñññ ñññtñññeñññfñññlñññóñññnñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
+      "Material: Cr-V",
+      "Tratamiento superficial: recubrimiento de teflón"
     ],
     "images": [
       "public/assets/total/p187_img1.jpeg",
@@ -4232,19 +4010,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p188_TOTAL-P188",
-    "title": "Herramienta TOTAL Pág. 188",
-    "code": "TOTAL-P188",
-    "cod_internal": "",
+    "id": "p188_TOS23055",
+    "title": "KIT DE 5 PINZAS DE FUERZA",
+    "code": "TOS23055",
+    "cod_internal": "COD. XPKI00700",
     "category": "Manuales",
     "page": 188,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p188_img1.jpeg",
       "public/assets/total/p188_img2.jpeg",
@@ -4252,9 +4026,9 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p189_TOTAL-P189",
-    "title": "Herramienta TOTAL Pág. 189",
-    "code": "TOTAL-P189",
+    "id": "p189_THT101063",
+    "title": "LLAVE AJUSTABLE",
+    "code": "THT101063",
     "cod_internal": "",
     "category": "Manuales",
     "page": 189,
@@ -4267,9 +4041,9 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p190_TOTAL-P190",
-    "title": "Herramienta TOTAL Pág. 190",
-    "code": "TOTAL-P190",
+    "id": "p190_THT170806",
+    "title": "LLAVE INGLESA",
+    "code": "THT170806",
     "cod_internal": "",
     "category": "Manuales",
     "page": 190,
@@ -4282,21 +4056,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p191_TOTAL-P191",
-    "title": "Herramienta TOTAL Pág. 191",
-    "code": "TOTAL-P191",
-    "cod_internal": "",
+    "id": "p191_THT1061826",
+    "title": "JUEGO DE LLAVES PUNTA REDONDA",
+    "code": "THT1061826",
+    "cod_internal": "COD. XLKIH0800",
     "category": "Manuales",
     "page": 191,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ9ñññ6ñññ",
-      "ñññ ñññRñññañññnñññgñññoñññ:ñññ ñññ2ñññ ñññañññ ñññ8ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ9ñññ6ñññ",
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññ2ñññ ñññañññ ñññ8ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ9ñññ6ñññ",
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññTñññ9ñññ ñññañññ ñññTñññ4ñññ0ñññ"
+      "Rango: 2 a 8mm",
+      "Rango: 2 a 8mm",
+      "Rango: T9 a T40"
     ],
     "images": [
       "public/assets/total/p191_img1.jpeg",
@@ -4305,19 +4076,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p192_TOTAL-P192",
-    "title": "Herramienta TOTAL Pág. 192",
-    "code": "TOTAL-P192",
-    "cod_internal": "",
+    "id": "p192_THTFX12151",
+    "title": "SET LLAVES HEXAGONALES Y TORX X 18 U",
+    "code": "THTFX12151",
+    "cod_internal": "COD. XTQIA1200",
     "category": "Manuales",
     "page": 192,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññMñññeñññdñññiñññdñññañññ:ñññ ñññ1ñññ5ñññ”ñññ ñññ(ñññ3ñññ7ñññ5ñññmñññmñññ)ñññ",
-      "ñññ ñññRñññañññnñññgñññoñññ:ñññ ñññ1ñññ,ñññ5ñññ ñññañññ ñññ1ñññ0ñññmñññmñññ ñññ-ñññ ñññTñññ1ñññ0ñññ ñññañññ ñññTñññ5ñññ0ñññ"
+      "Medida: 15” (375mm)",
+      "Rango: 1,5 a 10mm - T10 a T50"
     ],
     "images": [
       "public/assets/total/p192_img1.jpeg",
@@ -4326,22 +4095,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p193_TOTAL-P193",
-    "title": "Herramienta TOTAL Pág. 193",
-    "code": "TOTAL-P193",
-    "cod_internal": "",
+    "id": "p193_THT106191",
+    "title": "SET LLAVES HEXAGONALES T 8 PCS",
+    "code": "THT106191",
+    "cod_internal": "COD. XLKIHT800",
     "category": "Manuales",
     "page": 193,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññ1ñññ,ñññ5ñññ ñññañññ ñññ1ñññ0ñññmñññmñññ",
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññTñññ1ñññ0ñññ ñññañññ ñññTñññ5ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññSñññ2ñññ,ñññ ñññtñññrñññañññtñññañññmñññiñññeñññnñññtñññoñññ ñññtñññéñññrñññmñññiñññcñññoñññ ñññyñññ ñññcñññrñññoñññmñññañññdñññoñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ2ñññ ñññxñññ ñññ1ñññ0ñññ0ñññ,ñññ ñññ2ñññ,ñññ5ñññ ñññxñññ ñññ1ñññ0ñññ0ñññ,ñññ ñññ3ñññ ñññxñññ ñññ1ñññ0ñññ0ñññ,ñññ ñññ4ñññ ñññxñññ ñññ1ñññ5ñññ0ñññ,ñññ ñññ5ñññ ñññxñññ ñññ1ñññ5ñññ0ñññ,ñññ ñññ6ñññ ñññ"
+      "Rango: 1,5 a 10mm",
+      "Rango: T10 a T50",
+      "Material: S2, tratamiento térmico y cromado",
+      "Tamaños: 2 x 100, 2,5 x 100, 3 x 100, 4 x 150, 5 x 150, 6"
     ],
     "images": [
       "public/assets/total/p193_img1.jpeg",
@@ -4350,23 +4116,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p194_TOTAL-P194",
-    "title": "Herramienta TOTAL Pág. 194",
-    "code": "TOTAL-P194",
-    "cod_internal": "",
+    "id": "p194_THTK1013",
+    "title": "SET DE LLAVES AJUSTABLES 3PCS",
+    "code": "THTK1013",
+    "cod_internal": "COD. XLA0S0030",
     "category": "Manuales",
     "page": 194,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ1ñññ5ñññ0ñññmñññmñññ ñññ(ñññ6ñññ’ñññ’ñññ)ñññ/ñññ2ñññ0ñññ0ñññmñññmñññ(ñññ8ñññ’ñññ’ñññ)ñññ/ñññ2ñññ5ñññ0ñññmñññmñññ(ñññ1ñññ0ñññ’ñññ’ñññ)ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññañññjñññuñññsñññtñññañññbñññlñññeñññ ñññdñññeñññ ñññlñññañññ ñññañññbñññrñññañññzñññañññdñññeñññrñññañññ:ñññ ñññ6ñññ’ñññ’ñññ0ñññ-ñññ1ñññ9ñññmñññmñññ ñññ/ñññ ñññ8ñññ’ñññ’ñññ ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññañññlñññ ñññcñññañññrñññbñññoñññnñññoñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ7ñññ ñññmñññmñññ",
-      "ñññAñññcñññañññbñññañññdñññoñññ:ñññ ñññPñññuñññlñññiñññdñññoñññ ñññfñññiñññnñññoñññ"
+      "Longitud: 150mm (6’’)/200mm(8’’)/250mm(10’’)",
+      "Tamaño ajustable de la abrazadera: 6’’0-19mm / 8’’",
+      "Material: Acero al carbono",
+      "Tamaño: 8, 10, 12, 13, 14, 17 mm",
+      "Acabado: Pulido fino"
     ],
     "images": [
       "public/assets/total/p194_img1.jpeg",
@@ -4376,23 +4139,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p195_TOTAL-P195",
-    "title": "Herramienta TOTAL Pág. 195",
-    "code": "TOTAL-P195",
-    "cod_internal": "",
+    "id": "p195_THT1022121",
+    "title": "SET LLAVES ACODADAS DOBLE BOCA 8 PCS",
+    "code": "THT1022121",
+    "cod_internal": "COD. XLBISD080",
     "category": "Manuales",
     "page": 195,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ6ñññ ñññxñññ ñññ7ñññ ñññmñññmñññ,ñññ ñññ8ñññ ñññxñññ ñññ9ñññ ñññmñññmñññ,ñññ ñññ1ñññ0ñññ ñññxñññ ñññ1ñññ1ñññ ñññmñññmñññ,ñññ ñññ1ñññ2ñññ ñññxñññ ñññ1ñññ3ñññ ñññmñññmñññ,ñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ6ñññxñññ7ñññmñññmñññ,ñññ ñññ8ñññxñññ9ñññmñññmñññ,ñññ ñññ1ñññ0ñññxñññ1ñññ1ñññmñññmñññ,ñññ ñññ1ñññ2ñññxñññ1ñññ3ñññmñññmñññ,ñññ ñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ7ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññ-ñññVñññ"
+      "Tamaños: 6 x 7 mm, 8 x 9 mm, 10 x 11 mm, 12 x 13 mm,",
+      "Tamaños: 6x7mm, 8x9mm, 10x11mm, 12x13mm,",
+      "Tamaños: 8, 10, 12, 13, 14, 17 mm",
+      "Material: Cr-V"
     ],
     "images": [
       "public/assets/total/p195_img1.jpeg",
@@ -4404,20 +4163,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p196_TOTAL-P196",
-    "title": "Herramienta TOTAL Pág. 196",
-    "code": "TOTAL-P196",
-    "cod_internal": "",
+    "id": "p196_THT102RK086",
+    "title": "SET LLAVES COMBINADAS RATCHET ARTICULADAS 8 PCS",
+    "code": "THT102RK086",
+    "cod_internal": "COD. XLBISC080",
     "category": "Manuales",
     "page": 196,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ9ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññsñññ:ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ,ñññ ñññ1ñññ4ñññ,ñññ ñññ1ñññ5ñññ,ñññ ñññ1ñññ7ñññ,ñññ ñññ1ñññ9ñññ ñññmñññmñññ",
-      "ñññMñññeñññdñññiñññdñññañññsñññ:ñññ ñññ5ñññmñññmñññ,ñññ ñññ6ñññmñññmñññ,ñññ ñññ7ñññmñññmñññ,ñññ ñññ8ñññmñññmñññ,ñññ ñññ9ñññmñññmñññ,ñññ ñññ1ñññ0ñññmñññmñññ,ñññ ñññ"
+      "Tamaños: 8, 10, 12, 13, 14, 15, 17, 19 mm",
+      "Tamaños: 8, 10, 12, 13, 14, 15, 17, 19 mm",
+      "Medidas: 5mm, 6mm, 7mm, 8mm, 9mm, 10mm,"
     ],
     "images": [
       "public/assets/total/p196_img1.jpeg",
@@ -4427,20 +4184,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p197_TOTAL-P197",
-    "title": "Herramienta TOTAL Pág. 197",
-    "code": "TOTAL-P197",
-    "cod_internal": "",
+    "id": "p197_THT141201",
+    "title": "SET LLAVE Y BOCALLAVES 20 PCS 1/4”",
+    "code": "THT141201",
+    "cod_internal": "COD. XTKI01420",
     "category": "Manuales",
     "page": 197,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññCñññrñññ-ñññVñññ ñññdñññeñññ ñññañññlñññtñññañññ ñññcñññañññlñññiñññdñññañññdñññ ñññ5ñññ0ñññBñññVñññ3ñññ0ñññ",
-      "ñññ1ñññ3ñññ ñññvñññañññsñññoñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ4ñññ,ñññ ñññ4ñññ,ñññ5ñññ,ñññ ñññ5ñññ,ñññ ñññ5ñññ,ñññ5ñññ,ñññ ñññ6ñññ,ñññ ñññ7ñññ,ñññ ñññ8ñññ,ñññ ñññ9ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ1ñññ,ñññ ñññ1ñññ2ñññ,ñññ ñññ1ñññ3ñññ ñññyñññ ñññ1ñññ4ñññ ñññmñññmñññ",
-      "ñññ4ñññ ñññvñññañññsñññoñññsñññ ñññhñññeñññxñññañññgñññoñññnñññañññlñññeñññsñññ ñññpñññrñññoñññfñññuñññnñññdñññoñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññ8ñññ,ñññ ñññ1ñññ0ñññ,ñññ ñññ1ñññ2ñññ ñññyñññ ñññ1ñññ3ñññ ñññmñññmñññ"
+      "Material: Acero Cr-V de alta calidad 50BV30",
+      "13 vasos de 1/4”: 4, 4,5, 5, 5,5, 6, 7, 8, 9, 10, 11, 12, 13 y 14 mm",
+      "4 vasos hexagonales profundos de 1/4”: 8, 10, 12 y 13 mm"
     ],
     "images": [
       "public/assets/total/p197_img1.jpeg",
@@ -4449,41 +4204,37 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p198_TOTAL-P198",
-    "title": "Herramienta TOTAL Pág. 198",
-    "code": "TOTAL-P198",
-    "cod_internal": "",
+    "id": "p198_THT121251",
+    "title": "SET DE LLAVES TUBO DE 44 PCS 1/4” - 1/2”",
+    "code": "THT121251",
+    "cod_internal": "COD. XCHI02500",
     "category": "Manuales",
     "page": 198,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p198_img1.jpeg",
       "public/assets/total/p198_img2.jpeg"
     ]
   },
   {
-    "id": "p199_TOTAL-P199",
-    "title": "Herramienta TOTAL Pág. 199",
-    "code": "TOTAL-P199",
-    "cod_internal": "",
+    "id": "p199_THT141462",
+    "title": "H1.5-H2-H3-H4-H5-H6-T10-T15-T20-T25-T30",
+    "code": "THT141462",
+    "cod_internal": "COD. XCHI04510",
     "category": "Manuales",
     "page": 199,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññ1ñññ7ñññ ñññbñññoñññcñññañññlñññlñññañññvñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññDñññrñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ-ñññ1ñññ5ñññ-ñññ1ñññ6ñññ-ñññ1ñññ7ñññ-ñññ1ñññ8ñññ-ñññ1ñññ9ñññ-ñññ2ñññ0ñññ-ñññ",
-      "ñññDñññrñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ1ñññ-ñññ1ñññ2ñññ-ñññ1ñññ3ñññ-ñññ1ñññ4ñññ-ñññ1ñññ5ñññ-ñññ1ñññ6ñññ-ñññ1ñññ7ñññ-ñññ1ñññ8ñññ-ñññ1ñññ9ñññ ñññmñññmñññ,ñññ ñññ1ñññ ñññjñññuñññnñññtñññañññ ñññuñññnñññiñññvñññeñññrñññsñññañññlñññ ñññdñññeñññ ñññ",
-      "ñññ1ñññ/ñññ2ñññ”ñññ ñññDñññrñññ,ñññ ñññ2ñññ ñññeñññxñññtñññeñññnñññsñññiñññoñññnñññeñññsñññ ñññdñññeñññ ñññ1ñññ/ñññ2ñññ”ñññ ñññDñññrñññ:ñññ ñññ5ñññ”ñññ ñññ(ñññ1ñññ2ñññ5ñññ ñññmñññmñññ)ñññ ñññyñññ ñññ1ñññ0ñññ”ñññ ñññ(ñññ2ñññ5ñññ0ñññ ñññ",
-      "ñññmñññmñññ)ñññ,ñññ ñññ2ñññ ñññvñññañññsñññoñññsñññ ñññpñññañññrñññañññ ñññbñññuñññjñññíñññañññsñññ:ñññ ñññ1ñññ6ñññ ñññmñññmñññ ñññyñññ ñññ2ñññ1ñññ ñññmñññmñññ,ñññ ñññ1ñññ ñññañññdñññañññpñññtñññañññdñññoñññrñññ ñññ",
-      "ñññ1ñññ/ñññ2ñññ”ñññ:ñññ ñññSñññLñññ4ñññ/ñññ5ñññ.ñññ5ñññ/ñññ6ñññ.ñññ5ñññ;ñññ ñññPñññHñññ1ñññ/ñññ2ñññ/ñññ3ñññ,ñññ ñññ2ñññ0ñññ ñññpñññuñññnñññtñññañññsñññ ñññdñññeñññ ñññdñññeñññsñññtñññoñññrñññnñññiñññlñññlñññañññdñññoñññrñññ ñññ",
-      "ñññdñññeñññ ñññ1ñññ/ñññ4ñññ”ñññ:ñññ ñññPñññHñññ1ñññ-ñññPñññHñññ2ñññ-ñññPñññHñññ3ñññ-ñññPñññZñññ1ñññ-ñññPñññZñññ2ñññ-ñññPñññZñññ3ñññ-ñññSñññLñññ4ñññ-ñññSñññLñññ5ñññ-ñññSñññLñññ6ñññ-ñññ"
+      "17 bocallaves de 1/2” Dr: 10-11-12-13-14-15-16-17-18-19-20-",
+      "Dr: 10-11-12-13-14-15-16-17-18-19 mm, 1 junta universal de",
+      "1/2” Dr, 2 extensiones de 1/2” Dr: 5” (125 mm) y 10” (250",
+      "mm), 2 vasos para bujías: 16 mm y 21 mm, 1 adaptador",
+      "1/2”: SL4/5.5/6.5; PH1/2/3, 20 puntas de destornillador",
+      "de 1/4”: PH1-PH2-PH3-PZ1-PZ2-PZ3-SL4-SL5-SL6-",
+      "Material: Acero al cromo-vanadio 50BV30"
     ],
     "images": [
       "public/assets/total/p199_img1.jpeg",
@@ -4491,34 +4242,31 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p200_TOTAL-P200",
-    "title": "Herramienta TOTAL Pág. 200",
-    "code": "TOTAL-P200",
-    "cod_internal": "",
+    "id": "p200_THT290801",
+    "title": "TENAZA CARPINTERO 200MM.",
+    "code": "THT290801",
+    "cod_internal": "COD. XTCI02000",
     "category": "Manuales",
     "page": 200,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p200_img1.jpeg",
       "public/assets/total/p200_img2.jpeg"
     ]
   },
   {
-    "id": "p201_TOTAL-P201",
-    "title": "Herramienta TOTAL Pág. 201",
-    "code": "TOTAL-P201",
+    "id": "p201_THT1340601",
+    "title": "SARGENTO CARPINTERO CLAMP",
+    "code": "THT1340601",
     "cod_internal": "",
     "category": "Manuales",
     "page": 201,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññtñññoñññrñññnñññiñññlñññlñññoñññ:ñññ ñññ1ñññ7ñññ,ñññ8ñññmñññmñññ"
+      "Diámetro del tornillo: 17,8mm"
     ],
     "images": [
       "public/assets/total/p201_img1.jpeg",
@@ -4526,17 +4274,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p202_TOTAL-P202",
-    "title": "Herramienta TOTAL Pág. 202",
-    "code": "TOTAL-P202",
+    "id": "p202_THT13342",
+    "title": "PRENSA DE MANO CLAMP",
+    "code": "THT13342",
     "cod_internal": "",
     "category": "Manuales",
     "page": 202,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p202_img1.jpeg",
       "public/assets/total/p202_img2.jpeg",
@@ -4544,23 +4290,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p203_TOTAL-P203",
-    "title": "Herramienta TOTAL Pág. 203",
-    "code": "TOTAL-P203",
-    "cod_internal": "",
+    "id": "p203_THT291408",
+    "title": "BUSCAPOLO DIGITAL",
+    "code": "THT291408",
+    "cod_internal": "COD. XBP001100",
     "category": "Manuales",
     "page": 203,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññAñññCñññ ñññ1ñññ0ñññ0ñññ ñññ-ñññ ñññ5ñññ0ñññ0ñññVñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññCñññAñññ:ñññ ñññ1ñññ2ñññ ñññVñññ~ñññ1ñññ0ñññ0ñññ0ñññ ñññVñññ ñññ(ñññAñññlñññtñññañññ ñññsñññeñññnñññsñññiñññbñññiñññlñññiñññdñññañññdñññ)ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ:ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ",
-      "ñññMñññoñññdñññoñññ ñññdñññeñññ ñññañññlñññañññrñññmñññañññ:ñññ ñññAñññlñññañññrñññmñññañññ ñññsñññoñññnñññoñññrñññañññ ñññyñññ ñññlñññuñññmñññiñññnñññoñññsñññañññ",
-      "ñññLñññuñññzñññ ñññiñññnñññtñññeñññrñññmñññiñññtñññeñññnñññtñññeñññ:ñññ ñññLñññEñññDñññ ñññbñññlñññañññnñññcñññañññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññCñññAñññ:ñññ ñññ1ñññ2ñññ ñññVñññ~ñññ1ñññ0ñññ0ñññ0ñññ ñññVñññ ñññ(ñññAñññlñññtñññañññ ñññsñññeñññnñññsñññiñññbñññiñññlñññiñññdñññañññdñññ)ñññ",
-      "ñññFñññrñññeñññcñññuñññeñññnñññcñññiñññañññ:ñññ ñññ5ñññ0ñññ/ñññ6ñññ0ñññ ñññHñññzñññ"
+      "Rango: AC 100 - 500V",
+      "Voltaje CA: 12 V~1000 V (Alta sensibilidad)",
+      "Frecuencia: 50/60 Hz",
+      "Modo de alarma: Alarma sonora y luminosa",
+      "Luz intermitente: LED blanca",
+      "Voltaje CA: 12 V~1000 V (Alta sensibilidad)",
+      "Frecuencia: 50/60 Hz",
+      "Modo de alarma: Alarma sonora y luminosa"
     ],
     "images": [
       "public/assets/total/p203_img1.jpeg",
@@ -4569,23 +4315,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p204_TOTAL-P204",
-    "title": "Herramienta TOTAL Pág. 204",
-    "code": "TOTAL-P204",
-    "cod_internal": "",
+    "id": "p204_TMT321506",
+    "title": "MEDIDOR LASER DE DISTANCIA 50M",
+    "code": "TMT321506",
+    "cod_internal": "COD. XTS0D150O",
     "category": "Manuales",
     "page": 204,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ5ñññ0ñññmñññmñññ",
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññmñññeñññdñññiñññcñññiñññóñññnñññ:ñññ ñññ0ñññ,ñññ0ñññ5ñññ-ñññ5ñññ0ñññ ñññmñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññmñññeñññdñññiñññcñññiñññóñññnñññ:ñññ ñññ±ñññ2ñññ,ñññ0ñññ ñññmñññmñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññlñññáñññsñññeñññrñññ:ñññ ñññ6ñññ3ñññ5ñññ ñññnñññmñññ",
-      "ñññFñññuñññnñññcñññiñññóñññnñññ:ñññ ñññmñññeñññdñññiñññcñññiñññóñññnñññ ñññsñññiñññmñññpñññlñññeñññ/ñññcñññoñññnñññtñññiñññnñññuñññañññ/ñññiñññnñññdñññiñññrñññeñññcñññtñññañññ/ñññ",
-      "ñññBñññañññtñññeñññrñññíñññañññ:ñññ ñññ2ñññ ñññpñññiñññlñññañññsñññ ñññAñññAñññAñññ ñññdñññeñññ ñññ1ñññ,ñññ5ñññ ñññVñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ0ñññ ñññ°ñññCñññ ñññ~ñññ ñññ+ñññ5ñññ0ñññ ñññ°ñññCñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ"
+      "Rango: 0-150mm",
+      "Rango de medición: 0,05-50 m",
+      "Precisión de medición: ±2,0 mm",
+      "Tipo de láser: 635 nm",
+      "Función: medición simple/continua/indirecta/",
+      "Batería: 2 pilas AAA de 1,5 V",
+      "Temperatura de funcionamiento: 0 °C ~ +50 °C",
+      "Rango: AC 100 - 500V"
     ],
     "images": [
       "public/assets/total/p204_img1.jpeg",
@@ -4594,23 +4340,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p205_TOTAL-P205",
-    "title": "Herramienta TOTAL Pág. 205",
-    "code": "TOTAL-P205",
-    "cod_internal": "",
+    "id": "p205_TLL156503",
+    "title": "NIVEL LASER VERDE 0-35M",
+    "code": "TLL156503",
+    "cod_internal": "COD. XNLIR0180",
     "category": "Manuales",
     "page": 205,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññtñññrñññañññbñññañññjñññoñññ:ñññ ñññ0ñññ-ñññ1ñññ8ñññ ñññmñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññnñññiñññvñññeñññlñññañññcñññiñññóñññnñññ:ñññ ñññ±ñññ1ñññ,ñññ5ñññ ñññmñññmñññ ñññañññ ñññ7ñññ ñññmñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññlñññíñññnñññeñññañññ:ñññ ñññ±ñññ1ñññ,ñññ5ñññ ñññmñññmñññ ñññañññ ñññ7ñññ ñññmñññ",
-      "ñññTñññiñññeñññmñññpñññoñññ ñññdñññeñññ ñññnñññiñññvñññeñññlñññañññcñññiñññóñññnñññ:ñññ ñññ<ñññ3ñññ ñññsñññ",
-      "ñññÁñññnñññgñññuñññlñññoñññ ñññdñññeñññ ñññañññuñññtñññoñññnñññiñññvñññeñññlñññañññcñññiñññóñññnñññ:ñññ ñññ<ñññ4ñññ°ñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññlñññáñññsñññeñññrñññ:ñññ ñññ6ñññ3ñññ5ñññ ñññ±ñññ5ñññ ñññnñññmñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ0ñññ-ñññ+ñññ4ñññ0ñññ ñññ°ñññCñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ ñññdñññeñññ ñññañññlñññmñññañññcñññeñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ-ñññ1ñññ0ñññ-ñññ+ñññ5ñññ0ñññ ñññ°ñññCñññ"
+      "Rango de trabajo: 0-18 m",
+      "Precisión de nivelación: ±1,5 mm a 7 m",
+      "Precisión de línea: ±1,5 mm a 7 m",
+      "Tiempo de nivelación: <3 s",
+      "Ángulo de autonivelación: <4°",
+      "Tipo de láser: 635 ±5 nm",
+      "Temperatura de funcionamiento: 0-+40 °C",
+      "Temperatura de almacenamiento: -10-+50 °C"
     ],
     "images": [
       "public/assets/total/p205_img1.jpeg",
@@ -4619,23 +4365,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p206_TOTAL-P206",
-    "title": "Herramienta TOTAL Pág. 206",
-    "code": "TOTAL-P206",
-    "cod_internal": "",
+    "id": "p206_TLL156503",
+    "title": "TLL306505, TLL305205, TLL301200, TLL301201,",
+    "code": "TLL156503",
+    "cod_internal": "COD. XNLIV0350",
     "category": "Manuales",
     "page": 206,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññtñññrñññañññbñññañññjñññoñññ:ñññ ñññ0ñññ-ñññ3ñññ5ñññ ñññmñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññnñññiñññvñññeñññlñññañññcñññiñññóñññnñññ:ñññ ñññ±ñññ1ñññ,ñññ5ñññ ñññmñññmñññ ñññañññ ñññ7ñññ ñññmñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññlñññíñññnñññeñññañññ:ñññ ñññ±ñññ1ñññ,ñññ5ñññ ñññmñññmñññ ñññañññ ñññ7ñññ ñññmñññ",
-      "ñññTñññiñññeñññmñññpñññoñññ ñññdñññeñññ ñññnñññiñññvñññeñññlñññañññcñññiñññóñññnñññ:ñññ ñññ≤ñññ3ñññ ñññsñññ",
-      "ñññÁñññnñññgñññuñññlñññoñññ ñññdñññeñññ ñññañññuñññtñññoñññnñññiñññvñññeñññlñññañññcñññiñññóñññnñññ:ñññ ñññ≤ñññ4ñññ°ñññ",
-      "ñññTñññiñññpñññoñññ ñññdñññeñññ ñññlñññáñññsñññeñññrñññ:ñññ ñññ5ñññ2ñññ0ñññ ñññ±ñññ1ñññ0ñññ ñññnñññmñññ",
-      "ñññCñññlñññañññsñññeñññ ñññdñññeñññ ñññlñññáñññsñññeñññrñññ ñññIñññIñññ:ñññ ñññ<ñññ1ñññ ñññmñññWñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ ñññdñññeñññ ñññfñññuñññnñññcñññiñññoñññnñññañññmñññiñññeñññnñññtñññoñññ:ñññ ñññ0ñññ-ñññ+ñññ4ñññ0ñññ ñññ°ñññCñññ"
+      "Rango de trabajo: 0-35 m",
+      "Precisión de nivelación: ±1,5 mm a 7 m",
+      "Precisión de línea: ±1,5 mm a 7 m",
+      "Tiempo de nivelación: ≤3 s",
+      "Ángulo de autonivelación: ≤4°",
+      "Tipo de láser: 520 ±10 nm",
+      "Clase de láser II: <1 mW",
+      "Temperatura de funcionamiento: 0-+40 °C"
     ],
     "images": [
       "public/assets/total/p206_img1.jpeg",
@@ -4644,23 +4390,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p207_TOTAL-P207",
-    "title": "Herramienta TOTAL Pág. 207",
-    "code": "TOTAL-P207",
-    "cod_internal": "",
+    "id": "p207_THIT0155028",
+    "title": "MEDIDOR INFRARROJO DE TEMPERATURA",
+    "code": "THIT0155028",
+    "cod_internal": "COD. XTS0T001O",
     "category": "Manuales",
     "page": 207,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññRñññeñññlñññañññcñññiñññóñññnñññ ñññdñññeñññ ñññdñññiñññsñññtñññañññnñññcñññiñññañññ ñññañññ ñññpñññuñññnñññtñññoñññ ñññdñññeñññ ñññmñññeñññdñññiñññcñññiñññóñññnñññ ñññ1ñññ2ñññ:ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ",
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññvñññeñññlñññoñññcñññiñññdñññañññdñññ ñññdñññeñññlñññ ñññañññiñññrñññeñññ:ñññ ñññ0ñññ,ñññ8ñññ0ñññ-ñññ4ñññ0ñññ,ñññ0ñññ0ñññ ñññmñññ/ñññsñññ",
-      "ñññRñññeñññsñññoñññlñññuñññcñññiñññóñññnñññ:ñññ ñññ0ñññ,ñññ0ñññ1ñññ ñññ±ñññ(ñññ2ñññ,ñññ0ñññ ñññ%ñññ ñññ+ñññ ñññ3ñññ0ñññ)ñññ",
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññ0ñññ~ñññ9ñññ9ñññ9ñññ9ñññ ñññpñññpñññmñññ ñññ(ñññmñññeñññtñññañññnñññoñññ)ñññ",
-      "ñññGñññañññsñññ ñññdñññeñññ ñññdñññeñññtñññeñññcñññcñññiñññóñññnñññ:ñññ ñññGñññañññsñññ ñññcñññoñññmñññbñññuñññsñññtñññiñññbñññlñññeñññ"
+      "Relación de distancia a punto de medición 12:1",
+      "Rango de velocidad del aire: 0,80-40,00 m/s",
+      "Resolución: 0,01 ±(2,0 % + 30)",
+      "Rango: 0~9999 ppm (metano)",
+      "Gas de detección: Gas combustible",
+      "Precisión: ≤ 5 % FS (metano)",
+      "Sensibilidad: ≤ 50 ppm (metano)",
+      "Tiempo de respuesta: <2 s"
     ],
     "images": [
       "public/assets/total/p207_img1.jpeg",
@@ -4669,23 +4415,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p208_TOTAL-P208",
-    "title": "Herramienta TOTAL Pág. 208",
-    "code": "TOTAL-P208",
-    "cod_internal": "",
+    "id": "p208_TETWM031",
+    "title": "TERMOHIGROMETRO DIGITAL",
+    "code": "TETWM031",
+    "cod_internal": "COD. XTSI0HID0",
     "category": "Manuales",
     "page": 208,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññmñññeñññdñññiñññcñññiñññóñññnñññ ñññdñññeñññ ñññhñññuñññmñññeñññdñññañññdñññ:ñññ ñññ2ñññ~ñññ7ñññ0ñññ%ñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññlñññañññ ñññmñññeñññdñññiñññcñññiñññóñññnñññ ñññdñññeñññ ñññhñññuñññmñññeñññdñññañññdñññ:ñññ ñññ±ñññ2ñññ%ñññ",
-      "ñññRñññañññnñññgñññoñññ ñññdñññeñññ ñññtñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ0ñññ~ñññ4ñññ0ñññ ñññ°ñññCñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññtñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ:ñññ ñññ±ñññ1ñññ ñññ°ñññCñññ",
-      "ñññHñññuñññmñññeñññdñññañññdñññ ñññañññmñññbñññiñññeñññnñññtñññañññlñññ:ñññ ñññ2ñññ0ñññ~ñññ9ñññ0ñññ ñññ%ñññ ñññHñññRñññ",
-      "ñññTñññeñññmñññpñññeñññrñññañññtñññuñññrñññañññ ñññañññmñññbñññiñññeñññnñññtñññañññlñññ:ñññ ñññ0ñññ~ñññ4ñññ0ñññ ñññ°ñññCñññ",
-      "ñññTñññiñññeñññmñññpñññoñññ ñññdñññeñññ ñññrñññeñññsñññpñññuñññeñññsñññtñññañññ:ñññ ñññ<ñññ1ñññ ñññsñññ"
+      "Rango de medición de humedad: 2~70%",
+      "Precisión de la medición de humedad: ±2%",
+      "Rango de temperatura: 0~40 °C",
+      "Precisión de temperatura: ±1 °C",
+      "Humedad ambiental: 20~90 % HR",
+      "Temperatura ambiental: 0~40 °C",
+      "Tiempo de respuesta: <1 s",
+      "Rango de medición: 30-130 dB, Rango dinámico: 50 dB"
     ],
     "images": [
       "public/assets/total/p208_img1.jpeg",
@@ -4694,23 +4440,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p209_TOTAL-P209",
-    "title": "Herramienta TOTAL Pág. 209",
-    "code": "TOTAL-P209",
-    "cod_internal": "",
+    "id": "p209_TETLU031",
+    "title": "MULTIMETRO TESTER DIGITAL 600V 2000 CUENTAS",
+    "code": "TETLU031",
+    "cod_internal": "COD. XTSI0LUD0",
     "category": "Manuales",
     "page": 209,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññRñññañññnñññgñññoñññ:ñññ ñññ0ñññ~ñññ2ñññ0ñññ0ñññ0ñññ0ñññ0ñññ ñññLñññuñññxñññ ñññ(ñññ0ñññ~ñññ2ñññ0ñññ0ñññ0ñññ0ñññ ñññFñññCñññ)ñññ",
-      "ñññRñññeñññsñññoñññlñññuñññcñññiñññóñññnñññ:ñññ ñññ1ñññ ñññLñññUñññXñññ/ñññ1ñññ ñññFñññCñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ:ñññ ñññ±ñññ(ñññ3ñññ ñññ%ñññ ñññ+ñññ ñññ5ñññ ñññLñññuñññxñññ)ñññ ñññ(ñññcñññoñññnñññ ñññlñññáñññmñññpñññañññrñññañññsñññ ñññ",
-      "ñññCñññañññrñññañññcñññtñññeñññrñññíñññsñññtñññiñññcñññañññsñññ ñññdñññeñññ ñññdñññeñññsñññvñññiñññañññcñññiñññóñññnñññ ñññdñññeñññlñññ ñññáñññnñññgñññuñññlñññoñññ ñññcñññoñññsñññeñññnñññoñññ:ñññ ñññ",
-      "ñññRñññañññnñññgñññoñññ ñññeñññsñññpñññeñññcñññtñññrñññañññlñññ:ñññ ñññ3ñññ2ñññ0ñññ ñññ7ñññ3ñññ0ñññ ñññnñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññPñññañññnñññtñññañññlñññlñññañññ:ñññ ñññTñññRñññUñññRñññ ñññRñññMñññSñññ ñññ2ñññ0ñññ0ñññ0ñññ ñññcñññuñññeñññnñññtñññañññsñññ"
+      "Rango: 0~200000 Lux (0~20000 FC)",
+      "Resolución: 1 LUX/1 FC",
+      "Precisión: ±(3 % + 5 Lux) (con lámparas",
+      "Características de desviación del ángulo coseno:",
+      "Rango espectral: 320 730 nm",
+      "Pantalla: TRUR RMS 2000 cuentas",
+      "Voltaje CC: 200 mV/2 V/20 V/200 V/600 V",
+      "Voltaje CA: 20 V/200 V/600 V"
     ],
     "images": [
       "public/assets/total/p209_img1.jpeg",
@@ -4718,18 +4464,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p210_TOTAL-P210",
-    "title": "Herramienta TOTAL Pág. 210",
-    "code": "TOTAL-P210",
-    "cod_internal": "",
+    "id": "p210_TMT5110004",
+    "title": "MULTIMETRO TESTER DIGITAL 1000V 9999 CUENTAS",
+    "code": "TMT5110004",
+    "cod_internal": "COD. XTS046200",
     "category": "Manuales",
     "page": 210,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññPñññañññnñññtñññañññlñññlñññañññ:ñññ ñññTñññRñññUñññRñññ ñññRñññMñññSñññ ñññ9ñññ9ñññ9ñññ9ñññ ñññcñññuñññeñññnñññtñññañññsñññ"
+      "Pantalla: TRUR RMS 9999 cuentas"
     ],
     "images": [
       "public/assets/total/p210_img1.jpeg",
@@ -4737,23 +4481,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p211_TOTAL-P211",
-    "title": "Herramienta TOTAL Pág. 211",
-    "code": "TOTAL-P211",
-    "cod_internal": "",
+    "id": "p211_TMT762001",
+    "title": "PINZA AMPEROMÉTRICA DIGITAL DC/AC 400A",
+    "code": "TMT762001",
+    "cod_internal": "COD. XTSI40000",
     "category": "Manuales",
     "page": 211,
-    "voltage": "",
+    "voltage": "4V",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññCñññAñññ:ñññ ñññ2ñññAñññ ñññ/ñññ ñññ2ñññ0ñññAñññ ñññ/ñññ ñññ2ñññ0ñññ0ñññAñññ ñññ/ñññ ñññ±ñññ ñññ(ñññ2ñññ.ñññ5ñññ%ñññ ñññ+ñññ8ñññ)ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññdñññeñññ ñññCñññAñññ:ñññ ñññ0ñññ.ñññ1ñññ ñññ~ñññ ñññ6ñññ0ñññ0ñññVñññ ñññ±ñññ ñññ(ñññ1ñññ.ñññ0ñññ%ñññ ñññ+ñññ5ñññ)ñññ",
-      "ñññVñññoñññlñññtñññañññjñññeñññ ñññDñññCñññ:ñññ ñññ0ñññ.ñññ1ñññ ñññ~ñññ ñññ6ñññ0ñññ0ñññVñññ ñññ±ñññ ñññ(ñññ0ñññ.ñññ5ñññ%ñññ ñññ+ñññ5ñññ)ñññ",
-      "ñññRñññeñññsñññiñññsñññtñññeñññnñññcñññiñññañññ:ñññ ñññ2ñññkñññ:ñññ ñññ/ñññ ñññ2ñññ0ñññkñññ:ñññ ñññ±ñññ ñññ(ñññ1ñññ.ñññ0ñññ%ñññ ñññ+ñññ3ñññ)ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññoñññrñññrñññiñññeñññnñññtñññeñññ ñññDñññCñññ ñññ/ñññ ñññCñññAñññ:ñññ ñññ4ñññAñññ/ñññ4ñññ0ñññAñññ/ñññ4ñññ0ñññ0ñññAñññ"
+      "Corriente CA: 2A / 20A / 200A / ± (2.5% +8)",
+      "Voltaje de CA: 0.1 ~ 600V ± (1.0% +5)",
+      "Voltaje DC: 0.1 ~ 600V ± (0.5% +5)",
+      "Resistencia: 2k: / 20k: ± (1.0% +3)",
+      "Corriente DC / CA: 4A/40A/400A",
+      "Voltaje de DC / CA: 400mV/4V/40V/600V",
+      "Resistencia: 400:/4k:/40k:/400k:/4M:/40M:",
+      "Capacitancia: 4nF/40nF/400nF/4uF/40uF/400uF/4mF"
     ],
     "images": [
       "public/assets/total/p211_img1.jpeg",
@@ -4762,18 +4506,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p212_TOTAL-P212",
-    "title": "Herramienta TOTAL Pág. 212",
-    "code": "TOTAL-P212",
-    "cod_internal": "",
+    "id": "p212_THT10403",
+    "title": "NIVEL DE BURBUJA MAGNETICO 22.5CM",
+    "code": "THT10403",
+    "cod_internal": "COD. XNB00S300",
     "category": "Manuales",
     "page": 212,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ ñññdñññeñññlñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ:ñññ ñññ1ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ"
+      "Grosor del aluminio: 1 mm"
     ],
     "images": [
       "public/assets/total/p212_img1.jpeg",
@@ -4783,19 +4525,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p213_TOTAL-P213",
-    "title": "Herramienta TOTAL Pág. 213",
-    "code": "TOTAL-P213",
+    "id": "p213_TMT24028",
+    "title": "NIVEL DE BURBUJA MAGNETICO",
+    "code": "TMT24028",
     "cod_internal": "",
     "category": "Manuales",
     "page": 213,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p213_img1.jpeg",
       "public/assets/total/p213_img2.jpeg",
@@ -4803,19 +4541,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p214_TOTAL-P214",
-    "title": "Herramienta TOTAL Pág. 214",
-    "code": "TOTAL-P214",
-    "cod_internal": "",
+    "id": "p214_TMT28028M",
+    "title": "MINI MARTILLO DE CARPINTERO 220GR",
+    "code": "TMT28028M",
+    "cod_internal": "COD. XMC0C220M",
     "category": "Manuales",
     "page": 214,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññPñññrñññeñññcñññiñññsñññiñññóñññnñññ ñññdñññeñññ ñññbñññuñññrñññbñññuñññjñññañññ:ñññ ñññ0ñññ,ñññ5ñññ ñññmñññmñññ/ñññmñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ:ñññ ñññ1ñññ,ñññ5ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ"
+      "Precisión de burbuja: 0,5 mm/m",
+      "Grosor: 1,5 mm"
     ],
     "images": [
       "public/assets/total/p214_img1.jpeg",
@@ -4824,21 +4560,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p215_TOTAL-P215",
-    "title": "Herramienta TOTAL Pág. 215",
-    "code": "TOTAL-P215",
-    "cod_internal": "",
+    "id": "p215_THCH61016L",
+    "title": "MARTILLO DE CARPINTERO ANTI-SHOCK",
+    "code": "THCH61016L",
+    "cod_internal": "COD. XMG002700",
     "category": "Manuales",
     "page": 215,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ3ñññ4ñññ5ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ8ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ4ñññ5ñññ0ñññ ñññgñññ"
+      "Longitud: 345 mm",
+      "Peso: 450 g"
     ],
     "images": [
       "public/assets/total/p215_img1.jpeg",
@@ -4848,9 +4580,9 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p216_TOTAL-P216",
-    "title": "Herramienta TOTAL Pág. 216",
-    "code": "TOTAL-P216",
+    "id": "p216_THMH62200",
+    "title": "MARTILLO DE GOMA BLANCA",
+    "code": "THMH62200",
     "cod_internal": "",
     "category": "Manuales",
     "page": 216,
@@ -4864,20 +4596,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p217_TOTAL-P217",
-    "title": "Herramienta TOTAL Pág. 217",
-    "code": "TOTAL-P217",
-    "cod_internal": "",
+    "id": "p217_THDBM06028",
+    "title": "MARTILLO DE GOMA Y PLÁSTICO",
+    "code": "THDBM06028",
+    "cod_internal": "COD. XMAI00900",
     "category": "Manuales",
     "page": 217,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññmñññañññrñññtñññiñññlñññlñññoñññ:ñññ ñññ4ñññ0ñññ ñññmñññmñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ5ñññ0ñññ0ñññ ñññgñññ"
+      "Diámetro del martillo: 40 mm",
+      "Peso: 500 g"
     ],
     "images": [
       "public/assets/total/p217_img1.jpeg",
@@ -4887,22 +4616,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p218_TOTAL-P218",
-    "title": "Herramienta TOTAL Pág. 218",
-    "code": "TOTAL-P218",
-    "cod_internal": "",
+    "id": "p218_THSTH61000L",
+    "title": "MAZA ANTI-SHOCK 1000GR",
+    "code": "THSTH61000L",
+    "cod_internal": "COD. XMZIA1000",
     "category": "Manuales",
     "page": 218,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ ñññgñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ6ñññ0ñññ0ñññ ñññgñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ ñññgñññ"
+      "Peso: 1000 g",
+      "Peso: 600 g",
+      "Peso: 1000 g"
     ],
     "images": [
       "public/assets/total/p218_img1.jpeg",
@@ -4912,18 +4637,15 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p219_TOTAL-P219",
-    "title": "Herramienta TOTAL Pág. 219",
-    "code": "TOTAL-P219",
+    "id": "p219_THAX061600",
+    "title": "LARGO TOTAL",
+    "code": "THAX061600",
     "cod_internal": "",
     "category": "Manuales",
     "page": 219,
     "voltage": "",
     "is_brushless": false,
-    "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ"
-    ],
+    "specs": [],
     "images": [
       "public/assets/total/p219_img1.jpeg",
       "public/assets/total/p219_img2.jpeg",
@@ -4931,23 +4653,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p220_TOTAL-P220",
-    "title": "Herramienta TOTAL Pág. 220",
-    "code": "TOTAL-P220",
-    "cod_internal": "",
+    "id": "p220_THT59128B",
+    "title": "SERRUCHO DE COSTILLA CON INGLETADOR 300MM",
+    "code": "THT59128B",
+    "cod_internal": "COD. XSC003011",
     "category": "Manuales",
     "page": 220,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññSñññKñññ5ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ0ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ2ñññ”ñññ)ñññ,ñññ ñññGñññrñññoñññsñññoñññrñññ:ñññ ñññ0ñññ,ñññ8ñññ ñññmñññmñññ,ñññ ñññ1ñññ1ñññ ñññTñññPñññIñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ6ñññ0ñññ0ñññ ñññmñññmñññ/ñññ2ñññ4ñññ”ñññ,ñññ ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññ6ñññ5ñññ ñññMñññnñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ5ñññ0ñññ ñññmñññmñññ/ñññ6ñññ”ñññ,ñññ ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññSñññKñññ5ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ"
+      "Material: SK5",
+      "Tamaño: 300 mm (12”), Grosor: 0,8 mm, 11 TPI",
+      "Tamaño: 600 mm/24”, Material: 65 Mn",
+      "Tamaño: 150 mm/6”, Material: SK5",
+      "Material: SK5"
     ],
     "images": [
       "public/assets/total/p220_img1.jpeg",
@@ -4957,23 +4676,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p221_TOTAL-P221",
-    "title": "Herramienta TOTAL Pág. 221",
-    "code": "TOTAL-P221",
-    "cod_internal": "",
+    "id": "p221_THT54166",
+    "title": "PISTOLA DE RIEGO DE 9 POSICIONES",
+    "code": "THT54166",
+    "cod_internal": "COD. XSE003000",
     "category": "Manuales",
     "page": 221,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ0ñññ0ñññ ñññmñññmñññ ñññ(ñññ1ñññ2ñññ”ñññ)ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññlñññ ñññmñññañññnñññgñññoñññ:ñññ ñññPñññlñññáñññsñññtñññiñññcñññoñññ ñññAñññBñññSñññ ñññ+ñññ ñññPñññlñññáñññsñññtñññiñññcñññoñññ ñññTñññPñññRñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ0ñññ0ñññ ñññmñññmñññ/ñññ1ñññ2ñññ”ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññlñññ ñññmñññañññnñññgñññoñññ:ñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ,ñññ ñññAñññBñññSñññ ñññyñññ ñññpñññlñññáñññsñññtñññiñññcñññoñññ ñññTñññPñññRñññ",
-      "ñññÁñññnñññgñññuñññlñññoñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ ñññdñññeñññ ñññsñññiñññeñññrñññrñññañññ ñññañññjñññuñññsñññtñññañññbñññlñññeñññ:ñññ ñññ4ñññ5ñññ°ñññ ñññyñññ ñññ9ñññ0ñññ°ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ"
+      "Tamaño: 300 mm (12”)",
+      "Material del mango: Plástico ABS + Plástico TPR",
+      "Tamaño: 300 mm/12”",
+      "Material del mango: aluminio, ABS y plástico TPR",
+      "Ángulo de la hoja de sierra ajustable: 45° y 90°"
     ],
     "images": [
       "public/assets/total/p221_img1.jpeg",
@@ -4983,19 +4699,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p222_TOTAL-P222",
-    "title": "Herramienta TOTAL Pág. 222",
-    "code": "TOTAL-P222",
-    "cod_internal": "",
+    "id": "p222_THWSG6091",
+    "title": "SET ACOPLE RAPIDO 1/2” Y LANZA PARA RIEGO",
+    "code": "THWSG6091",
+    "cod_internal": "COD. XPRI00900",
     "category": "Manuales",
     "page": 222,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññ9ñññ ñññpñññañññtñññrñññoñññnñññeñññsñññ ñññdñññeñññ ñññrñññoñññcñññiñññañññdñññoñññ:ñññ ñññdñññuñññcñññhñññañññ,ñññ ñññañññnñññgñññuñññlñññañññrñññ,ñññ ñññcñññeñññnñññtñññrñññañññlñññ,ñññ ñññañññbñññañññnñññiñññcñññoñññ,ñññ ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ"
+      "9 patrones de rociado: ducha, angular, central, abanico,"
     ],
     "images": [
       "public/assets/total/p222_img1.jpeg",
@@ -5004,23 +4717,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p223_TOTAL-P223",
-    "title": "Herramienta TOTAL Pág. 223",
-    "code": "TOTAL-P223",
-    "cod_internal": "",
+    "id": "p223_THPS23602",
+    "title": "REGADOR GIRATORIO DE 3 BRAZOS",
+    "code": "THPS23602",
+    "cod_internal": "COD. XRG000300",
     "category": "Manuales",
     "page": 223,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññBñññSñññ ñññyñññ ñññPñññPñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ:ñññ ñññ1ñññ6ñññ.ñññ5ñññxñññ1ñññ4ñññxñññ8ñññcñññmñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ:ñññ ñññ3ñññ8ñññ ñññxñññ ñññ1ñññ7ñññ,ñññ4ñññ ñññxñññ ñññ6ñññ,ñññ4ñññ ñññcñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññeñññsñññ:ñññ ñññAñññBñññSñññ ñññ+ñññ ñññPñññPñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññPñññ,ñññ ñññAñññlñññuñññmñññiñññnñññiñññoñññ"
+      "Material: ABS y PP",
+      "Dimensiones: 16.5x14x8cm",
+      "Dimensiones: 38 x 17,4 x 6,4 cm",
+      "Materiales: ABS + PP",
+      "Material: PP, Aluminio"
     ],
     "images": [
       "public/assets/total/p223_img1.jpeg",
@@ -5029,21 +4739,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p224_TOTAL-P224",
-    "title": "Herramienta TOTAL Pág. 224",
-    "code": "TOTAL-P224",
-    "cod_internal": "",
+    "id": "p224_THHR20124",
+    "title": "ENROLLADOR DE MANGUERA CON ACCESORIOS",
+    "code": "THHR20124",
+    "cod_internal": "COD. XEM000420",
     "category": "Manuales",
     "page": 224,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññPñññPñññ/ñññAñññlñññuñññmñññiñññnñññiñññoñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ:ñññ ñññ2ñññ.ñññ5ñññBñññAñññRñññ",
-      "ñññMñññañññnñññgñññuñññeñññrñññañññ ñññfñññlñññeñññxñññiñññbñññlñññeñññ ñññ1ñññ,ñññ2ñññmñññ ñññdñññeñññ ñññlñññoñññnñññgñññiñññtñññuñññdñññ,ñññ ñññPñññrñññeñññsñññiñññóñññnñññ:ñññ ñññ2ñññ.ñññ5ñññBñññAñññRñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ"
+      "Material: PP/Aluminio",
+      "Presión: 2.5BAR",
+      "Manguera flexible 1,2m de longitud, Presión: 2.5BAR"
     ],
     "images": [
       "public/assets/total/p224_img1.jpeg",
@@ -5052,22 +4759,19 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p225_TOTAL-P225",
-    "title": "Herramienta TOTAL Pág. 225",
-    "code": "TOTAL-P225",
-    "cod_internal": "",
+    "id": "p225_THSPP41602",
+    "title": "SERRUCHO DE PODA PLEGABLE 180MM",
+    "code": "THSPP41602",
+    "cod_internal": "COD. XSP006100",
     "category": "Manuales",
     "page": 225,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññPñññrñññeñññsñññiñññóñññnñññ:ñññ ñññ4ñññ.ñññ5ñññBñññAñññRñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ6ñññ1ñññ0ñññ ñññmñññmñññ/ñññ2ñññ4ñññ”ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññañññcñññeñññrñññoñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ8ñññ0ñññ ñññmñññmñññ/ñññ7ñññ”ñññ,ñññ ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññSñññKñññ5ñññ"
+      "Presión: 4.5BAR",
+      "Tamaño: 610 mm/24”",
+      "Material: acero",
+      "Tamaño: 180 mm/7”, Material: SK5"
     ],
     "images": [
       "public/assets/total/p225_img1.jpeg",
@@ -5076,21 +4780,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p226_TOTAL-P226",
-    "title": "Herramienta TOTAL Pág. 226",
-    "code": "TOTAL-P226",
-    "cod_internal": "",
+    "id": "p226_THPS3008",
+    "title": "SERRUCHO DE PODA 300MM",
+    "code": "THPS3008",
+    "cod_internal": "COD. XSPI03010",
     "category": "Manuales",
     "page": 226,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ3ñññ0ñññ0ñññ ñññmñññmñññ/ñññ1ñññ2ñññ”ñññ,ñññ ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññSñññKñññ5ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ3ñññ”ñññ/ñññ3ñññ3ñññ0ñññ ñññmñññmñññ,ñññ ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññTñññañññiñññwñññáñññnñññ ñññSñññKñññ5ñññ"
+      "Tamaño: 300 mm/12”, Material: SK5",
+      "Tamaño: 13”/330 mm, Material: Taiwán SK5"
     ],
     "images": [
       "public/assets/total/p226_img1.jpeg",
@@ -5100,23 +4800,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p227_TOTAL-P227",
-    "title": "Herramienta TOTAL Pág. 227",
-    "code": "TOTAL-P227",
-    "cod_internal": "",
+    "id": "p227_THT1527101",
+    "title": "SET DE 3 TIJERAS DE PODA",
+    "code": "THT1527101",
+    "cod_internal": "COD. XTPI07100",
     "category": "Manuales",
     "page": 227,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññlñññ ñññcñññañññbñññeñññzñññañññlñññ:ñññ ñññSñññKñññ5ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ7ñññ3ñññ0ñññ ñññmñññmñññ ñññ(ñññ2ñññ9ñññ”ñññ)ñññ,ñññ ñññdñññiñññáñññmñññeñññtñññrñññoñññ ñññmñññáñññxñññiñññmñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ2ñññ3ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññlñññ ñññcñññañññbñññeñññzñññañññlñññ:ñññ ñññSñññKñññ5ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ7ñññ7ñññ0ñññ ñññmñññmñññ ñññ(ñññ3ñññ0ñññ”ñññ)ñññ,ñññ ñññdñññiñññáñññmñññeñññtñññrñññoñññ ñññmñññáñññxñññiñññmñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ2ñññ8ñññ ñññmñññmñññ"
+      "Material del cabezal: SK5",
+      "Longitud: 730 mm (29”), diámetro máximo de corte: 23 mm",
+      "Material del cabezal: SK5",
+      "Longitud: 770 mm (30”), diámetro máximo de corte: 28 mm",
+      "Material del cabezal: SK5",
+      "Longitud: 575 mm (23”)",
+      "Material del cabezal: SK5",
+      "Longitud: 575 mm (23”)"
     ],
     "images": [
       "public/assets/total/p227_img1.jpeg",
@@ -5127,23 +4827,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p228_TOTAL-P228",
-    "title": "Herramienta TOTAL Pág. 228",
-    "code": "TOTAL-P228",
-    "cod_internal": "",
+    "id": "p228_THTPTM1251",
+    "title": "TIJERA DE PODA 725MM",
+    "code": "THTPTM1251",
+    "cod_internal": "COD. XAT001250",
     "category": "Manuales",
     "page": 228,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ2ñññ.ñññ5ñññ”ñññ",
-      "ñññMñññeñññdñññiñññdñññañññ:ñññ ñññ3ñññ4ñññ0ñññxñññ8ñññ5ñññmñññmñññ",
-      "ñññMñññeñññdñññiñññdñññañññ:ñññ ñññ3ñññ2ñññ0ñññxñññ8ñññ0ñññmñññmñññ",
-      "ñññMñññeñññdñññiñññdñññañññ:ñññ ñññ2ñññ7ñññ0ñññxñññ9ñññ0ñññmñññmñññ"
+      "Tamaño: 12.5”",
+      "Medida: 340x85mm",
+      "Medida: 320x80mm",
+      "Medida: 270x90mm",
+      "repuestos adicionales: cuchilla, resorte, tornillo y tuerca"
     ],
     "images": [
       "public/assets/total/p228_img1.jpeg",
@@ -5153,23 +4850,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p229_TOTAL-P229",
-    "title": "Herramienta TOTAL Pág. 229",
-    "code": "TOTAL-P229",
-    "cod_internal": "",
+    "id": "p229_THGT979K",
+    "title": "TIJERA DE ELECTRICISTA AISLADA 160MM",
+    "code": "THGT979K",
+    "cod_internal": "COD. XAE029075",
     "category": "Manuales",
     "page": 229,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ",
-      "ñññMñññeñññdñññiñññdñññañññ:ñññ ñññ2ñññ9ñññ0ñññxñññ7ñññ5ñññmñññmñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ6ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ4ñññ5ñññ ñññmñññmñññ ñññ(ñññ5ñññ,ñññ5ñññ”ñññ)ñññ,ñññ ñññgñññrñññoñññsñññoñññrñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ3ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññiñññnñññoñññxñññiñññdñññañññbñññlñññeñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ"
+      "Medida: 290x75mm",
+      "Tamaño: 160 mm",
+      "Tamaño: 145 mm (5,5”), grosor de la hoja: 3 mm",
+      "Material: Acero inoxidable",
+      "Tamaño: 200 mm (8”)",
+      "Material: acero inoxidable"
     ],
     "images": [
       "public/assets/total/p229_img1.jpeg",
@@ -5179,23 +4874,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p230_TOTAL-P230",
-    "title": "Herramienta TOTAL Pág. 230",
-    "code": "TOTAL-P230",
-    "cod_internal": "",
+    "id": "p230_THT53422",
+    "title": "SET DE 3 TIJERAS DE AVIACIÓN 250 MM",
+    "code": "THT53422",
+    "cod_internal": "COD. XTAIT2250",
     "category": "Manuales",
     "page": 230,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ2ñññ2ñññ5ñññ ñññmñññmñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññ3ñññ-ñññ4ñññ2ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññAñññlñññuñññmñññiñññnñññiñññoñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññCñññrñññMñññoñññ",
-      "ñññEñññsñññpñññeñññsñññoñññrñññ ñññmñññáñññxñññ.ñññ ñññdñññeñññ ñññcñññoñññrñññtñññeñññ:ñññ ñññAñññcñññeñññrñññoñññ ñññañññlñññ ñññcñññañññrñññbñññoñññnñññoñññ ñññ≤ñññ1ñññ.ñññ2ñññmñññmñññ,ñññ"
+      "Longitud: 225 mm",
+      "Diámetro de corte: 3-42 mm",
+      "Material: Aluminio",
+      "Material: CrMo",
+      "Espesor máx. de corte: Acero al carbono ≤1.2mm,",
+      "Grosor máximo de corte: Acero al carbono ≤1,2 mm,"
     ],
     "images": [
       "public/assets/total/p230_img1.jpeg",
@@ -5207,20 +4900,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p231_TOTAL-P231",
-    "title": "Herramienta TOTAL Pág. 231",
-    "code": "TOTAL-P231",
-    "cod_internal": "",
+    "id": "p231_THT918326",
+    "title": "SET DE 6 LIMAS CORTAS",
+    "code": "THT918326",
+    "cod_internal": "COD. XLMI00300",
     "category": "Manuales",
     "page": 231,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ7ñññ2ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ6ñññ",
-      "ñññMñññeñññdñññiñññdñññañññsñññ:ñññ ñññ6ñññ,ñññ1ñññ2ñññ,ñññ1ñññ9ñññ,ñññ2ñññ5ñññmñññmñññ"
+      "Medidas: 6,12,19,25mm"
     ],
     "images": [
       "public/assets/total/p231_img1.jpeg",
@@ -5230,23 +4919,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p232_TOTAL-P232",
-    "title": "Herramienta TOTAL Pág. 232",
-    "code": "TOTAL-P232",
-    "cod_internal": "",
+    "id": "p232_TAMWH4001",
+    "title": "SET DE 4 ESCUADRAS MAGNÉTICAS",
+    "code": "TAMWH4001",
+    "cod_internal": "COD. XEM000040",
     "category": "Manuales",
     "page": 232,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññFñññuñññeñññrñññzñññañññ ñññdñññeñññ ñññtñññrñññañññcñññcñññiñññóñññnñññ:ñññ ñññ1ñññ0ñññLñññbñññsñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ:ñññ ñññ7ñññ0ñññxñññ4ñññ2ñññ.ñññ5ñññxñññxñññ1ñññ2ñññ ñññmñññmñññ",
-      "ñññPñññeñññsñññoñññ:ñññ ñññ1ñññ0ñññ8ñññgñññ",
-      "ñññÁñññnñññgñññuñññlñññoñññsñññ:ñññ ñññ4ñññ5ñññ°ñññ,ñññ9ñññ0ñññ°ñññ,ñññ1ñññ3ñññ5ñññ°ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññiñññmñññáñññnñññ ñññyñññ ñññañññcñññeñññrñññoñññ",
-      "ñññAñññnñññcñññhñññoñññ ñññgñññrñññañññmñññpñññañññ:ñññ ñññ0ñññ,ñññ7ñññmñññmñññ"
+      "Fuerza de tracción: 10Lbs",
+      "Dimensiones: 70x42.5xx12 mm",
+      "Peso: 108g",
+      "Ángulos: 45°,90°,135°",
+      "Material: imán y acero",
+      "Ancho grampa: 0,7mm",
+      "Longitud: 4-14mm.",
+      "Peso: 600gr"
     ],
     "images": [
       "public/assets/total/p232_img1.jpeg",
@@ -5256,23 +4945,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p233_TOTAL-P233",
-    "title": "Herramienta TOTAL Pág. 233",
-    "code": "TOTAL-P233",
-    "cod_internal": "",
+    "id": "p233_THT31148",
+    "title": "ENGRAMPADORA MANUAL 2 EN 1",
+    "code": "THT31148",
+    "cod_internal": "COD. XENI11450",
     "category": "Manuales",
     "page": 233,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññDñññiñññsñññpñññoñññnñññiñññbñññlñññeñññ ñññeñññnñññ ñññdñññoñññsñññ ñññtñññiñññpñññoñññsñññ ñññdñññeñññ ñññcñññlñññañññvñññoñññsñññ:ñññ",
-      "ñññGñññrñññañññpñññañññsñññ:ñññ ñññAñññlñññañññmñññbñññrñññeñññ:ñññ ñññ1ñññ,ñññ2ñññ ñññmñññmñññ,ñññ ñññCñññoñññrñññoñññnñññañññ:ñññ ñññ1ñññ1ñññ,ñññ3ñññ ñññmñññmñññ,ñññ ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ4ñññ-ñññ1ñññ4ñññ ñññmñññmñññ",
-      "ñññCñññlñññañññvñññoñññsñññ ñññdñññeñññ ñññpñññuñññnñññtñññañññ:ñññ ñññAñññlñññañññmñññbñññrñññeñññ:ñññ ñññ1ñññ,ñññ2ñññ ñññmñññmñññ,ñññ ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ4ñññ ñññmñññmñññ",
-      "ñññGñññrñññañññpñññañññsñññ:ñññ ñññAñññlñññañññmñññbñññrñññeñññ:ñññ ñññ1ñññ,ñññ2ñññ ñññmñññmñññ,ñññ ñññCñññoñññrñññoñññnñññañññ:ñññ ñññ1ñññ0ñññ,ñññ6ñññ ñññmñññmñññ,ñññ ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ6ñññ-ñññ1ñññ4ñññ ñññ",
-      "ñññmñññmñññ,ñññ ñññAñññlñññañññmñññbñññrñññeñññ:ñññ ñññ1ñññ,ñññ2ñññ ñññmñññmñññ,ñññ ñññCñññoñññrñññoñññnñññañññ:ñññ ñññ1ñññ1ñññ,ñññ3ñññ ñññmñññmñññ,ñññ ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ6ñññ-ñññ1ñññ4ñññ ñññmñññmñññ",
-      "ñññCñññlñññañññvñññoñññsñññ:ñññ ñññAñññlñññañññmñññbñññrñññeñññ:ñññ ñññ1ñññ,ñññ2ñññ ñññmñññmñññ,ñññ ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññcñññañññbñññeñññzñññañññ:ñññ ñññ2ñññ ñññmñññmñññ,ñññ ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ1ñññ0ñññ-ñññ1ñññ5ñññ ñññmñññmñññ"
+      "Disponible en dos tipos de clavos:",
+      "Grapas: Alambre: 1,2 mm, Corona: 11,3 mm, Longitud: 4-14 mm",
+      "Clavos de punta: Alambre: 1,2 mm, Longitud: 10-14 mm",
+      "Grapas: Alambre: 1,2 mm, Corona: 10,6 mm, Longitud: 6-14",
+      "mm, Alambre: 1,2 mm, Corona: 11,3 mm, Longitud: 6-14 mm",
+      "Clavos: Alambre: 1,2 mm, Tamaño de la cabeza: 2 mm,",
+      "Longitud: 10-15 mm",
+      "Brillo: 450 lm"
     ],
     "images": [
       "public/assets/total/p233_img1.jpeg",
@@ -5281,23 +4970,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p234_TOTAL-P234",
-    "title": "Herramienta TOTAL Pág. 234",
-    "code": "TOTAL-P234",
-    "cod_internal": "",
+    "id": "p234_TCFL1865051",
+    "title": "APLICADOR DE SILICONA ALUMINIO",
+    "code": "TCFL1865051",
+    "cod_internal": "COD. XLCI01370",
     "category": "Manuales",
     "page": 234,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññBñññrñññiñññlñññlñññoñññ:ñññ ñññMñññáñññxñññ.ñññ:ñññ ñññ4ñññ5ñññ0ñññ ñññlñññmñññ,ñññ ñññMñññeñññdñññiñññañññ:ñññ ñññ1ñññ5ñññ0ñññ ñññlñññmñññ,ñññ ñññBñññañññjñññañññ:ñññ ñññ5ñññ0ñññ ñññlñññmñññ",
-      "ñññAñññuñññtñññoñññnñññoñññmñññíñññañññ:ñññ ñññeñññnñññ ñññañññlñññtñññañññ ñññiñññnñññtñññeñññnñññsñññiñññdñññañññdñññ:ñññ ñññ4ñññ ñññhñññ,ñññ ñññeñññnñññ ñññbñññañññjñññañññ ñññiñññnñññtñññeñññnñññsñññiñññdñññañññdñññ:ñññ ñññ1ñññ8ñññ ñññhñññ",
-      "ñññCñññiñññnñññcñññoñññ ñññiñññnñññtñññeñññrñññrñññuñññpñññtñññoñññrñññeñññsñññ:ñññ ñññañññlñññtñññañññ ñññiñññnñññtñññeñññnñññsñññiñññdñññañññdñññ,ñññ ñññmñññeñññdñññiñññañññ ñññiñññnñññtñññeñññnñññsñññiñññdñññañññdñññ,ñññ ñññbñññañññjñññañññ ñññ",
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ/ñññlñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ3ñññ4ñññ ñññmñññmñññ/ñññ1ñññ4ñññ1ñññ ñññmñññmñññ",
-      "ñññPñññeñññsñññoñññ ñññnñññeñññtñññoñññ:ñññ ñññ1ñññ2ñññ5ñññ ñññgñññ",
-      "ñññBñññrñññiñññlñññlñññoñññ:ñññ ñññMñññáñññxñññ.ñññ:ñññ ñññ2ñññ0ñññ0ñññ ñññlñññúñññmñññeñññnñññeñññsñññ,ñññ ñññBñññañññjñññoñññ:ñññ ñññ1ñññ0ñññ0ñññ ñññlñññúñññmñññeñññnñññeñññsñññ",
-      "ñññAñññlñññcñññañññnñññcñññeñññ ñññmñññáñññxñññiñññmñññoñññ ñññdñññeñññlñññ ñññhñññañññzñññ:ñññ ñññ9ñññ1ñññ ñññmñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ:ñññ ñññ2ñññ,ñññ2ñññ ñññmñññmñññ,ñññ ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ2ñññ3ñññ0ñññ ñññmñññmñññ,ñññ ñññDñññiñññáñññmñññeñññtñññrñññoñññ:ñññ ñññ5ñññ5ñññ ñññmñññmñññ"
+      "Brillo: Máx.: 450 lm, Media: 150 lm, Baja: 50 lm",
+      "Autonomía: en alta intensidad: 4 h, en baja intensidad: 18 h",
+      "Cinco interruptores: alta intensidad, media intensidad, baja",
+      "Diámetro/longitud: 34 mm/141 mm",
+      "Peso neto: 125 g",
+      "Brillo: Máx.: 200 lúmenes, Bajo: 100 lúmenes",
+      "Alcance máximo del haz: 91 m",
+      "Grosor: 2,2 mm, Longitud: 230 mm, Diámetro: 55 mm"
     ],
     "images": [
       "public/assets/total/p234_img1.jpeg",
@@ -5307,23 +4996,21 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p235_TOTAL-P235",
-    "title": "Herramienta TOTAL Pág. 235",
-    "code": "TOTAL-P235",
-    "cod_internal": "",
+    "id": "p235_THT21509",
+    "title": "APLICADOR DE SILICONA CON FUNCIÓN ROTATIVA",
+    "code": "THT21509",
+    "cod_internal": "COD. XASI21500",
     "category": "Manuales",
     "page": 235,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ:ñññ ñññ1ñññ,ñññ8ñññ ñññmñññmñññ,ñññ ñññlñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ2ñññ3ñññ0ñññ ñññmñññmñññ,ñññ ñññdñññiñññáñññmñññeñññtñññrñññoñññ:ñññ ñññ5ñññ5ñññ ñññmñññmñññ",
-      "ñññVñññañññrñññiñññlñññlñññañññ ñññlñññiñññsñññañññ:ñññ ñññ8ñññ,ñññ0ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññMñññiñññcñññrñññoñññfñññiñññbñññrñññañññ,ñññ ñññtñññañññmñññañññññññoñññ:ñññ ñññ2ñññ3ñññ0ñññ ñññmñññmñññ/ñññ9ñññ”ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññMñññiñññcñññrñññoñññfñññiñññbñññrñññañññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ0ñññ0ñññ ñññmñññmñññ/ñññ4ñññ”ñññ"
+      "Grosor: 1,8 mm, longitud: 230 mm, diámetro: 55 mm",
+      "Varilla lisa: 8,0 mm",
+      "Material: Microfibra, tamaño: 230 mm/9”",
+      "Material: Microfibra",
+      "Tamaño: 100 mm/4”",
+      "Altura de la fibra: 12 mm"
     ],
     "images": [
       "public/assets/total/p235_img1.jpeg",
@@ -5332,20 +5019,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p236_TOTAL-P236",
-    "title": "Herramienta TOTAL Pág. 236",
-    "code": "TOTAL-P236",
-    "cod_internal": "",
+    "id": "p236_THT85431",
+    "title": "CUBIERTA DE RODILLO 100MM X 12MM",
+    "code": "THT85431",
+    "cod_internal": "COD. XCR0B1020",
     "category": "Manuales",
     "page": 236,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ5ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññbñññañññnñññdñññeñññjñññañññ ñññdñññeñññ ñññpñññiñññnñññtñññuñññrñññañññ:ñññ ñññ4ñññ3ñññ5ñññ*ñññ3ñññ0ñññ0ñññmñññmñññ"
+      "Tamaño de la bandeja de pintura: 435*300mm"
     ],
     "images": [
       "public/assets/total/p236_img1.jpeg",
@@ -5355,18 +5038,17 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p237_TOTAL-P237",
-    "title": "Herramienta TOTAL Pág. 237",
-    "code": "TOTAL-P237",
+    "id": "p237_THT82616",
+    "title": "ESPATULA DE CONSTRUCCION EN SECO",
+    "code": "THT82616",
     "cod_internal": "",
     "category": "Manuales",
     "page": 237,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññDñññiñññáñññmñññeñññtñññrñññoñññ ñññdñññeñññlñññ ñññmñññañññnñññgñññoñññ:ñññ ñññ9ñññ,ñññ5ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ2ñññ0ñññ",
-      "ñññGñññrñññoñññsñññoñññrñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññ0ñññ,ñññ5ñññ ñññmñññmñññ"
+      "Diámetro del mango: 9,5 mm",
+      "Grosor de la hoja: 0,5 mm"
     ],
     "images": [
       "public/assets/total/p237_img1.jpeg",
@@ -5377,23 +5059,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p238_TOTAL-P238",
-    "title": "Herramienta TOTAL Pág. 238",
-    "code": "TOTAL-P238",
-    "cod_internal": "",
+    "id": "p238_THTT81286",
+    "title": "LLANA DENTADA 280 MM X 130M",
+    "code": "THTT81286",
+    "cod_internal": "COD. XLD028130",
     "category": "Manuales",
     "page": 238,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ8ñññ0ñññ ñññxñññ ñññ1ñññ3ñññ0ñññ ñññmñññmñññ",
-      "ñññDñññiñññeñññnñññtñññeñññsñññ:ñññ ñññ1ñññ0ñññ ñññxñññ ñññ1ñññ0ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññañññcñññeñññrñññoñññ ñññiñññnñññoñññxñññiñññdñññañññbñññlñññeñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ8ñññ0ñññ ñññxñññ ñññ1ñññ3ñññ0ñññ ñññmñññmñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññ ñññlñññañññ ñññhñññoñññjñññañññ:ñññ ñññañññcñññeñññrñññoñññ ñññiñññnñññoñññxñññiñññdñññañññbñññlñññeñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ"
+      "Tamaño: 280 x 130 mm",
+      "Dientes: 10 x 10 mm",
+      "Material de la hoja: acero inoxidable",
+      "Tamaño: 280 x 130 mm",
+      "Material de la hoja: acero inoxidable",
+      "Tamaño: 240 mm x 100 mm, gosor de EVA: 19 mm",
+      "Tamaño: 240 mm x 100 mm, gosor de EVA: 19 mm"
     ],
     "images": [
       "public/assets/total/p238_img1.jpeg",
@@ -5403,22 +5084,20 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p239_TOTAL-P239",
-    "title": "Herramienta TOTAL Pág. 239",
-    "code": "TOTAL-P239",
-    "cod_internal": "",
+    "id": "p239_TGS3088",
+    "title": "RASPADOR METALICO 340MM",
+    "code": "TGS3088",
+    "cod_internal": "COD. XRS001020",
     "category": "Manuales",
     "page": 239,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ4ñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññañññlñññeñññañññcñññiñññóñññnñññ ñññdñññeñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ",
-      "ñññTñññañññmñññañññññññoñññ ñññdñññeñññ ñññlñññañññ ñññcñññuñññcñññhñññiñññlñññlñññañññ ñññSñññKñññ5ñññ:ñññ ñññ1ñññ8ñññ ñññxñññ ñññ1ñññ0ñññ0ñññ ñññmñññmñññ ñññ(ñññTñññHñññTñññ5ñññ1ñññ9ñññ1ñññ1ñññ2ñññ)ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ3ñññ4ñññ0ñññ ñññmñññmñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ4ñññ0ñññ",
-      "ñññLñññoñññnñññgñññiñññtñññuñññdñññ:ñññ ñññ3ñññ0ñññmñññ",
-      "ñññ1ñññ ñññbñññoñññtñññeñññlñññlñññañññ ñññdñññeñññ ñññpñññoñññlñññvñññoñññ ñññañññzñññuñññlñññ:ñññ ñññ4ñññ ñññoñññzñññ/ñññ1ñññ1ñññ3ñññ ñññgñññ"
+      "Material: aleación de aluminio",
+      "Tamaño de la cuchilla SK5: 18 x 100 mm (THT519112)",
+      "Longitud: 340 mm",
+      "Longitud: 30m",
+      "1 botella de polvo azul: 4 oz/113 g"
     ],
     "images": [
       "public/assets/total/p239_img1.jpeg",
@@ -5427,23 +5106,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p240_TOTAL-P240",
-    "title": "Herramienta TOTAL Pág. 240",
-    "code": "TOTAL-P240",
-    "cod_internal": "",
+    "id": "p240_THT8450801",
+    "title": "CARRO DE MANO PLEGABLE 130KG",
+    "code": "THT8450801",
+    "cod_internal": "COD. XPC0K0800",
     "category": "Manuales",
     "page": 240,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ3ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññ1ñññ3ñññ0ñññ ñññkñññgñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ ñññdñññeñññlñññ ñññañññrñññmñññañññzñññóñññnñññ:ñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ ñññdñññeñññsñññpñññlñññeñññgñññañññdñññoñññ:ñññ ñññ5ñññ6ñññ0ñññ ñññxñññ ñññ5ñññ0ñññ6ñññ ñññxñññ ñññ1ñññ1ñññ1ñññ0ñññ ñññmñññmñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ ñññpñññlñññeñññgñññañññdñññoñññ:ñññ ñññ8ñññ6ñññ ñññxñññ ñññ4ñññ8ñññ0ñññ ñññxñññ ñññ8ñññ4ñññ0ñññ ñññmñññmñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ ñññdñññeñññlñññ ñññrñññeñññpñññoñññsñññañññpñññiñññéñññsñññ:ñññ ñññ3ñññ7ñññ7ñññ ñññxñññ ñññ4ñññ8ñññ0ñññ ñññmñññmñññ",
-      "ñññRñññuñññeñññdñññañññsñññ:ñññ ñññ1ñññ7ñññ5ñññ ñññmñññmñññ ñññ(ñññPñññPñññ+ñññTñññPñññRñññ)ñññ"
+      "Capacidad de carga: 130 kg",
+      "Material del armazón: aluminio",
+      "Dimensiones desplegado: 560 x 506 x 1110 mm",
+      "Dimensiones plegado: 86 x 480 x 840 mm",
+      "Dimensiones del reposapiés: 377 x 480 mm",
+      "Ruedas: 175 mm (PP+TPR)",
+      "Peso: 6600 g"
     ],
     "images": [
       "public/assets/total/p240_img1.jpeg",
@@ -5454,23 +5132,22 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p241_TOTAL-P241",
-    "title": "Herramienta TOTAL Pág. 241",
-    "code": "TOTAL-P241",
-    "cod_internal": "",
+    "id": "p241_THT32105",
+    "title": "REMACHADORA FUELLE TIJERA 815MM.",
+    "code": "THT32105",
+    "cod_internal": "COD. XREI08150",
     "category": "Manuales",
     "page": 241,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ4ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ8ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ1ñññ0ñññ.ñññ5ñññ”ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ2ñññ.ñññ4ñññ ñññmñññmñññ,ñññ ñññ3ñññ.ñññ2ñññ ñññmñññmñññ,ñññ ñññ4ñññ ñññmñññmñññ,ñññ ñññ4ñññ.ñññ8ñññ ñññmñññmñññ",
-      "ñññRñññeñññmñññañññcñññhñññeñññsñññ ñññdñññeñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ:ñññ ñññ3ñññ.ñññ2ñññ ñññ-ñññ ñññ4ñññ ñññ-ñññ ñññ4ñññ.ñññ8ñññ",
-      "ñññRñññeñññmñññañññcñññhñññeñññsñññ ñññdñññeñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ:ñññ ñññ3ñññ.ñññ2ñññ ñññ-ñññ ñññ4ñññ ñññ-ñññ ñññ4ñññ.ñññ8ñññ ñññ-ñññ ñññ6ñññ ñññ-ñññ ñññ6ñññ.ñññ4ñññ"
+      "Tamaño: 10.5”",
+      "Tamaño: 2.4 mm, 3.2 mm, 4 mm, 4.8 mm",
+      "Remaches de aluminio: 3.2 - 4 - 4.8",
+      "Remaches de aluminio: 3.2 - 4 - 4.8 - 6 - 6.4",
+      "Tamaño: 13”",
+      "Aplicable Remache de acero inoxidable: 3,2 mm, 4,0 mm,",
+      "4,8 mm, 6,0 mm. y remache de aluminio y acero: 3,2 mm,"
     ],
     "images": [
       "public/assets/total/p241_img1.jpeg",
@@ -5480,23 +5157,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p242_TOTAL-P242",
-    "title": "Herramienta TOTAL Pág. 242",
-    "code": "TOTAL-P242",
-    "cod_internal": "",
+    "id": "p242_THT32105",
+    "title": "CHALECO PORTA HERRAMIENTAS",
+    "code": "THT32105",
+    "cod_internal": "COD. XEGI04000",
     "category": "Manuales",
     "page": 242,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ:ñññ ñññ4ñññ0ñññ0ñññ ñññcñññcñññ ñññ/ñññ ñññ1ñññ4ñññ ñññoñññzñññ",
-      "ñññMñññéñññtñññoñññdñññoñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññCñññañññrñññtñññuñññcñññhñññoñññ ñññdñññeñññ ñññ1ñññ4ñññ ñññoñññzñññ ñññ/ñññ ñññ4ñññ0ñññ0ñññ ñññcñññcñññ ñññañññ ñññgñññrñññañññnñññeñññlñññ",
-      "ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññtñññrñññañññbñññañññjñññoñññ:ñññ ñññ4ñññ5ñññ0ñññ0ñññ ñññpñññsñññiñññ ñññPñññrñññeñññsñññiñññóñññnñññ ñññdñññeñññ ñññrñññoñññtñññuñññrñññañññ:ñññ ñññ1ñññ0ñññ0ñññ0ñññ0ñññ ñññpñññsñññiñññ",
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññTñññuñññbñññoñññ ñññdñññeñññ ñññañññcñññeñññrñññoñññ ñññdñññeñññ ñññ1ñññ,ñññ2ñññ ñññmñññmñññ ñññ+ñññ ñññañññlñññuñññmñññiñññnñññiñññoñññ ñññfñññuñññnñññdñññiñññdñññoñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ2ñññ0ñññ",
-      "ñññTñññañññmñññañññññññoñññ:ñññ ñññ4ñññ8ñññ ñññxñññ ñññ6ñññ0ñññ ñññxñññ ñññ3ñññ ñññcñññmñññ",
-      "ñññCñññañññrñññgñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ3ñññ ñññkñññgñññ"
+      "Capacidad: 400 cc / 14 oz",
+      "Método de carga: Cartucho de 14 oz / 400 cc a granel",
+      "Presión de trabajo: 4500 psi Presión de rotura: 10000 psi",
+      "Material: Tubo de acero de 1,2 mm + aluminio fundido",
+      "Tamaño: 48 x 60 x 3 cm",
+      "Carga máxima: 3 kg",
+      "Peso máximo de elevación: 1 tonelada",
+      "Altura de elevación: 3 m"
     ],
     "images": [
       "public/assets/total/p242_img1.jpeg",
@@ -5506,20 +5183,18 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p243_TOTAL-P243",
-    "title": "Herramienta TOTAL Pág. 243",
-    "code": "TOTAL-P243",
+    "id": "p243_TIJERA",
+    "title": "DISTACIA DE GANCHO",
+    "code": "TIJERA",
     "cod_internal": "",
     "category": "Manuales",
     "page": 243,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ0ñññ",
-      "ñññNñññúñññmñññeñññrñññoñññ ñññdñññeñññ ñññcñññañññdñññeñññnñññañññsñññ ñññdñññeñññ ñññcñññañññrñññgñññañññ:ñññ ñññ2ñññ",
-      "ñññMñññíñññnñññ:ñññ ñññ8ñññ8ñññmñññmñññ ñññ-ñññ ñññmñññáñññxñññ:ñññ ñññ3ñññ8ñññ0ñññmñññmñññ",
-      "ñññMñññíñññnñññ:ñññ ñññ1ñññ2ñññ0ñññmñññmñññ ñññ-ñññ ñññmñññáñññxñññ:ñññ ñññ3ñññ9ñññ5ñññmñññmñññ"
+      "Número de cadenas de carga: 2",
+      "Mín: 88mm - máx: 380mm",
+      "Mín: 120mm - máx: 395mm"
     ],
     "images": [
       "public/assets/total/p243_img1.jpeg",
@@ -5528,23 +5203,23 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p244_TOTAL-P244",
-    "title": "Herramienta TOTAL Pág. 244",
-    "code": "TOTAL-P244",
-    "cod_internal": "",
+    "id": "p244_THT10821",
+    "title": "CRICKET CARRITO 3 TN EXTRA CHATO",
+    "code": "THT10821",
+    "cod_internal": "COD. XCCI03EC0",
     "category": "Manuales",
     "page": 244,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ6ñññ",
-      "ñññCñññañññjñññañññ ñññMñññañññdñññrñññeñññ:ñññ ñññ1ñññ",
-      "ñññAñññlñññtñññuñññrñññañññ ñññmñññíñññnñññiñññmñññañññ:ñññ ñññ8ñññ5ñññ ñññmñññmñññ ñññAñññlñññtñññuñññrñññañññ ñññmñññáñññxñññiñññmñññañññ:ñññ ñññ5ñññ1ñññ5ñññ ñññmñññmñññ",
-      "ñññRñññeñññcñññoñññrñññrñññiñññdñññoñññ:ñññ ñññ4ñññ3ñññ0ñññ ñññmñññmñññ",
-      "ñññPñññeñññsñññoñññ ñññnñññeñññtñññoñññ:ñññ ñññ3ñññ2ñññ ñññkñññgñññ",
-      "ñññCñññañññpñññañññcñññiñññdñññañññdñññ:ñññ ñññ2ñññ5ñññ0ñññ0ñññ ñññkñññgñññ",
-      "ñññDñññiñññmñññeñññnñññsñññiñññoñññnñññeñññsñññ ñññdñññeñññ ñññlñññañññsñññ ñññhñññoñññrñññqñññuñññiñññlñññlñññañññsñññ ñññ(ñññAñññnñññ.ñññ ñññxñññ ñññLñññ.ñññ)ñññ:ñññ ñññ5ñññ5ñññ0ñññ ñññxñññ ñññ1ñññ1ñññ5ñññ0ñññ ñññmñññmñññ"
+      "Altura mínima: 85 mm Altura máxima: 515 mm",
+      "Recorrido: 430 mm",
+      "Peso neto: 32 kg",
+      "Capacidad: 2500 kg",
+      "Dimensiones de las horquillas (An. x L.): 550 x 1150 mm",
+      "Distancia entre horquillas (Pr.): 230 mm",
+      "Altura mínima de las horquillas (Al.): 85 mm",
+      "Altura máxima de las horquillas (Al.): 200 mm"
     ],
     "images": [
       "public/assets/total/p244_img1.jpeg",
@@ -5553,16 +5228,16 @@ window.TOTAL_PRODUCTS = [
     ]
   },
   {
-    "id": "p245_TOTAL-P245",
-    "title": "Herramienta TOTAL Pág. 245",
-    "code": "TOTAL-P245",
+    "id": "p245_TLK32202",
+    "title": "SET 10 BOCALLAVES",
+    "code": "TLK32202",
     "cod_internal": "",
     "category": "Manuales",
     "page": 245,
     "voltage": "",
     "is_brushless": false,
     "specs": [
-      "ñññMñññañññtñññeñññrñññiñññañññlñññ:ñññ ñññlñññañññtñññóñññnñññ"
+      "Material: latón"
     ],
     "images": [
       "public/assets/total/p245_img1.jpeg",

@@ -13,8 +13,10 @@ doc = fitz.open(pdf_path)
 def clean_text(txt):
     if not txt:
         return ""
-    # Fix common encoding artifacts from PyMuPDF PDF extraction
-    txt = txt.replace('', 'ñ').replace('CATLOGO', 'CATÁLOGO').replace('CARACTERSTICAS', 'CARACTERÍSTICAS').replace('TCNICAS', 'TÉCNICAS').replace('INALMBRICAS', 'INALÁMBRICAS').replace('ELCTRICAS', 'ELÉCTRICAS').replace('NEUMTICAS', 'NEUMÁTICAS').replace('Lnea', 'Línea').replace('Mximo', 'Máximo').replace('Batera', 'Batería').replace('batera', 'batería').replace('ilumacin', 'iluminación').replace('Opcin', 'Opción').replace('csped', 'césped').replace('Demolicin', 'Demolición').replace('demolicin', 'demolición').replace('Posicin', 'Posición').replace('Polmero', 'Polímero').replace('Pistola de Pegar', 'Pistola de Pegar').replace('Iluminacin', 'Iluminación').replace('Rotomartillo', 'Rotomartillo').replace('Automtico', 'Automático').replace('Plstico', 'Plástico').replace('Tensin', 'Tensión').replace('Imn', 'Imán').replace('Mquina', 'Máquina')
+    # Remove null bytes or control chars except newline
+    txt = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', txt)
+    # Fix broken keywords
+    txt = txt.replace('CATLOGO', 'CATÁLOGO').replace('CARACTERSTICAS', 'CARACTERÍSTICAS').replace('TCNICAS', 'TÉCNICAS').replace('INALMBRICAS', 'INALÁMBRICAS').replace('ELCTRICAS', 'ELÉCTRICAS').replace('NEUMTICAS', 'NEUMÁTICAS').replace('Lnea', 'Línea').replace('Mximo', 'Máximo').replace('Batera', 'Batería').replace('batera', 'batería').replace('ilumacin', 'iluminación').replace('Opcin', 'Opción').replace('csped', 'césped').replace('Demolicin', 'Demolición').replace('demolicin', 'demolición').replace('Posicin', 'Posición').replace('Polmero', 'Polímero').replace('Pistola de Pegar', 'Pistola de Pegar').replace('Iluminacin', 'Iluminación').replace('Rotomartillo', 'Rotomartillo').replace('Automtico', 'Automático').replace('Plstico', 'Plástico').replace('Tensin', 'Tensión').replace('Imn', 'Imán').replace('Mquina', 'Máquina')
     return txt.strip()
 
 def get_category_by_page(pno):
@@ -42,6 +44,7 @@ def extract_products():
         text = clean_text(page.get_text('text'))
         lines = [clean_text(line) for line in text.split('\n') if clean_text(line)]
         
+        # Web relative path (without leading public/ so it works in Vite and static servers)
         page_imgs = [
             f"public/assets/total/{img_name}"
             for img_name in sorted(available_imgs)
