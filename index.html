@@ -205,49 +205,13 @@
             <canvas id="videoScrollCanvas"></canvas>
             <div class="video-overlay-vignette"></div>
 
-            <!-- Timeline Phase Navigation Bar -->
-            <div class="video-phase-nav-container">
-              <div class="phase-nav-header">
-                <span class="phase-brand"><ion-icon name="hardware-chip-outline"></ion-icon> OPERACIÓN MINERA EN VIVO</span>
-                <span class="scroll-prompt"><ion-icon name="arrow-down-outline"></ion-icon> Haz scroll para avanzar el video</span>
-              </div>
-              <div class="phase-steps-bar">
-                <button class="phase-step-btn active" data-phase="0">
-                  <span class="step-num">01</span>
-                  <span class="step-title">Yacimiento</span>
-                </button>
-                <button class="phase-step-btn" data-phase="1">
-                  <span class="step-num">02</span>
-                  <span class="step-title">Terreno</span>
-                </button>
-                <button class="phase-step-btn" data-phase="2">
-                  <span class="step-num">03</span>
-                  <span class="step-title">Herramientas</span>
-                </button>
-                <button class="phase-step-btn" data-phase="3">
-                  <span class="step-num">04</span>
-                  <span class="step-title">Fijación Roscas</span>
-                </button>
-              </div>
-              <div class="video-progress-track">
-                <div class="video-progress-fill" id="videoProgressFill"></div>
-              </div>
-            </div>
-
-            <!-- Hotspots Canvas Layer -->
+            <!-- Dynamic Hotspots Layer (Pulsing targets directly on video objects) -->
             <div id="videoHotspotsContainer" class="video-hotspots-layer"></div>
 
-            <!-- Floating Glassmorphic HUD & Embedded Product Display -->
-            <div class="video-hud-overlay">
-              <div class="hud-header-panel glass-panel">
-                <span class="hud-badge" id="videoHudPhase">FASE 01 | YACIMIENTO MINERO</span>
-                <h3 class="hud-title" id="videoHudTitle">Protección Integral en Infraestructura Minera</h3>
-                <p class="hud-desc" id="videoHudDesc">Delimitación y contención pasiva para yacimientos a gran escala y logística de minería pesada.</p>
-              </div>
-
-              <div class="hud-products-list" id="videoCardsContainer">
-                <!-- Dynamic embedded product chips rendered by video-scroll.js -->
-              </div>
+            <!-- Minimalist Cinematic Text Overlay (Pure floating typography without dark boxes) -->
+            <div class="cinematic-caption-layer">
+              <span class="cinematic-badge" id="videoHudPhase">FASE 01 | YACIMIENTO MINERO</span>
+              <h2 class="cinematic-title" id="videoHudTitle">Protección Integral en Yacimientos</h2>
             </div>
           </div>
         </div>
