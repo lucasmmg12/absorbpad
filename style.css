@@ -2154,29 +2154,31 @@ img {
 }
 
 /* ==========================================================================
-   INTERACTIVE VIDEO SCROLL SCRUBBER & PRODUCT EXPERIENCE
+   INTERACTIVE VIDEO SCROLL SCRUBBER & PRODUCT EXPERIENCE (FULLSCREEN)
    ========================================================================== */
 .video-scroll-wrapper {
     position: relative;
     width: 100%;
-    height: 320vh; /* 3.2x viewport scroll track for smooth video progression */
-    margin: 2.5rem 0 4rem;
-    background-color: #0b0f19;
-    border-radius: 20px;
+    height: 400vh; /* 4x viewport scroll track for extended smooth scroller */
+    margin: 2rem 0;
+    background-color: #05070d;
 }
 
 .sticky-video-box {
     position: sticky;
-    top: 70px;
-    width: 100%;
-    height: calc(100vh - 90px);
-    max-height: 820px;
-    border-radius: 20px;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    max-height: none;
+    border-radius: 0;
     overflow: hidden;
     background-color: #05070d;
-    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.08);
+    box-shadow: none;
     display: flex;
     flex-direction: column;
+    z-index: 100;
 }
 
 #videoScrollCanvas {
@@ -2550,66 +2552,85 @@ img {
     to { opacity: 1; transform: translateX(0); }
 }
 
-/* Mobile Responsiveness for Video Scroller */
+/* Mobile Responsiveness for Video Scroller (Fullscreen Mobile) */
 @media screen and (max-width: 768px) {
     .video-scroll-wrapper {
-        height: 280vh;
-        border-radius: 12px;
+        height: 380vh;
+        margin: 0;
     }
 
     .sticky-video-box {
-        height: calc(100vh - 80px);
-        border-radius: 12px;
+        height: 100vh;
+        height: 100dvh;
+        border-radius: 0;
     }
 
     .video-phase-nav-container {
-        top: 0.8rem;
-        left: 0.8rem;
-        right: 0.8rem;
-        padding: 0.6rem 0.8rem;
+        top: 0.6rem;
+        left: 0.6rem;
+        right: 0.6rem;
+        padding: 0.5rem 0.7rem;
+        gap: 0.4rem;
+    }
+
+    .scroll-prompt {
+        display: none;
     }
 
     .phase-steps-bar {
         grid-template-columns: repeat(2, 1fr);
-        gap: 0.4rem;
+        gap: 0.3rem;
     }
 
     .phase-step-btn {
-        padding: 0.35rem 0.5rem;
+        padding: 0.3rem 0.45rem;
     }
 
     .phase-step-btn .step-title {
-        font-size: 0.72rem;
+        font-size: 0.68rem;
     }
 
     .video-hud-overlay {
         bottom: 0.8rem;
-        left: 0.8rem;
-        right: 0.8rem;
+        left: 0.6rem;
+        right: 0.6rem;
+        flex-direction: column;
+        align-items: stretch;
         gap: 0.6rem;
     }
 
     .hud-header-panel {
-        padding: 0.6rem 0.9rem;
+        padding: 0.8rem 1rem;
+        max-width: 100%;
     }
 
     .hud-title {
-        font-size: 0.95rem;
+        font-size: 1rem;
     }
 
-    .hud-products-grid {
-        grid-template-columns: 1fr;
-        max-height: 200px;
+    .hud-desc {
+        font-size: 0.76rem;
+    }
+
+    .hud-products-list {
+        max-width: 100%;
+        gap: 0.45rem;
+        max-height: 160px;
         overflow-y: auto;
     }
 
-    .video-product-card {
-        padding: 0.75rem;
+    .embedded-product-chip {
+        padding: 0.5rem 0.7rem;
+        gap: 0.6rem;
     }
 
-    .video-product-card .card-img-wrap {
-        width: 60px;
-        height: 60px;
+    .embedded-product-chip .chip-img-wrap {
+        width: 38px;
+        height: 38px;
+    }
+
+    .embedded-product-chip .chip-title {
+        font-size: 0.78rem;
     }
 }
 

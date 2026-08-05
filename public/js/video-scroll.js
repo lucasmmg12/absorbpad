@@ -1,6 +1,6 @@
 /**
  * Absorbpad - Interactive Video Scroll Scrubber
- * 60 FPS Apple-Grade Frame Sequence Scrubber & Interactive Embedded Narrative
+ * 60 FPS Apple-Grade Fullscreen Frame Sequence Scrubber & Interactive Embedded Narrative
  * Controls playback of Miner_tightening_bolt_on_truck_202608051255 video frames
  * and embeds synchronized text, interactive product tags, and hotspots.
  */
@@ -46,14 +46,14 @@ export class VideoScrollScrubber {
             name: 'Barreras y Cordones ABC',
             desc: 'Microfibra Meltblown de alta absorción para delimitar derrames sobre tierra o agua.',
             link: 'producto-abc.html',
-            image: 'public/assets/Cordones.webp',
+            image: 'assets/Cordones.webp',
             badge: 'Contención'
           },
           {
             name: 'Pallets de Contención Pasiva',
             desc: 'Estructuras homologadas para almacenamiento seguro de tambores e IBCs.',
             link: 'producto-pallets.html',
-            image: 'public/assets/palet contencion.webp',
+            image: 'assets/palet contencion.webp',
             badge: 'Infraestructura'
           }
         ]
@@ -71,21 +71,21 @@ export class VideoScrollScrubber {
             name: 'Mantas Absorbentes ABM',
             desc: 'Protección de suelo con base impermeable para equipos de perforación y acarreo.',
             link: 'producto-abm.html',
-            image: 'public/assets/manta abosrbente.webp',
+            image: 'assets/manta abosrbente.webp',
             badge: 'Absorción Suelo'
           },
           {
             name: 'Kits Antiderrame Yacimiento',
             desc: 'Respuesta inmediata en flota vehicular y estaciones de bombeo.',
             link: 'producto-kits.html',
-            image: 'public/assets/kit-product.webp',
+            image: 'assets/kit-product.webp',
             badge: 'Respuesta Rápida'
           },
           {
             name: 'Desengrasante Bio Terpenos',
             desc: 'Limpieza ecológica de motores y chasis libre de solventes clorados.',
             link: 'producto-desengrasante.html',
-            image: 'public/assets/Bidon.webp',
+            image: 'assets/Bidon.webp',
             badge: 'Bio-Eco'
           }
         ]
@@ -103,14 +103,14 @@ export class VideoScrollScrubber {
             name: 'Herramientas Industriales TOTAL',
             desc: 'Llaves de impacto a batería y equipamiento pesado 2026.',
             link: 'productos-total.html',
-            image: 'public/assets/images.webp',
+            image: 'assets/images.webp',
             badge: 'NUEVO 2026'
           },
           {
             name: 'Limpiamanos Fast Orange',
             desc: 'Fórmula cítrica biodegradable con piedra pómez para remover grasa pesada.',
             link: 'productos-limpiamanos.html',
-            image: 'public/pdf_images/p37_img1.jpeg',
+            image: 'pdf_images/p37_img1.jpeg',
             badge: 'Higiene Industrial'
           }
         ]
@@ -128,21 +128,21 @@ export class VideoScrollScrubber {
             name: 'Trabas Anaeróbicas SILOC (Roja)',
             desc: 'Traba química de alta resistencia para roscas y bulones sometidos a extrema vibración.',
             link: 'productos-anaerobicos.html',
-            image: 'public/pdf_images/p04_img1.jpeg',
+            image: 'pdf_images/p04_img1.jpeg',
             badge: 'Alta Resistencia'
           },
           {
             name: 'Cianoacrilatos CIANO 2000',
             desc: 'Adhesivos instantáneos de rápida velocidad para caucho, metal y plásticos.',
             link: 'productos-cianoacrilatos.html',
-            image: 'public/pdf_images/p13_img1.jpeg',
+            image: 'pdf_images/p13_img1.jpeg',
             badge: 'Instantáneo'
           },
           {
             name: 'Selladores SILOC Silicona / PU',
             desc: 'Estanqueidad técnica y sellado de alto desempeño para juntas.',
             link: 'productos-selladores.html',
-            image: 'public/pdf_images/p16_img1.jpeg',
+            image: 'pdf_images/p16_img1.jpeg',
             badge: 'Estanqueidad'
           }
         ]
@@ -174,7 +174,14 @@ export class VideoScrollScrubber {
     for (let i = 0; i < this.totalFrameCount; i++) {
       const img = new Image();
       const numStr = String(i).padStart(3, '0');
-      img.src = `public/assets/video_frames/frame_${numStr}.jpg`;
+      // Relative path works in both dev server and production
+      img.src = `assets/video_frames/frame_${numStr}.jpg`;
+      img.onerror = () => {
+        // Fallback path attempt if required
+        if (!img.src.includes('public/')) {
+          img.src = `public/assets/video_frames/frame_${numStr}.jpg`;
+        }
+      };
       img.onload = () => {
         this.loadedFramesCount++;
       };
@@ -239,10 +246,11 @@ export class VideoScrollScrubber {
 
     const frameImg = this.frameImages[frameIndex];
 
+    // Clear canvas
+    this.ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight);
+
     // Draw frame to canvas if loaded
     if (frameImg && frameImg.complete && frameImg.naturalWidth > 0) {
-      this.ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight);
-      
       const imgRatio = frameImg.naturalWidth / frameImg.naturalHeight;
       const canvasRatio = this.canvasWidth / this.canvasHeight;
       let drawW, drawH, drawX, drawY;
@@ -266,7 +274,6 @@ export class VideoScrollScrubber {
       if (Math.abs(this.video.currentTime - currentTime) > 0.05) {
         this.video.currentTime = currentTime;
       }
-      this.ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight);
       this.ctx.drawImage(this.video, 0, 0, this.canvasWidth, this.canvasHeight);
     }
 
@@ -334,7 +341,7 @@ export class VideoScrollScrubber {
     this.cardsContainer.innerHTML = products.map(prod => `
       <a href="${prod.link}" class="embedded-product-chip">
         <div class="chip-img-wrap">
-          <img src="${prod.image}" alt="${prod.name}" class="chip-img" onerror="this.src='public/assets/images.webp'">
+          <img src="${prod.image}" alt="${prod.name}" class="chip-img" onerror="if(!this.src.includes('pdf_images/')){this.src='pdf_images/p04_img1.jpeg';}">
         </div>
         <div class="chip-info">
           <span class="chip-badge">${prod.badge}</span>
