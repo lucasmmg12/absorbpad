@@ -1,8 +1,8 @@
 /**
  * Absorbpad - Interactive Video Scroll Scrubber
- * Hardware-accelerated video scrubbing synced with window scroll position.
- * Controls video playback of Miner_tightening_bolt_on_truck_202608051255.mp4
- * and reveals corresponding Absorbpad products with hotspots & animations.
+ * 60 FPS Apple-Grade Frame Sequence Scrubber & Interactive Embedded Narrative
+ * Controls playback of Miner_tightening_bolt_on_truck_202608051255 video frames
+ * and embeds synchronized text, interactive product tags, and hotspots.
  */
 
 export class VideoScrollScrubber {
@@ -13,43 +13,45 @@ export class VideoScrollScrubber {
     this.video = document.querySelector(options.video || '#scrollVideo');
     this.hudPhase = document.querySelector(options.hudPhase || '#videoHudPhase');
     this.hudTitle = document.querySelector(options.hudTitle || '#videoHudTitle');
+    this.hudDesc = document.querySelector(options.hudDesc || '#videoHudDesc');
     this.progressFill = document.querySelector(options.progressFill || '#videoProgressFill');
     this.cardsContainer = document.querySelector(options.cardsContainer || '#videoCardsContainer');
     this.hotspotsContainer = document.querySelector(options.hotspotsContainer || '#videoHotspotsContainer');
-    
-    if (!this.wrapper || !this.canvas || !this.video) {
+
+    if (!this.wrapper || !this.canvas) {
       console.warn('VideoScrollScrubber: Required DOM elements not found.');
       return;
     }
 
     this.ctx = this.canvas.getContext('2d');
-    this.duration = 10.0; // 10 seconds
+    this.totalFrameCount = 120; // 120 extracted frames
+    this.frameImages = [];
+    this.loadedFramesCount = 0;
     this.targetProgress = 0;
     this.currentProgress = 0;
-    this.currentFrameTime = 0;
-    this.isLoaded = false;
+    this.duration = 10.0;
 
-    // Timeline phases definition
+    // Timeline phases definition with exact products & embedded text
     this.phases = [
       {
         id: 'yacimiento',
         startTime: 0.0,
         endTime: 2.5,
         badge: 'FASE 01 | YACIMIENTO MINERO',
-        title: 'Protección Integral en Infraestructura Minera',
-        description: 'Soluciones de contención masiva para yacimientos a gran escala y logística pesada.',
-        hotspot: { x: 50, y: 75, label: 'Pallets de Contención & Cordones ABC' },
+        title: 'Protección Integral en Yacimientos',
+        description: 'Delimitación y contención pasiva para yacimientos a gran escala y logística de minería pesada.',
+        hotspot: { x: 50, y: 72, label: 'Pallets de Contención & Cordones ABC' },
         products: [
           {
             name: 'Barreras y Cordones ABC',
-            desc: 'Delimitación y contención de derrames sobre tierra o agua con microfibra Meltblown.',
+            desc: 'Microfibra Meltblown de alta absorción para delimitar derrames sobre tierra o agua.',
             link: 'producto-abc.html',
             image: 'public/assets/Cordones.webp',
             badge: 'Contención'
           },
           {
             name: 'Pallets de Contención Pasiva',
-            desc: 'Estructuras de polietileno homologadas para almacenamiento seguro de tambores e IBCs.',
+            desc: 'Estructuras homologadas para almacenamiento seguro de tambores e IBCs.',
             link: 'producto-pallets.html',
             image: 'public/assets/palet contencion.webp',
             badge: 'Infraestructura'
@@ -61,27 +63,27 @@ export class VideoScrollScrubber {
         startTime: 2.5,
         endTime: 5.0,
         badge: 'FASE 02 | MANTENIMIENTO EN TERRENO',
-        title: 'Absorción y Respuesta Rápida Bajo Vehículos Pesados',
-        description: 'Mantas impermeables de suelo y kits portátiles desplegados directamente en zona de operación.',
-        hotspot: { x: 40, y: 82, label: 'Mantas ABM / Paños Absorbentes' },
+        title: 'Absorción y Respuesta Rápida',
+        description: 'Mantas impermeables de suelo y kits portátiles desplegados bajo camionetas y camiones mineros.',
+        hotspot: { x: 42, y: 80, label: 'Mantas ABM & Paños Absorbentes' },
         products: [
           {
             name: 'Mantas Absorbentes ABM',
-            desc: 'Protección de suelos de alta resistencia con base impermeable para equipos de minería.',
+            desc: 'Protección de suelo con base impermeable para equipos de perforación y acarreo.',
             link: 'producto-abm.html',
             image: 'public/assets/manta abosrbente.webp',
-            badge: 'Absorción'
+            badge: 'Absorción Suelo'
           },
           {
             name: 'Kits Antiderrame Yacimiento',
-            desc: 'Equipamiento de respuesta inmediata listo para operar en camionetas y maquinaria pesada.',
+            desc: 'Respuesta inmediata en flota vehicular y estaciones de bombeo.',
             link: 'producto-kits.html',
             image: 'public/assets/kit-product.webp',
             badge: 'Respuesta Rápida'
           },
           {
             name: 'Desengrasante Bio Terpenos',
-            desc: 'Limpieza ecológica de superficies libre de solventes clorados.',
+            desc: 'Limpieza ecológica de motores y chasis libre de solventes clorados.',
             link: 'producto-desengrasante.html',
             image: 'public/assets/Bidon.webp',
             badge: 'Bio-Eco'
@@ -92,23 +94,23 @@ export class VideoScrollScrubber {
         id: 'mecanica',
         startTime: 5.0,
         endTime: 7.5,
-        badge: 'FASE 03 | HERRAMIENTAS Y ALTO TORQUE',
-        title: 'Mantenimiento de Maquinaria Pesada y Limpieza Técnica',
-        description: 'Herramientas neumáticas e inalámbricas para exigencia extrema en taller y campo.',
-        hotspot: { x: 42, y: 55, label: 'Herramientas TOTAL 2026' },
+        badge: 'FASE 03 | ALTO TORQUE Y HERRAMIENTAS',
+        title: 'Mantenimiento de Maquinaria Pesada',
+        description: 'Herramientas a batería y neumáticas para ajuste de llantas en camiones Caterpillar/Komatsu.',
+        hotspot: { x: 44, y: 54, label: 'Herramientas TOTAL 2026' },
         products: [
           {
             name: 'Herramientas Industriales TOTAL',
-            desc: 'Llaves de impacto, herramientas a batería y equipamiento pesado 2026.',
+            desc: 'Llaves de impacto a batería y equipamiento pesado 2026.',
             link: 'productos-total.html',
             image: 'public/assets/images.webp',
             badge: 'NUEVO 2026'
           },
           {
             name: 'Limpiamanos Fast Orange',
-            desc: 'Fórmula cítrica con piedra pómez y aloe para remover grasa pesada sin agredir la piel.',
+            desc: 'Fórmula cítrica biodegradable con piedra pómez para remover grasa pesada.',
             link: 'productos-limpiamanos.html',
-            image: 'pdf_images/p37_img1.jpeg',
+            image: 'public/pdf_images/p37_img1.jpeg',
             badge: 'Higiene Industrial'
           }
         ]
@@ -117,31 +119,30 @@ export class VideoScrollScrubber {
         id: 'fijacion',
         startTime: 7.5,
         endTime: 10.0,
-        badge: 'FASE 04 | FIJACIÓN QUÍMICA Y CRÍTICA',
-        title: 'Traba Anaeróbica SILOC Serie Roja para Bulones de Alto Estrés',
-        description: 'Fijador químico anaeróbico que previene el aflojamiento por vibración en camiones de gran porte.',
-        hotspot: { x: 69, y: 49, label: 'Traba Anaeróbica Serie Roja SILOC', activeColor: '#FF2A4B' },
+        badge: 'FASE 04 | FIJACIÓN QUÍMICA Y TRABA DE ROSCAS',
+        title: 'Traba Anaeróbica SILOC Serie Roja',
+        description: 'Fijador químico anaeróbico de máxima resistencia que bloquea aflojamientos por vibración en bulones de ruedas.',
+        hotspot: { x: 68, y: 48, label: 'Traba Anaeróbica SILOC Serie Roja', activeColor: '#FF2A4B' },
         products: [
           {
             name: 'Trabas Anaeróbicas SILOC (Roja)',
-            desc: 'Traba química de alta resistencia para bulones y roscas en maquinaria pesada.',
+            desc: 'Traba química de alta resistencia para roscas y bulones sometidos a extrema vibración.',
             link: 'productos-anaerobicos.html',
-            image: 'pdf_images/p04_img1.jpeg',
+            image: 'public/pdf_images/p04_img1.jpeg',
             badge: 'Alta Resistencia'
           },
           {
-            name: 'Cianoacrilatos Instantáneos CIANO',
-            desc: 'Adhesivos de curado veloz para unión estructural de goma, metal y plástico.',
+            name: 'Cianoacrilatos CIANO 2000',
+            desc: 'Adhesivos instantáneos de rápida velocidad para caucho, metal y plásticos.',
             link: 'productos-cianoacrilatos.html',
-            image: 'productos-cianoacrilatos.html',
-            image: 'pdf_images/p13_img1.jpeg',
+            image: 'public/pdf_images/p13_img1.jpeg',
             badge: 'Instantáneo'
           },
           {
-            name: 'Selladores SILOC Siliconas & Poliuretano',
-            desc: 'Sellado elástico y estanqueidad técnica para juntas industriales.',
+            name: 'Selladores SILOC Silicona / PU',
+            desc: 'Estanqueidad técnica y sellado de alto desempeño para juntas.',
             link: 'productos-selladores.html',
-            image: 'pdf_images/p16_img1.jpeg',
+            image: 'public/pdf_images/p16_img1.jpeg',
             badge: 'Estanqueidad'
           }
         ]
@@ -153,24 +154,11 @@ export class VideoScrollScrubber {
   }
 
   init() {
+    this.preloadFrames();
     this.resizeCanvas();
     window.addEventListener('resize', () => this.resizeCanvas());
 
-    // Prepare Video
-    this.video.currentTime = 0;
-    this.video.pause();
-
-    this.video.addEventListener('loadeddata', () => {
-      this.isLoaded = true;
-      this.renderFrame(0);
-    });
-
-    if (this.video.readyState >= 2) {
-      this.isLoaded = true;
-      this.renderFrame(0);
-    }
-
-    // Bind Phase Nav Buttons if present
+    // Bind Phase Nav Buttons
     const phaseBtns = document.querySelectorAll('.phase-step-btn');
     phaseBtns.forEach((btn, idx) => {
       btn.addEventListener('click', () => {
@@ -178,8 +166,20 @@ export class VideoScrollScrubber {
       });
     });
 
-    // Start Animation Loop
+    // Start 60fps Loop
     this.loop();
+  }
+
+  preloadFrames() {
+    for (let i = 0; i < this.totalFrameCount; i++) {
+      const img = new Image();
+      const numStr = String(i).padStart(3, '0');
+      img.src = `public/assets/video_frames/frame_${numStr}.jpg`;
+      img.onload = () => {
+        this.loadedFramesCount++;
+      };
+      this.frameImages.push(img);
+    }
   }
 
   resizeCanvas() {
@@ -191,9 +191,7 @@ export class VideoScrollScrubber {
     this.ctx.scale(dpr, dpr);
     this.canvasWidth = rect.width;
     this.canvasHeight = rect.height;
-    if (this.isLoaded) {
-      this.renderFrame(this.currentFrameTime);
-    }
+    this.renderCurrentProgress();
   }
 
   scrollToPhase(index) {
@@ -226,49 +224,61 @@ export class VideoScrollScrubber {
   loop() {
     this.targetProgress = this.calculateScrollProgress();
     
-    // Smooth lerp for liquid 60fps scrubbing
-    this.currentProgress += (this.targetProgress - this.currentProgress) * 0.18;
-    this.currentFrameTime = this.currentProgress * this.duration;
-
-    if (this.isLoaded && Math.abs(this.video.currentTime - this.currentFrameTime) > 0.03) {
-      this.video.currentTime = this.currentFrameTime;
-    }
-
-    this.renderFrame(this.currentFrameTime);
-    this.updateHUD(this.currentProgress, this.currentFrameTime);
-
+    // Smooth lerp for liquid 60fps animation
+    this.currentProgress += (this.targetProgress - this.currentProgress) * 0.22;
+    
+    this.renderCurrentProgress();
     requestAnimationFrame(() => this.loop());
   }
 
-  renderFrame(time) {
-    if (!this.ctx || !this.video || !this.canvasWidth || !this.canvasHeight) return;
+  renderCurrentProgress() {
+    const frameIndex = Math.min(
+      this.totalFrameCount - 1,
+      Math.max(0, Math.floor(this.currentProgress * (this.totalFrameCount - 1)))
+    );
 
-    this.ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight);
+    const frameImg = this.frameImages[frameIndex];
 
-    const videoRatio = 1280 / 720;
-    const canvasRatio = this.canvasWidth / this.canvasHeight;
-    let drawW, drawH, drawX, drawY;
+    // Draw frame to canvas if loaded
+    if (frameImg && frameImg.complete && frameImg.naturalWidth > 0) {
+      this.ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight);
+      
+      const imgRatio = frameImg.naturalWidth / frameImg.naturalHeight;
+      const canvasRatio = this.canvasWidth / this.canvasHeight;
+      let drawW, drawH, drawX, drawY;
 
-    if (canvasRatio > videoRatio) {
-      drawW = this.canvasWidth;
-      drawH = this.canvasWidth / videoRatio;
-      drawX = 0;
-      drawY = (this.canvasHeight - drawH) / 2;
-    } else {
-      drawH = this.canvasHeight;
-      drawW = this.canvasHeight * videoRatio;
-      drawX = (this.canvasWidth - drawW) / 2;
-      drawY = 0;
+      if (canvasRatio > imgRatio) {
+        drawW = this.canvasWidth;
+        drawH = this.canvasWidth / imgRatio;
+        drawX = 0;
+        drawY = (this.canvasHeight - drawH) / 2;
+      } else {
+        drawH = this.canvasHeight;
+        drawW = this.canvasHeight * imgRatio;
+        drawX = (this.canvasWidth - drawW) / 2;
+        drawY = 0;
+      }
+
+      this.ctx.drawImage(frameImg, drawX, drawY, drawW, drawH);
+    } else if (this.video && this.video.readyState >= 2) {
+      // Fallback to video element
+      const currentTime = this.currentProgress * this.duration;
+      if (Math.abs(this.video.currentTime - currentTime) > 0.05) {
+        this.video.currentTime = currentTime;
+      }
+      this.ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight);
+      this.ctx.drawImage(this.video, 0, 0, this.canvasWidth, this.canvasHeight);
     }
 
-    this.ctx.drawImage(this.video, drawX, drawY, drawW, drawH);
+    this.updateHUD(this.currentProgress);
   }
 
-  updateHUD(progress, time) {
+  updateHUD(progress) {
     if (this.progressFill) {
       this.progressFill.style.width = `${(progress * 100).toFixed(1)}%`;
     }
 
+    const time = progress * this.duration;
     let currentPhaseIdx = 0;
     for (let i = 0; i < this.phases.length; i++) {
       if (time >= this.phases[i].startTime && time <= this.phases[i].endTime) {
@@ -277,6 +287,7 @@ export class VideoScrollScrubber {
       }
     }
 
+    // Update active nav buttons
     const phaseBtns = document.querySelectorAll('.phase-step-btn');
     phaseBtns.forEach((btn, idx) => {
       if (idx === currentPhaseIdx) {
@@ -293,6 +304,7 @@ export class VideoScrollScrubber {
       if (this.hudPhase && this.hudTitle) {
         this.hudPhase.textContent = phase.badge;
         this.hudTitle.textContent = phase.title;
+        if (this.hudDesc) this.hudDesc.textContent = phase.description;
       }
 
       this.renderHotspot(phase.hotspot);
@@ -320,19 +332,19 @@ export class VideoScrollScrubber {
     if (!this.cardsContainer || !products) return;
 
     this.cardsContainer.innerHTML = products.map(prod => `
-      <div class="video-product-card glass-panel">
-        <div class="card-badge">${prod.badge}</div>
-        <div class="card-img-wrap">
-          <img src="${prod.image}" alt="${prod.name}" class="card-img">
+      <a href="${prod.link}" class="embedded-product-chip">
+        <div class="chip-img-wrap">
+          <img src="${prod.image}" alt="${prod.name}" class="chip-img" onerror="this.src='public/assets/images.webp'">
         </div>
-        <div class="card-content">
-          <h4 class="card-title">${prod.name}</h4>
-          <p class="card-desc">${prod.desc}</p>
-          <a href="${prod.link}" class="card-btn btn-sm btn-primary">
-            Ver Ficha Técnica <ion-icon name="arrow-forward-outline"></ion-icon>
-          </a>
+        <div class="chip-info">
+          <span class="chip-badge">${prod.badge}</span>
+          <h4 class="chip-title">${prod.name}</h4>
+          <p class="chip-desc">${prod.desc}</p>
         </div>
-      </div>
+        <div class="chip-arrow">
+          <ion-icon name="arrow-forward-outline"></ion-icon>
+        </div>
+      </a>
     `).join('');
   }
 }
