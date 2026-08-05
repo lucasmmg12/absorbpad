@@ -108,7 +108,40 @@
   </header>
 
   <main class="main">
-    <!-- Hero Section -->
+    <!-- Interactive Video-Scroll First Page Experience (Intro) -->
+    <div class="video-scroll-wrapper" id="experiencia-minera">
+      <!-- Hidden Video Element for Hardware Canvas Scrubbing -->
+      <video id="scrollVideo" src="public/Miner_tightening_bolt_on_truck_202608051255.mp4" preload="auto" muted playsinline style="display: none;"></video>
+
+      <!-- Sticky Viewport Container -->
+      <div class="sticky-video-box">
+        <!-- Canvas Video Render -->
+        <canvas id="videoScrollCanvas"></canvas>
+        <div class="video-overlay-vignette"></div>
+
+        <!-- Skip Intro Button (Top Right) -->
+        <a href="#inicio" class="video-skip-btn">
+          Saltar Intro <ion-icon name="arrow-forward-outline"></ion-icon>
+        </a>
+
+        <!-- Dynamic Hotspots Layer (Pulsing targets directly on video objects) -->
+        <div id="videoHotspotsContainer" class="video-hotspots-layer"></div>
+
+        <!-- Minimalist Cinematic Text Overlay (Pure floating typography) -->
+        <div class="cinematic-caption-layer">
+          <span class="cinematic-badge" id="videoHudPhase">FASE 01 | YACIMIENTO MINERO</span>
+          <h2 class="cinematic-title" id="videoHudTitle">Protección Integral en Yacimientos</h2>
+        </div>
+
+        <!-- Finish Video CTA (Appears when video finishes) -->
+        <a href="#inicio" class="video-finish-cta" id="videoFinishCta">
+          <span>Ingresar al Sitio Web</span>
+          <ion-icon name="chevron-down-outline"></ion-icon>
+        </a>
+      </div>
+    </div>
+
+    <!-- Hero Section (Página Principal) -->
     <section class="hero" id="inicio">
       <div class="hero-bg" style="background-image: url('public/assets/HC.webp');">
         <div class="hero-overlay"></div>
@@ -192,28 +225,6 @@
           <div class="section-line"></div>
           <p class="section-subtitle">Sistemas de respuesta rápida y prevención diseñados para la industria
             pesada.</p>
-        </div>
-
-        <!-- Interactive Video-Scroll Product Experience Section -->
-        <div class="video-scroll-wrapper" id="experiencia-minera">
-          <!-- Hidden Video Element for Hardware Canvas Scrubbing -->
-          <video id="scrollVideo" src="public/Miner_tightening_bolt_on_truck_202608051255.mp4" preload="auto" muted playsinline style="display: none;"></video>
-
-          <!-- Sticky Viewport Container -->
-          <div class="sticky-video-box">
-            <!-- Canvas Video Render -->
-            <canvas id="videoScrollCanvas"></canvas>
-            <div class="video-overlay-vignette"></div>
-
-            <!-- Dynamic Hotspots Layer (Pulsing targets directly on video objects) -->
-            <div id="videoHotspotsContainer" class="video-hotspots-layer"></div>
-
-            <!-- Minimalist Cinematic Text Overlay (Pure floating typography without dark boxes) -->
-            <div class="cinematic-caption-layer">
-              <span class="cinematic-badge" id="videoHudPhase">FASE 01 | YACIMIENTO MINERO</span>
-              <h2 class="cinematic-title" id="videoHudTitle">Protección Integral en Yacimientos</h2>
-            </div>
-          </div>
         </div>
 
         <div class="tabs-container animate-card">

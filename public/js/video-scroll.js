@@ -1,8 +1,8 @@
 /**
  * Absorbpad - Minimalist Cinematic Video Scroll Scrubber
- * 60 FPS Apple-Grade Fullscreen Frame Sequence Scrubber
+ * 60 FPS Apple-Grade Fullscreen Frame Sequence Scrubber (Intro First Page)
  * Renders pure fullscreen video with dynamic floating typography and pulsing hotspots.
- * NO static boxes, NO dark container cards.
+ * Controls transition to main website when video reaches 100% or when Skip Intro is clicked.
  */
 
 export class VideoScrollScrubber {
@@ -14,6 +14,8 @@ export class VideoScrollScrubber {
     this.hudPhase = document.querySelector(options.hudPhase || '#videoHudPhase');
     this.hudTitle = document.querySelector(options.hudTitle || '#videoHudTitle');
     this.hotspotsContainer = document.querySelector(options.hotspotsContainer || '#videoHotspotsContainer');
+    this.finishCta = document.querySelector(options.finishCta || '#videoFinishCta');
+    this.skipBtn = document.querySelector(options.skipBtn || '.video-skip-btn');
 
     if (!this.wrapper || !this.canvas) {
       console.warn('VideoScrollScrubber: Required DOM elements not found.');
@@ -97,6 +99,19 @@ export class VideoScrollScrubber {
     this.preloadFrames();
     this.resizeCanvas();
     window.addEventListener('resize', () => this.resizeCanvas());
+
+    // Bind Smooth Scroll to website hero for Skip & Finish CTA
+    [this.skipBtn, this.finishCta].forEach(btn => {
+      if (btn) {
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          const target = document.querySelector('#inicio');
+          if (target) {
+            target.scrollIntoView({ behavior: 'smooth' });
+          }
+        });
+      }
+    });
 
     // Start 60fps Loop
     this.loop();
@@ -193,6 +208,16 @@ export class VideoScrollScrubber {
 
   updateHUD(progress) {
     const time = progress * this.duration;
+
+    // Show finish CTA near the end of video (80%+ progress)
+    if (this.finishCta) {
+      if (progress >= 0.80) {
+        this.finishCta.classList.add('active');
+      } else {
+        this.finishCta.classList.remove('active');
+      }
+    }
+
     let currentPhaseIdx = 0;
     for (let i = 0; i < this.phases.length; i++) {
       if (time >= this.phases[i].startTime && time <= this.phases[i].endTime) {
