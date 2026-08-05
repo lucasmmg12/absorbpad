@@ -2152,3 +2152,449 @@ img {
         grid-template-columns: 1fr !important;
     }
 }
+
+/* ==========================================================================
+   INTERACTIVE VIDEO SCROLL SCRUBBER & PRODUCT EXPERIENCE
+   ========================================================================== */
+.video-scroll-wrapper {
+    position: relative;
+    width: 100%;
+    height: 320vh; /* 3.2x viewport scroll track for smooth video progression */
+    margin: 2.5rem 0 4rem;
+    background-color: #0b0f19;
+    border-radius: 20px;
+}
+
+.sticky-video-box {
+    position: sticky;
+    top: 70px;
+    width: 100%;
+    height: calc(100vh - 90px);
+    max-height: 820px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #05070d;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.08);
+    display: flex;
+    flex-direction: column;
+}
+
+#videoScrollCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.video-overlay-vignette {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at center, transparent 40%, rgba(5, 7, 13, 0.8) 100%),
+                linear-gradient(to bottom, rgba(5, 7, 13, 0.6) 0%, transparent 20%, transparent 70%, rgba(5, 7, 13, 0.9) 100%);
+    pointer-events: none;
+    z-index: 2;
+}
+
+/* Phase Navigation Bar */
+.video-phase-nav-container {
+    position: absolute;
+    top: 1.25rem;
+    left: 1.5rem;
+    right: 1.5rem;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    background: rgba(11, 15, 25, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 14px;
+    padding: 0.85rem 1.2rem;
+}
+
+.phase-nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.phase-brand {
+    color: #F9D423;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.scroll-prompt {
+    color: #94A3B8;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+}
+
+.phase-steps-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.6rem;
+}
+
+.phase-step-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 0.45rem 0.6rem;
+    color: #CBD5E1;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: left;
+}
+
+.phase-step-btn:hover {
+    background: rgba(249, 212, 35, 0.15);
+    border-color: rgba(249, 212, 35, 0.4);
+    color: #FFF;
+}
+
+.phase-step-btn.active {
+    background: linear-gradient(135deg, rgba(249, 212, 35, 0.25), rgba(46, 139, 152, 0.3));
+    border-color: #F9D423;
+    color: #FFF;
+    box-shadow: 0 0 15px rgba(249, 212, 35, 0.2);
+}
+
+.phase-step-btn .step-num {
+    font-family: monospace;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #F9D423;
+    opacity: 0.8;
+}
+
+.phase-step-btn .step-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.video-progress-track {
+    width: 100%;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 2px;
+    overflow: hidden;
+    margin-top: 0.2rem;
+}
+
+.video-progress-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #F9D423, #2E8B98, #FF2A4B);
+    border-radius: 2px;
+    transition: width 0.1s linear;
+}
+
+/* Hotspots Canvas Layer */
+.video-hotspots-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    pointer-events: none;
+}
+
+.video-hotspot-pin {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    pointer-events: auto;
+    cursor: pointer;
+    z-index: 6;
+}
+
+.video-hotspot-pin .pulse-ring {
+    position: absolute;
+    top: -16px;
+    left: -16px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 2px solid #F9D423;
+    animation: hotspotPulse 1.8s infinite ease-out;
+}
+
+.video-hotspot-pin .center-dot {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #F9D423;
+    box-shadow: 0 0 15px rgba(249, 212, 35, 0.8), 0 0 0 3px rgba(255, 255, 255, 0.9);
+}
+
+.hotspot-tooltip {
+    position: absolute;
+    bottom: calc(100% + 12px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(11, 15, 25, 0.9);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(249, 212, 35, 0.5);
+    border-radius: 8px;
+    padding: 0.5rem 0.8rem;
+    white-space: nowrap;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+    animation: tooltipFade 0.4s ease-out;
+}
+
+.hotspot-tooltip .tooltip-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: #F9D423;
+    letter-spacing: 0.5px;
+}
+
+.hotspot-tooltip .tooltip-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #FFF;
+}
+
+@keyframes hotspotPulse {
+    0% { transform: scale(0.5); opacity: 1; }
+    100% { transform: scale(1.6); opacity: 0; }
+}
+
+@keyframes tooltipFade {
+    from { opacity: 0; transform: translate(-50%, 8px); }
+    to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+/* Glassmorphic HUD Overlay & Cards */
+.video-hud-overlay {
+    position: absolute;
+    bottom: 1.5rem;
+    left: 1.5rem;
+    right: 1.5rem;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    pointer-events: none;
+}
+
+.hud-header-panel {
+    pointer-events: auto;
+    background: rgba(11, 15, 25, 0.8);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    padding: 0.85rem 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    max-width: fit-content;
+}
+
+.hud-badge {
+    font-size: 0.72rem;
+    font-weight: 800;
+    color: #2E8B98;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.hud-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #FFF;
+    margin: 0;
+}
+
+.hud-products-grid {
+    pointer-events: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+    max-height: 280px;
+}
+
+.video-product-card {
+    position: relative;
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 14px;
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    animation: cardSlideUp 0.4s ease-out;
+}
+
+.video-product-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(249, 212, 35, 0.6);
+    box-shadow: 0 15px 35px rgba(249, 212, 35, 0.15);
+}
+
+.video-product-card .card-badge {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.6rem;
+    font-size: 0.65rem;
+    font-weight: 700;
+    background: rgba(249, 212, 35, 0.2);
+    color: #F9D423;
+    border: 1px solid rgba(249, 212, 35, 0.4);
+    padding: 0.15rem 0.45rem;
+    border-radius: 4px;
+}
+
+.video-product-card .card-img-wrap {
+    width: 75px;
+    height: 75px;
+    flex-shrink: 0;
+    background: #000;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-product-card .card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.video-product-card .card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    flex-grow: 1;
+}
+
+.video-product-card .card-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #FFF;
+    margin: 0;
+    line-height: 1.25;
+}
+
+.video-product-card .card-desc {
+    font-size: 0.78rem;
+    color: #94A3B8;
+    margin: 0;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.video-product-card .card-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 6px;
+    margin-top: 0.2rem;
+    width: fit-content;
+}
+
+@keyframes cardSlideUp {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Mobile Responsiveness for Video Scroller */
+@media screen and (max-width: 768px) {
+    .video-scroll-wrapper {
+        height: 280vh;
+        border-radius: 12px;
+    }
+
+    .sticky-video-box {
+        height: calc(100vh - 80px);
+        border-radius: 12px;
+    }
+
+    .video-phase-nav-container {
+        top: 0.8rem;
+        left: 0.8rem;
+        right: 0.8rem;
+        padding: 0.6rem 0.8rem;
+    }
+
+    .phase-steps-bar {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.4rem;
+    }
+
+    .phase-step-btn {
+        padding: 0.35rem 0.5rem;
+    }
+
+    .phase-step-btn .step-title {
+        font-size: 0.72rem;
+    }
+
+    .video-hud-overlay {
+        bottom: 0.8rem;
+        left: 0.8rem;
+        right: 0.8rem;
+        gap: 0.6rem;
+    }
+
+    .hud-header-panel {
+        padding: 0.6rem 0.9rem;
+    }
+
+    .hud-title {
+        font-size: 0.95rem;
+    }
+
+    .hud-products-grid {
+        grid-template-columns: 1fr;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+
+    .video-product-card {
+        padding: 0.75rem;
+    }
+
+    .video-product-card .card-img-wrap {
+        width: 60px;
+        height: 60px;
+    }
+}
+
